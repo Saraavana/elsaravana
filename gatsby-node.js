@@ -1,5 +1,7 @@
 const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
+const slugify = require('@sindresorhus/slugify')
+
 
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions
@@ -57,10 +59,25 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 
   if (node.internal.type === `MarkdownRemark`) {
     const value = createFilePath({ node, getNode })
+    let slug = value;
+
+    console.log(`node.fileAbsolutePath -> ${node.fileAbsolutePath}`)
+    console.log(`node.frontmatter.slug -> ${node.frontmatter.slug}`)
+
+    if (node.fileAbsolutePath.includes('content/blog/')) {
+
+      if(node.frontmatter.slug){
+        slug = `blog/${node.frontmatter.slug}`
+      }
+
+      slug = `blog${createFilePath({ node, getNode, basePath: `content/blog` })}`
+    }
+
+
     createNodeField({
       name: `slug`,
       node,
-      value,
+      value:slug,
     })
   }
 }
