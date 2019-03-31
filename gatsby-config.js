@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `nesin.io`,
-    author: `Ashik Nesin`,
+    title: `elsaravana.com`,
+    author: `Saravanakumar G`,
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://nesin.io`,
+    siteUrl: `https://elsaravana.com`,
     social: {
-      twitter: `AshikNesin`,
+      twitter: `elsaravana`,
     },
   },
   plugins: [
