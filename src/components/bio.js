@@ -38,11 +38,19 @@ function Bio() {
               }}
             />
             <p>
-              Hi, I am <strong>{author}</strong>. Passionate iOS engineer, who build apps that makes people life better. Likes to learn new technologies and sharing my knowledge.
+              Hi, I am <strong>{author}</strong>. Passionate iOS engineer, who build apps that makes people life better. Likes to learn new technologies and to share my knowledge.
               {` `}
               Follow me:
               <a href={`https://twitter.com/${social.twitter}`}>
                 Twitter
+              </a>
+              , 
+              <a href={`https://www.linkedin.com/in/saravanakumar-g-4717929b/`}>
+                LinkedIn
+              </a>
+              &
+              <a href={`https://github.com/Saraavana`}>
+                GitHub
               </a>
             </p>
           </div>
@@ -56,7 +64,7 @@ const bioQuery = graphql`
   query BioQuery {
     avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
       childImageSharp {
-        fixed(width: 50, height: 50) {
+        fixed(width: 150, height: 150) {
           ...GatsbyImageSharpFixed
         }
       }
