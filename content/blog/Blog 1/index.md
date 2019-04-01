@@ -1,12 +1,3 @@
-
----
-title: iOS Memory Allocation
-date: "2019-03-10T22:12:03.284Z"
-slug: 2018-in-review
-description: iOS Memory Allocation
-
----
-
 # iOS Memory Allocation:
 
 The Virtual Memory manager creates a logical address space (or “virtual” address space) for each process and divides it up into uniformly-sized chunks of memory called **pages**. 
@@ -58,6 +49,6 @@ Sometimes compressor complicates freeing memory. _NSCache_ is thread safe, can b
 - Applications will have fairly high memory footprint limits whereas Extensions will have much lower limit. 
 - EXC_RESOURCE_EXCEPTION will occur if footprint limit is exceeded.
 
-[pic1]: Images/blog1_pic1.png
-[pic2]: Images/blog1_pic2.png
-[pic3]: Images/blog1_pic3.png
+[pic1]: ./Images/blog1_pic1.png
+[pic2]: ./Images/blog1_pic2.png
+[pic3]: ./Images/blog1_pic3.png

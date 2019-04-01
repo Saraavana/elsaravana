@@ -50,7 +50,7 @@ A sample downsampling example is as follows,
 
 By performing optimization using the downsampling technique we can drastically reduce the memory consumed by the image, which in turn will improve the performance of the app. 
 
-[pic1]: Images/blog4_pic1.png
-[pic2]: Images/blog4_pic2.png
-[pic3]: Images/blog4_pic3.png
-[pic4]: Images/blog4_pic4.png
+[pic1]: ./Images/blog4_pic1.png
+[pic2]: ./Images/blog4_pic2.png
+[pic3]: ./Images/blog4_pic3.png
+[pic4]: ./Images/blog4_pic4.png

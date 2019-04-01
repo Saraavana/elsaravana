@@ -94,4 +94,4 @@ Images should be loaded only if the app presents the image. Unload the images wh
 Also unload images using _UIViewController_ lifecycle methods such as 
 _viewWillAppear_ and _viewDidDisappear_.
 
-[pic1]: Images/blog3_pic1.png
+[pic1]: ./Images/blog3_pic1.png

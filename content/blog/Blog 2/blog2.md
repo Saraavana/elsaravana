@@ -98,6 +98,6 @@ To use malloc_history command line tool, malloc stack tracking should be enabled
 
 From the backtrace, the function/class which causes the huge memory allocation can be identified and managed better.
 
-[pic1]: Images/blog2_pic1.png
-[pic2]: Images/blog2_pic2.png
-[pic3]: Images/blog2_pic3.png
+[pic1]: ./Images/blog2_pic1.png
+[pic2]: ./Images/blog2_pic2.png
+[pic3]: ./Images/blog2_pic3.png
