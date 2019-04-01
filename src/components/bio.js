@@ -38,10 +38,11 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in Chennai building useful things.
+              Hi, I am <strong>{author}</strong>. Passionate iOS engineer, who build apps that makes people life better. Likes to learn new technologies and sharing my knowledge.
               {` `}
+              Follow me:
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+                Twitter
               </a>
             </p>
           </div>
