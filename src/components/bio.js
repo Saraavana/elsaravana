@@ -30,7 +30,7 @@ function Bio() {
               style={{
                 marginRight: rhythm(1 / 2),
                 marginBottom: 0,
-                minWidth: 50,
+                minWidth: 150,
                 borderRadius: `100%`,
               }}
               imgStyle={{
@@ -40,7 +40,7 @@ function Bio() {
             <p>
               Hi, I am <strong>{author}</strong>. Passionate iOS engineer, who build apps that makes people life better. Likes to learn new technologies and to share my knowledge.
               {` `}
-              Follow me: 
+              Follow me on: 
               <a href={`https://twitter.com/${social.twitter}`}>
                 Twitter
               </a>
