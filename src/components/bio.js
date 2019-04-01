@@ -40,15 +40,15 @@ function Bio() {
             <p>
               Hi, I am <strong>{author}</strong>. Passionate iOS engineer, who build apps that makes people life better. Likes to learn new technologies and to share my knowledge.
               {` `}
-              Follow me:
+              Follow me: 
               <a href={`https://twitter.com/${social.twitter}`}>
                 Twitter
               </a>
-              , 
+              ,  
               <a href={`https://www.linkedin.com/in/saravanakumar-g-4717929b/`}>
                 LinkedIn
               </a>
-              &
+              & 
               <a href={`https://github.com/Saraavana`}>
                 GitHub
               </a>
