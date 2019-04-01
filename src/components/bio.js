@@ -44,13 +44,9 @@ function Bio() {
               <a href={`https://twitter.com/${social.twitter}`}>
                 Twitter
               </a>
-              ,  
+              & 
               <a href={`https://www.linkedin.com/in/saravanakumar-g-4717929b/`}>
                 LinkedIn
-              </a>
-              & 
-              <a href={`https://github.com/Saraavana`}>
-                GitHub
               </a>
             </p>
           </div>
