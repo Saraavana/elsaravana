@@ -1,4 +1,12 @@
 
+---
+title: iOS Memory Allocation
+date: "2019-03-10T22:12:03.284Z"
+slug: 2018-in-review
+description: iOS Memory Allocation
+
+---
+
 # iOS Memory Allocation:
 
 The Virtual Memory manager creates a logical address space (or “virtual” address space) for each process and divides it up into uniformly-sized chunks of memory called **pages**. 
