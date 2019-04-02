@@ -1,4 +1,10 @@
-# iOS Memory Footprint Profiling:
+---
+title: iOS Memory Footprint Profiling
+date: "2019-02-16T22:12:03.284Z"
+slug: ios-memory-footprint-profiling
+description: iOS Memory Footprint Profiling
+
+---
 
 iOS Memory Footprint can be measured by Xcode Memory gauge and can be investigated by Instruments.
 
@@ -33,11 +39,11 @@ Virtual memory trace provides the deep view of performance of virtual memory. It
 
 Once EXC_RESOURCE_EXCEPTION exception occurs the memory allocation can be view from the Memory debugger. Memory Graph Hierarchy can be viewed from the debugger. 
 
-![][pic1]
+![](./images/view-memgraph-hierarchy.png)
 
 To investigate further, the memory graph has to be exported from the project. Memory graph can be exported from _File -> Export Memory graph_
 
-![][pic2]
+![](./images/export-memgraph.png)
 
 Once _abc.memgraph_ is exported. We can investigate it further using XCode command line tools such as _vmmap, leaks, heaps_, _malloc-history_.
 
@@ -54,7 +60,7 @@ Shows virtual memory regions allocated in a process
 
 ##### vmmap and AWK:
 
-`vmmap –page abc.memgraph | grep ‘.dylib’ | awk ‘{ sum += $6 } END { print “Total dirty pages: ”sum} ‘ `
+`vmmap –page abc.memgraph | grep ‘.dylib’ | awk ‘{ sum += $6 } END { print “Total dirty pages: ”sum}‘`
 
 -   The above code prints the total dirty pages of the dynamic library in the app.
 
@@ -67,7 +73,7 @@ Shows objects that are allocated, but no longer referenced and also shows routin
 
 -   If malloc stack logging is enabled in the process, it also shows the backtrace to the root node. Malloc logging can be enabled from _Edit Scheme -> Run -> Diagnostics_
 
-![][pic3]
+![](./images/enable-malloc.png)
 
 #### heap:
 
@@ -97,7 +103,3 @@ To use malloc_history command line tool, malloc stack tracking should be enabled
 -   Provides the backtrace for the given address for instance in memory, if backtrace is captured.
 
 From the backtrace, the function/class which causes the huge memory allocation can be identified and managed better.
-
-[pic1]: ./Images/blog2_pic1.png
-[pic2]: ./Images/blog2_pic2.png
-[pic3]: ./Images/blog2_pic3.png

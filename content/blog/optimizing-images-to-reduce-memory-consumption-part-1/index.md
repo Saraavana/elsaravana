@@ -1,4 +1,10 @@
-# Optimizing images to reduce memory consumption – Part 1:
+---
+title: Optimizing images to reduce memory consumption – Part 1
+date: "2019-03-10T22:12:03.284Z"
+slug: optimizing-images-to-reduce-memory-consumption-part-1
+description: Optimizing images to reduce memory consumption – Part 1
+
+---
 
 The memory usage of the image depends on its dimension (2034*1600) not its file size (600kb)
 
@@ -15,7 +21,7 @@ Memory = 2034 * 1600 * 4 =  **13.02 MB**
 
 In iOS, 3 phases are involved to render an image in app. The phases are Load, Decode & Render
 
-![][pic1]
+![](./images/image-load-lifecycle.png)
 
 ### Load:
 
@@ -93,5 +99,3 @@ Images should be loaded only if the app presents the image. Unload the images wh
 
 Also unload images using _UIViewController_ lifecycle methods such as 
 _viewWillAppear_ and _viewDidDisappear_.
-
-[pic1]: ./Images/blog3_pic1.png

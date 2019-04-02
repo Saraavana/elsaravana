@@ -1,4 +1,10 @@
-# iOS Memory Allocation:
+---
+title: iOS Memory Allocation
+date: "2019-01-25T22:12:03.284Z"
+slug: ios-memory-allocation
+description: iOS Memory Allocation
+
+---
 
 The Virtual Memory manager creates a logical address space (or “virtual” address space) for each process and divides it up into uniformly-sized chunks of memory called **pages**. 
 
@@ -8,14 +14,14 @@ Pages holds multiple object in the heap such as _UIView_, _UILabel_, _String_, _
 
 The memory use of the application depends on the number of pages and its page size.
 
-![][pic1]
+![](./images/memory-in-use.png)
 
 ### Typical memory profile of an app:
 -   Clean memory
 -   Dirty memory
 -   Compressed memory
 
-![][pic2]
+![](./images/memory-types.png)
 
 ### Clean memory:
 
@@ -42,13 +48,9 @@ Sometimes compressor complicates freeing memory. _NSCache_ is thread safe, can b
 
 ### Memory Footprint Limits:
 
-![][pic3]
+![](./images/memory-footprint.png)
 
 - Only Dirty and Compressed memory contributes to high memory footprint. 
 - Limits vary from device to device. 
 - Applications will have fairly high memory footprint limits whereas Extensions will have much lower limit. 
 - EXC_RESOURCE_EXCEPTION will occur if footprint limit is exceeded.
-
-[pic1]: ./Images/blog1_pic1.png
-[pic2]: ./Images/blog1_pic2.png
-[pic3]: ./Images/blog1_pic3.png

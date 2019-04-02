@@ -1,8 +1,14 @@
-# Optimizing images to reduce memory consumption – Part 2:
+---
+title: Optimizing images to reduce memory consumption – Part 2
+date: "2019-03-28T22:12:03.284Z"
+slug: optimizing-images-to-reduce-memory-consumption-part-2
+description: Optimizing images to reduce memory consumption – Part 2
 
-Image rendering pipeline involves Load, Decode and Render as mentioned in [Part 1](http://www.elsaravana.com/).
+---
 
-![][pic1]
+Image rendering pipeline involves Load, Decode and Render as mentioned in [Part 1](/blog/optimizing-images-to-reduce-memory-consumption-part-1).
+
+![](./images/image-load.png)
 
 Rendering is a continuous phase. It is important to consider decoding to measure the performance. Image Buffers retains the pixels of the image while decoding.
 
@@ -24,11 +30,11 @@ Data buffers contains image file. It is buffer which contains the sequences in b
 
 The _UIImageView_ size will be smaller when compared to the UIImage that is required to be render inside it. Usually CoreAnimation will shrink the image into _UIImageView_. By using downsampling we can save memory
 
-![][pic2]
+![](./images/image-buffer.png)
 
 Downsampling shrinks the UIImage and decodes the shrinked image from Image buffer. This shrinked image can be used always to render into _UIImageView_. We can discard the original data buffer of the image, to save the memory.
 
-![][pic3]
+![](./images/downsampling-flow.png)
 
 ``` Swift
 //Downsampling large images for display at smaller size
@@ -46,11 +52,6 @@ Downsampling shrinks the UIImage and decodes the shrinked image from Image buffe
 
 A sample downsampling example is as follows, 
 
-![][pic4]
+![](./images/downsampling-comparison.png)
 
 By performing optimization using the downsampling technique we can drastically reduce the memory consumed by the image, which in turn will improve the performance of the app. 
-
-[pic1]: ./Images/blog4_pic1.png
-[pic2]: ./Images/blog4_pic2.png
-[pic3]: ./Images/blog4_pic3.png
-[pic4]: ./Images/blog4_pic4.png
