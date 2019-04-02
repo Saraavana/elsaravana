@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Saravana`,
     author: `Saravanakumar G`,
-    description: `Articles, tips, tricks, hacks and technical contents about iOS development.`,
+    description: `Articles, tips, tricks, hacks and technical contents about iOS development`,
     siteUrl: `https://elsaravana.com`,
     social: {
       twitter: `elsaravana`,
