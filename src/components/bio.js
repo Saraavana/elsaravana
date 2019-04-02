@@ -49,7 +49,7 @@ function Bio() {
                 LinkedIn
               </a>
               &
-              <a href={`https://medium.com/@sarnaaas`}>
+              <a href={`https://medium.com/@elsaravana`}>
                 Medium
               </a>
             </p>
