@@ -159,7 +159,7 @@ import { StaticQuery } from 'gatsby';
  
 const SEO = ({
   title = null,
-  description = null,
+  // description = null,
 }) => (
   <StaticQuery
     query={graphql`
@@ -167,7 +167,7 @@ const SEO = ({
         site {
           siteMetadata {
             defaultTitle: title
-            defaultDescription: description
+            
           }
         }
       }
@@ -176,19 +176,19 @@ const SEO = ({
       site: {
         siteMetadata: {
           defaultTitle,
-          defaultDescription,
+          // defaultDescription,
         },
       },
     }) => {
       const seo = {
         title: title || defaultTitle,
-        description: description || defaultDescription,
+        // description: description || defaultDescription,
       };
 
       return (
         <>
           <Helmet title={seo.title}>
-            <meta name="description" content={seo.description} />
+            // <meta name="description" content={seo.description} />
           </Helmet>
         </>
       );
@@ -199,9 +199,6 @@ const SEO = ({
 SEO.propTypes = {
   title: PropTypes.string,
   description: PropTypes.string,
-  image: PropTypes.string,
-  pathname: PropTypes.string,
-  article: PropTypes.bool,
 };
 
 export default SEO;
