@@ -198,7 +198,6 @@ const SEO = ({
 
 SEO.propTypes = {
   title: PropTypes.string,
-  description: PropTypes.string,
 };
 
 export default SEO;

@@ -2,7 +2,6 @@ module.exports = {
   siteMetadata: {
     title: `Saravana`,
     author: `Saravanakumar G`,
-    description: `Articles, tips, tricks, hacks and technical contents about iOS development`,
     siteUrl: `https://elsaravana.com`,
     social: {
       twitter: `elsaravana`,
@@ -55,16 +54,16 @@ module.exports = {
     },
     `gatsby-plugin-feed`,
     {
-      // resolve: `gatsby-plugin-manifest`,
-      // options: {
-      //   // name: `Gatsby Starter Blog`,
-      //   // short_name: `GatsbyJS`,
-      //   start_url: `/`,
-      //   background_color: `#ffffff`,
-      //   theme_color: `#663399`,
-      //   display: `minimal-ui`,
-      //   icon: `content/assets/gatsby-icon.png`,
-      // },
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Gatsby Starter Blog`,
+        short_name: `GatsbyJS`,
+        start_url: `/`,
+        background_color: `#ffffff`,
+        theme_color: `#663399`,
+        display: `minimal-ui`,
+        icon: `content/assets/gatsby-icon.png`,
+      },
     },
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
