@@ -9,58 +9,6 @@
 // import PropTypes from "prop-types"
 // import Helmet from "react-helmet"
 // import { useStaticQuery, graphql } from "gatsby"
-// // import { StaticQuery, graphql } from "gatsby"
-
-
-// const SEOO = ({title,description}) => (
-//   <useStaticQuery
-//   query={queryy}
-//   render={({
-//     site: {
-//       siteMetadata : {
-//         title,
-//         description,
-//       }
-//     }
-//   }) => {
-//     const seoo = {
-//       title: title || defaultTitle,
-//       description: description || defaultDescription,
-//     };
-//     return (
-//       <>
-//       <Helmet title={seoo.title}>
-//       <meta name="description" content={seoo.description}/>
-//       </Helmet>
-//       )
-//   }}
-//   />
-//   )
-
-// export default SEOO;
-
-// SEOO.propTypes = {
-//   title = PropTypes.string,
-//   description = PropTypes.string,
-// };
-
-// SEOO.defaultProps = {
-//   title = null,
-//   defaultProps = null,
-// };
-
-
-// const queryy =  graphql`
-// query SEOO {
-//   site {
-//     siteMetadata {
-//       title
-//       description
-//     }
-//   }
-// }
-// `;
-
 
 
 // // function SEO({ description, lang, meta, keywords, title }) {
