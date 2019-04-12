@@ -38,20 +38,9 @@ function Bio() {
               }}
             />
             <p>
-              Hi, I am <strong>{author}</strong>. Passionate iOS engineer, who build apps that makes people life better. Likes to learn new technologies and to share my knowledge.
+              Hi, I am <strong>{author}</strong>. Passionate iOS engineer, who builds apps that makes peoples' life better. Likes to learn new technologies and to share my knowledge.
               {` `}
-              Follow me on: 
-              <a href={`https://twitter.com/${social.twitter}`}>
-                Twitter
-              </a>
-              ,  
-              <a href={`https://www.linkedin.com/in/saravanakumar-g-4717929b/`}>
-                LinkedIn
-              </a>
-              &
-              <a href={`https://medium.com/@elsaravana`}>
-                Medium
-              </a>
+              Follow me on: <a href={`https://twitter.com/${social.twitter}`}>Twitter</a>, <a href={`https://www.linkedin.com/in/saravanakumar-g-4717929b/`}>LinkedIn</a> & <a href={`https://medium.com/@elsaravana`}>Medium</a>
             </p>
           </div>
         )
