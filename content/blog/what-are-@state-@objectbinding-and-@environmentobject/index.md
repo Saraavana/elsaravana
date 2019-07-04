@@ -63,7 +63,7 @@ struct ContentView:View {
 ``` 
 
 ### @ObjectBinding
-If instance of struct is created and used across multiple view, each view will have it's own unique copy of the struct. So if one view changes it's property value, other views will not change the same property value. This is lead us to have different states for the same data.
+If instance of struct is created and used across multiple view, each view will have it's own unique copy of the struct. So if one view changes it's property value, other views will not change the same property value. This lead us to have different states for the same data.
 
 SwiftUI enables us to maintain shared state across multiple views using `@ObjectBinding` property wrapper. It will allow changes to the property and also notifies/watches other parts when property is changed. It can be achieved by using `Combine` framework.
 
