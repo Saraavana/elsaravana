@@ -13,7 +13,7 @@ Combine framework is used to perform asynchronous tasks by using event-processin
 
 
 ### Publishers
-Publishers are similar to Observables in RxSwift. A publisher exposes values that changes in run time to its subscribers. Let's look at below example to understand better,
+Publishers are similar to Observables in RxSwift. A publisher expose values that changes in run time to its subscribers. Let's look at below example to understand better,
 ``` Swift
 import Combine
 
