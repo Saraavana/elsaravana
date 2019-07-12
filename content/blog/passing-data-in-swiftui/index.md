@@ -8,7 +8,7 @@ description: We will look into how we can pass data across views in SwiftUI...
 
 Data plays a vital part in maintaining different states of our app. Using these data, SwiftUI allows us to handle various states easily.
 
-### Get Data from Local Storage/Model
+### Retrieve data from Local Storage/Model
 
 Let's consider the below model layer to retrieve and show profile information of a user and update his personal data.
 ``` Swift
