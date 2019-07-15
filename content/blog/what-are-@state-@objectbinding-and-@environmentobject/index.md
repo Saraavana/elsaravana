@@ -97,7 +97,8 @@ The class must confirm to protocol `BindableObject` to use didChange property th
 
 ### @EnvironmentObject
 
-![](./images/environment.png)
+<!-- ![](./images/environment.png) -->
+![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209821/elsaravana/what-are-%40state-%40objectbinding-and-%40environmentobject/images/environment_mwj26a.png)
 
 `@EnvironmentObject` property wrapper allows us to maintain a shared object globally, which means we can add shared object into environment that can be accessed by any view/screen. It also allow two-way binding similar to `@ObjectBinding`. If one view changes an environmentObject, all other views using that object will be notified and their view gets updated.   
 ```Swift

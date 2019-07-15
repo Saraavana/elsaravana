@@ -8,7 +8,8 @@ description: Optimizing images to reduce memory consumption – Part 2
 
 Image rendering pipeline involves Load, Decode and Render as mentioned in [Part 1](/blog/optimizing-images-to-reduce-memory-consumption-part-1).
 
-![](./images/image-load.png)
+<!-- ![](./images/image-load.png) -->
+![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209491/elsaravana/optimizing-images-to-reduce-memory-consumption-part-2/images/image-load_xqbtr2.png)
 
 Rendering is a continuous phase. It is important to consider decoding to measure the performance. Image Buffers retains the pixels of the image while decoding.
 
@@ -30,11 +31,13 @@ Data buffers contains image file. It is buffer which contains the sequences in b
 
 The _UIImageView_ size will be smaller when compared to the UIImage that is required to be render inside it. Usually CoreAnimation will shrink the image into _UIImageView_. By using downsampling we can save memory
 
-![](./images/image-buffer.png)
+<!-- ![](./images/image-buffer.png) -->
+![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209491/elsaravana/optimizing-images-to-reduce-memory-consumption-part-2/images/image-buffer_qsy7al.png)
 
 Downsampling shrinks the UIImage and decodes the shrinked image from Image buffer. This shrinked image can be used always to render into _UIImageView_. We can discard the original data buffer of the image, to save the memory.
 
-![](./images/downsampling-flow.png)
+<!-- ![](./images/downsampling-flow.png) -->
+![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209491/elsaravana/optimizing-images-to-reduce-memory-consumption-part-2/images/downsampling-flow_wvtvab.png)
 
 ``` Swift
 //Downsampling large images for display at smaller size
@@ -52,6 +55,7 @@ Downsampling shrinks the UIImage and decodes the shrinked image from Image buffe
 
 A sample downsampling example is as follows, 
 
-![](./images/downsampling-comparison.png)
+<!-- ![](./images/downsampling-comparison.png) -->
+![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209490/elsaravana/optimizing-images-to-reduce-memory-consumption-part-2/images/downsampling-comparison_hxxm38.png)
 
 By performing optimization using the downsampling technique we can drastically reduce the memory consumed by the image, which in turn will improve the performance of the app. 

@@ -39,11 +39,13 @@ Virtual memory trace provides the deep view of performance of virtual memory. It
 
 Once EXC_RESOURCE_EXCEPTION exception occurs the memory allocation can be view from the Memory debugger. Memory Graph Hierarchy can be viewed from the debugger. 
 
-![](./images/view-memgraph-hierarchy.png)
+<!-- ![](./images/view-memgraph-hierarchy.png) -->
+![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209752/elsaravana/ios-memory-footprint-profiling/images/view-memgraph-hierarchy_ozngpy.png)
 
 To investigate further, the memory graph has to be exported from the project. Memory graph can be exported from _File -> Export Memory graph_
 
-![](./images/export-memgraph.png)
+<!-- ![](./images/export-memgraph.png) -->
+![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209752/elsaravana/ios-memory-footprint-profiling/images/export-memgraph_lqr84d.png)
 
 Once _abc.memgraph_ is exported. We can investigate it further using XCode command line tools such as _vmmap, leaks, heaps_, _malloc-history_.
 
@@ -73,7 +75,8 @@ Shows objects that are allocated, but no longer referenced and also shows routin
 
 -   If malloc stack logging is enabled in the process, it also shows the backtrace to the root node. Malloc logging can be enabled from _Edit Scheme -> Run -> Diagnostics_
 
-![](./images/enable-malloc.png)
+<!-- ![](./images/enable-malloc.png) -->
+![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209751/elsaravana/ios-memory-footprint-profiling/images/enable-malloc_rqaczk.png)
 
 #### heap:
 

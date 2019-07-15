@@ -21,7 +21,8 @@ Memory = 2034 * 1600 * 4 =  **13.02 MB**
 
 In iOS, 3 phases are involved to render an image in app. The phases are Load, Decode & Render
 
-![](./images/image-load-lifecycle.png)
+<!-- ![](./images/image-load-lifecycle.png) -->
+![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209421/elsaravana/optimizing-images-to-reduce-memory-consumption-part-1/images/image-load-lifecycle_oyw9az.png)
 
 ### Load:
 

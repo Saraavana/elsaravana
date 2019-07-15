@@ -14,14 +14,16 @@ Pages holds multiple object in the heap such as _UIView_, _UILabel_, _String_, _
 
 The memory use of the application depends on the number of pages and its page size.
 
-![](./images/memory-in-use.png)
+<!-- ![](./images/memory-in-use.png) -->
+![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209686/elsaravana/ios-memory-allocation/images/memory-in-use_bxvubu.png)
 
 ### Typical memory profile of an app:
 -   Clean memory
 -   Dirty memory
 -   Compressed memory
 
-![](./images/memory-types.png)
+<!-- ![](./images/memory-types.png) -->
+![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209685/elsaravana/ios-memory-allocation/images/memory-types_ucddca.png)
 
 ### Clean memory:
 
@@ -48,7 +50,8 @@ Sometimes compressor complicates freeing memory. _NSCache_ is thread safe, can b
 
 ### Memory Footprint Limits:
 
-![](./images/memory-footprint.png)
+<!-- ![](./images/memory-footprint.png) -->
+![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209685/elsaravana/ios-memory-allocation/images/memory-footprint_zp9p7k.png)
 
 - Only Dirty and Compressed memory contributes to high memory footprint. 
 - Limits vary from device to device. 

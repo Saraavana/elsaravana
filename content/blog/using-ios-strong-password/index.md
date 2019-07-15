@@ -19,7 +19,8 @@ passwordTxtField.contentType = .newPassword
 
 This strong passwords are usually 20 characters long. It can contains more than 71 bits of entropy. By default, password generation rule includes _lowercase, uppercase, digits, hypen_ 
 
-![](./images/strong-password.png)
+<!-- ![](./images/strong-password.png) -->
+![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209632/elsaravana/using-ios-strong-password/images/strong-password_jciz7w.png)
 
 The password generation rules can be customized for your app. The rule can be created and validated from [Password rules validation tool](https://developer.apple.com/password-rules/) 
 
