@@ -1,6 +1,6 @@
 ---
 title: Passing Data in SwiftUI
-date: "2019-07-15T20:12:03.284Z"
+date: "2019-07-16T20:12:03.284Z"
 slug: passing-data-in-SwiftUI
 description: We will look into how we can pass data across views in SwiftUI...
 
