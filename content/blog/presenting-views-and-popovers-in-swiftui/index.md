@@ -81,7 +81,7 @@ struct ParentView: View {
 }
 ```
 
-#### Modal & Popover
+### Modal & Popover
 Modal and Popover can also be presented using *Boolean* and *Optional Identifiable* binding. Modals can be presented using *sheet* modifier. Modals creates the content view from the closure and also contains an optional *onDismiss* closure, which gets called when view dismisses. 
 ``` Swift
 import SwiftUI
@@ -135,4 +135,4 @@ struct MasterView: View {
     }
 }
 ```
-When PopOver/Modal view is dismissed, the binding changes to its initial value.  
+When PopOver/Modal view is dismissed, the *binding* resets to it's initial value.  
