@@ -1,7 +1,7 @@
 ---
-title: Utility extensions for Equatable
+title: Utility extensions using Equatable
 date: "2019-08-18T22:12:03.284Z"
-slug: utility-extensions-for-equatable
+slug: utility-extensions-using-equatable
 description: Describes various utilites functions using Equatable...
 
 ---
