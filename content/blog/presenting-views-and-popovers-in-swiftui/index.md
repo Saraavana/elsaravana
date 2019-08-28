@@ -1,6 +1,6 @@
 ---
 title: Presenting Views and Popovers in SwiftUI
-date: "2019-08-25T18:12:03.284Z"
+date: "2019-08-28T18:12:03.284Z"
 slug: presenting-views-and-popovers-in-swiftui
 description: We will discuss about how to present different views, modals, popovers...
 
