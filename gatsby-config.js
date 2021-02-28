@@ -6,12 +6,12 @@
 
 module.exports = {
   siteMetadata: {
-    title: "WebDev Portfolio",
-    description: "This is WebDev Portfolio Site",
-    author: "@webdev",
-    twitterUsername: "@john_smilga",
+    title: "Saravana",
+    description: "A student, professional engineer specialized in Machine Learning, Computer vision, data related solutions and meticulous in Mobile, Web and AR/VR application development  ",
+    author: "@elsaravana",
+    twitterUsername: "@elsaravana",
     image: "/twitter-img.png",
-    siteUrl: "https://testing-strapi-gatsby-build.netlify.app",
+    siteUrl: "https://elsaravana.com",
   },
   plugins: [
     `gatsby-transformer-sharp`,
@@ -28,7 +28,9 @@ module.exports = {
     {
       resolve: `gatsby-source-strapi`,
       options: {
-        apiURL: `http://localhost:1337`,
+        // Production URL - 'https://elsaravana-api.herokuapp.com' 
+        // Local URL - 'http://localhost:1337'
+        apiURL: 'https://elsaravana-api.herokuapp.com',
         queryLimit: 1000, // Default to 100
         //   contentTypes : `jobs`, `projects`, `blogs`,
         //   singleType : `about`
