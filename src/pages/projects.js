@@ -39,8 +39,4 @@ export const query = graphql`
     }
   }
 `
-
-
-
-
 export default ProjectsPage

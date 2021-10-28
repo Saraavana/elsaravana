@@ -31,6 +31,7 @@ module.exports = {
         // Production URL - 'https://elsaravana-api.herokuapp.com' 
         // Local URL - 'http://localhost:1337'
         apiURL: 'https://elsaravana-api.herokuapp.com',
+        // apiURL: `http://localhost:1337`,
         queryLimit: 1000, // Default to 100
         //   contentTypes : `jobs`, `projects`, `blogs`,
         //   singleType : `about`
