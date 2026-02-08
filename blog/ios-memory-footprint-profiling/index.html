@@ -1,0 +1,89 @@
+<!DOCTYPE html><html lang="en"> <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width"><meta name="description" content="iOS Memory Footprint Profiling"><meta name="image" content="https://elsaravana.com/elsaravana/_astro/twitter-img.D1uy-G6L.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:creator" content="@elsaravana"><meta name="twitter:title" content="iOS Memory Footprint Profiling | Saravana"><meta name="twitter:description" content="iOS Memory Footprint Profiling"><meta name="twitter:image" content="https://elsaravana.com/elsaravana/_astro/twitter-img.D1uy-G6L.png"><meta property="og:type" content="website"><meta property="og:title" content="iOS Memory Footprint Profiling | Saravana"><meta property="og:description" content="iOS Memory Footprint Profiling"><meta property="og:image" content="https://elsaravana.com/elsaravana/_astro/twitter-img.D1uy-G6L.png"><meta property="og:url" content="https://elsaravana.com/elsaravana/blog/ios-memory-footprint-profiling/"><link rel="canonical" href="https://elsaravana.com/elsaravana/blog/ios-memory-footprint-profiling/"><link rel="icon" type="image/svg+xml" href="/elsaravana/_astro/logo.CAHhAcSj.svg"><title>iOS Memory Footprint Profiling | Saravana</title><link rel="stylesheet" href="/elsaravana/_astro/about.mII25fH6.css"></head> <body> <nav class="navbar"> <div class="nav-center"> <div class="nav-header"> <button type="button" class="toggle-btn" aria-label="Open menu" data-sidebar-open> <svg class="icon-sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 6h18"></path><path d="M3 12h18"></path><path d="M3 18h18"></path></svg> </button> </div> <ul class="page-links nav-links"> <li> <a href="/">home</a> </li><li> <a href="/about/">about</a> </li><li> <a href="/projects/">projects</a> </li><li> <a href="/blog/">blog</a> </li><li> <a href="/contact/">contact</a> </li> </ul> </div> </nav> <aside class="sidebar" data-sidebar> <button class="close-btn" aria-label="Close menu" data-sidebar-close> <svg class="icon-md" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 6 6 18"></path><path d="m6 6 12 12"></path></svg> </button> <div class="side-container"> <ul class="page-links sidebar-links"> <li> <a href="/">home</a> </li><li> <a href="/about/">about</a> </li><li> <a href="/projects/">projects</a> </li><li> <a href="/blog/">blog</a> </li><li> <a href="/contact/">contact</a> </li> </ul> <ul class="social-links sidebar-icons"> <li> <a href="https://www.linkedin.com/in/saravanakumar-gopalakrishnan-4717929b/" class="social-link" target="_blank" rel="noreferrer" aria-label="LinkedIn"> <svg class="social-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M4.98 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5ZM3 9h4v12H3V9Zm7 0h3.84v1.64h.06c.53-1 1.82-2.05 3.75-2.05 4 0 4.75 2.63 4.75 6.06V21h-4v-5.57c0-1.33-.02-3.04-1.85-3.04-1.86 0-2.15 1.45-2.15 2.95V21h-4V9Z"></path></svg> </a> </li><li> <a href="https://twitter.com/elsaravana" class="social-link" target="_blank" rel="noreferrer" aria-label="Twitter"> <svg class="social-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.901 1.153h3.68l-8.04 9.19 9.48 12.504h-7.426l-5.817-7.6-6.653 7.6H.442l8.6-9.83L0 1.154h7.614l5.258 6.933L18.901 1.153Zm-1.29 19.495h2.039L6.506 3.24H4.318z"></path></svg> </a> </li><li> <a href="https://github.com/Saraavana" class="social-link" target="_blank" rel="noreferrer" aria-label="GitHub"> <svg class="social-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-3.16 19.49c.5.08.68-.22.68-.48v-1.69c-2.77.6-3.35-1.17-3.35-1.17-.45-1.16-1.1-1.47-1.1-1.47-.9-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.89 1.53 2.33 1.09 2.9.84.09-.65.35-1.09.63-1.34-2.21-.25-4.53-1.11-4.53-4.95 0-1.1.4-2.01 1.03-2.72-.1-.26-.45-1.28.1-2.66 0 0 .85-.27 2.78 1.04A9.7 9.7 0 0 1 12 6.8c.86 0 1.72.12 2.53.36 1.93-1.3 2.78-1.04 2.78-1.04.55 1.38.2 2.4.1 2.66.64.71 1.03 1.62 1.03 2.72 0 3.86-2.32 4.7-4.54 4.95.36.31.67.92.67 1.85v2.74c0 .27.18.57.69.48A10 10 0 0 0 12 2Z"></path></svg> </a> </li><li> <a href="https://medium.com/@elsaravana" class="social-link" target="_blank" rel="noreferrer" aria-label="Medium"> <svg class="social-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13.54 12c0 3.866-3.12 7-6.97 7-3.85 0-6.97-3.134-6.97-7s3.12-7 6.97-7c3.85 0 6.97 3.134 6.97 7Zm7.65 0c0 3.64-1.56 6.59-3.485 6.59s-3.485-2.95-3.485-6.59 1.56-6.59 3.485-6.59 3.485 2.95 3.485 6.59Zm2.81 0c0 3.26-.55 5.91-1.228 5.91-.678 0-1.228-2.65-1.228-5.91s.55-5.91 1.228-5.91c.678 0 1.228 2.65 1.228 5.91Z"></path></svg> </a> </li> </ul> </div> </aside>  <section class="blog-template"> <div class="section-center"> <article class="blog-content"> <p>iOS Memory Footprint can be measured by Xcode Memory gauge and can be investigated by Instruments.</p>
+<h2 id="xcode-memory-gauge">Xcode Memory gauge:</h2>
+<p>Xcode memory gauge is used to view the memory footprint of the app. It is present in Xcode debug navigator.</p>
+<h2 id="instruments">Instruments:</h2>
+<p>Instruments provides number of ways to investigate the memory footprint of the app.</p>
+<ul>
+<li>Allocations</li>
+<li>Leaks</li>
+<li>VM Tracker</li>
+<li>Virtual memory trace</li>
+</ul>
+<h3 id="allocations">Allocations:</h3>
+<p>Allocations check the various heap allocations of the app</p>
+<h3 id="leaks">Leaks:</h3>
+<p>Leaks provides the memory leaks in the process over time</p>
+<h3 id="vm-tracker">VM Tracker:</h3>
+<p>VM Tracker provides the memory allocation information in Dirty size, Swapped (Pre-Compressed) size and Resident size. It is useful to identify the dirty size of the app</p>
+<h3 id="virtual-memory-trace">Virtual memory trace:</h3>
+<p>Virtual memory trace provides the deep view of performance of virtual memory. It provides the operations of system profile such as Page cache hits, zero fill etc., in the instruments</p>
+<p>Once EXC_RESOURCE_EXCEPTION exception occurs the memory allocation can be view from the Memory debugger. Memory Graph Hierarchy can be viewed from the debugger.</p>
+<!-- ![](./images/view-memgraph-hierarchy.png) -->
+<p><img src="https://res.cloudinary.com/dsykbphvz/image/upload/v1563209752/elsaravana/ios-memory-footprint-profiling/images/view-memgraph-hierarchy_ozngpy.png" alt=""></p>
+<p>To investigate further, the memory graph has to be exported from the project. Memory graph can be exported from <em>File -> Export Memory graph</em></p>
+<!-- ![](./images/export-memgraph.png) -->
+<p><img src="https://res.cloudinary.com/dsykbphvz/image/upload/v1563209752/elsaravana/ios-memory-footprint-profiling/images/export-memgraph_lqr84d.png" alt=""></p>
+<p>Once <em>abc.memgraph</em> is exported. We can investigate it further using XCode command line tools such as <em>vmmap, leaks, heaps</em>, <em>malloc-history</em>.</p>
+<h4 id="vmmap">vmmap:</h4>
+<p>Shows virtual memory regions allocated in a process</p>
+<p><code>vmmap abc.memgraph</code></p>
+<p><code>vmmap –-summary abc.memgraph</code></p>
+<ul>
+<li>The summary flags provides the sizes in virtual memory region such as virtual size, resident size, dirty size, swapped size etc., Dirty and swapped size are important that contributes to the memory footprint.</li>
+</ul>
+<h5 id="vmmap-and-awk">vmmap and AWK:</h5>
+<p><code>vmmap –page abc.memgraph | grep ‘.dylib’ | awk ‘{ sum += $6 } END { print “Total dirty pages: ”sum}‘</code></p>
+<ul>
+<li>The above code prints the total dirty pages of the dynamic library in the app.</li>
+</ul>
+<h4 id="leaks-1">leaks:</h4>
+<p>Shows objects that are allocated, but no longer referenced and also shows routine cycle to which the leaks belong to. Tracks objects in heap that are not rooted in runtime. So Leaks are dirty memory that can never be freed.</p>
+<p><code>leaks abc.memgraph</code></p>
+<ul>
+<li>If malloc stack logging is enabled in the process, it also shows the backtrace to the root node. Malloc logging can be enabled from <em>Edit Scheme -> Run -> Diagnostics</em></li>
+</ul>
+<!-- ![](./images/enable-malloc.png) -->
+<p><img src="https://res.cloudinary.com/dsykbphvz/image/upload/v1563209751/elsaravana/ios-memory-footprint-profiling/images/enable-malloc_rqaczk.png" alt=""></p>
+<h4 id="heap">heap:</h4>
+<p>Shows object allocated on the process heap and used for identifying large objects in memory and what allocated it.</p>
+<p><code>heap abc.memgraph</code></p>
+<ul>
+<li>Provides information about the class_name, count of its occurrence, total size and average size etc.,</li>
+</ul>
+<p><code>heap -–sortBySize abc.memgraph</code></p>
+<ul>
+<li>Sorts the heap information (class_name, count, size etc.,) by size</li>
+</ul>
+<p><code>heap –address [class_name] abc.memgraph</code></p>
+<p>eg: heap –address NSConcreteData abc. Memgraph</p>
+<ul>
+<li>If address flag is passed along with the name of the class, it will give the each instance of the class in heap</li>
+</ul>
+<h4 id="malloc_history">malloc_history:</h4>
+<p>To use malloc_history command line tool, malloc stack tracking should be enabled.</p>
+<p><code>malloc_history abc.memgraph [address]</code></p>
+<ul>
+<li>Provides the backtrace for the given address for instance in memory, if backtrace is captured.</li>
+</ul>
+<p>From the backtrace, the function/class which causes the huge memory allocation can be identified and managed better.</p> </article> <a href="/blog/" class="btn center-btn">blog</a> </div> </section>  <footer class="footer"> <div> <ul class="social-links footer-links"> <li> <a href="https://www.linkedin.com/in/saravanakumar-gopalakrishnan-4717929b/" class="social-link" target="_blank" rel="noreferrer" aria-label="LinkedIn"> <svg class="social-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M4.98 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5ZM3 9h4v12H3V9Zm7 0h3.84v1.64h.06c.53-1 1.82-2.05 3.75-2.05 4 0 4.75 2.63 4.75 6.06V21h-4v-5.57c0-1.33-.02-3.04-1.85-3.04-1.86 0-2.15 1.45-2.15 2.95V21h-4V9Z"></path></svg> </a> </li><li> <a href="https://twitter.com/elsaravana" class="social-link" target="_blank" rel="noreferrer" aria-label="Twitter"> <svg class="social-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.901 1.153h3.68l-8.04 9.19 9.48 12.504h-7.426l-5.817-7.6-6.653 7.6H.442l8.6-9.83L0 1.154h7.614l5.258 6.933L18.901 1.153Zm-1.29 19.495h2.039L6.506 3.24H4.318z"></path></svg> </a> </li><li> <a href="https://github.com/Saraavana" class="social-link" target="_blank" rel="noreferrer" aria-label="GitHub"> <svg class="social-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-3.16 19.49c.5.08.68-.22.68-.48v-1.69c-2.77.6-3.35-1.17-3.35-1.17-.45-1.16-1.1-1.47-1.1-1.47-.9-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.89 1.53 2.33 1.09 2.9.84.09-.65.35-1.09.63-1.34-2.21-.25-4.53-1.11-4.53-4.95 0-1.1.4-2.01 1.03-2.72-.1-.26-.45-1.28.1-2.66 0 0 .85-.27 2.78 1.04A9.7 9.7 0 0 1 12 6.8c.86 0 1.72.12 2.53.36 1.93-1.3 2.78-1.04 2.78-1.04.55 1.38.2 2.4.1 2.66.64.71 1.03 1.62 1.03 2.72 0 3.86-2.32 4.7-4.54 4.95.36.31.67.92.67 1.85v2.74c0 .27.18.57.69.48A10 10 0 0 0 12 2Z"></path></svg> </a> </li><li> <a href="https://medium.com/@elsaravana" class="social-link" target="_blank" rel="noreferrer" aria-label="Medium"> <svg class="social-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13.54 12c0 3.866-3.12 7-6.97 7-3.85 0-6.97-3.134-6.97-7s3.12-7 6.97-7c3.85 0 6.97 3.134 6.97 7Zm7.65 0c0 3.64-1.56 6.59-3.485 6.59s-3.485-2.95-3.485-6.59 1.56-6.59 3.485-6.59 3.485 2.95 3.485 6.59Zm2.81 0c0 3.26-.55 5.91-1.228 5.91-.678 0-1.228-2.65-1.228-5.91s.55-5.91 1.228-5.91c.678 0 1.228 2.65 1.228 5.91Z"></path></svg> </a> </li> </ul> <h4>
+copyright &copy;2026 <span>Saravana</span> all rights reserved
+</h4> </div> </footer> <script>
+      const sidebar = document.querySelector("[data-sidebar]");
+      const openButton = document.querySelector("[data-sidebar-open]");
+      const closeButton = document.querySelector("[data-sidebar-close]");
+      const sidebarLinks = sidebar?.querySelectorAll("a");
+
+      openButton?.addEventListener("click", () => {
+        sidebar?.classList.add("show-sidebar");
+      });
+
+      closeButton?.addEventListener("click", () => {
+        sidebar?.classList.remove("show-sidebar");
+      });
+
+      sidebarLinks?.forEach((link) => {
+        link.addEventListener("click", () => {
+          sidebar?.classList.remove("show-sidebar");
+        });
+      });
+    </script> </body> </html>
