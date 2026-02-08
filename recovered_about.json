@@ -1,0 +1,41 @@
+{
+  "stack": [
+    {
+      "id": 7,
+      "title": "python"
+    },
+    {
+      "id": 9,
+      "title": "opencv"
+    },
+    {
+      "id": 4,
+      "title": "swift"
+    },
+    {
+      "id": 5,
+      "title": "objective-c"
+    },
+    {
+      "id": 6,
+      "title": "java"
+    },
+    {
+      "id": 8,
+      "title": "Gatsby.js"
+    }
+  ],
+  "title": "about me",
+  "info": "Currently pursuing master's in Computational Modelling and Simulation - Track: Visual Computing at TU Dresden. Solving data problems using ML algorithms and building AI models that leverages the applications of computer vision and deep learning methods. Experienced iOS engineer with a demonstrated history of working in software industry. Proficient in providing scalable and sustainable business solution. ",
+  "image": {
+    "childImageSharp": {
+      "fluid": {
+        "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEV0lEQVQ4yz2Ta0gbVhTHjwnDUgpjUFx1yqZQnUSNb6t2NkY3plRFxVgD1td8YKaLxqYzCjH4Ij6ihkzrM6ZayxJ1ytrUjvpqbLW6mvqYUTfUqhvDTdjGPkhi7tlNPuzCgXu59/7v//zOueAz9hS89Atw9ckLh4uI4Dw5C/By590rjwzJvjq9/LpOP3JD+2g8WKMb9lLr6lyeLN5kI172fGkC9uoeBBgPmFGzqxD0aheCVn4GcHlsANenSw4XFnfgGiLjo4lpSdTw2G9Z3QNYo76PUkU7FgmFyC8sworWNhQNf4t+iq4/fZ+vq0NebbP837wF9pu3DmFzRghc2AS4on/hAMZjgB8PLrIefv9DTq8G1Roa36jOs26lW/jpPEvZV6UWkVBouadUWuQ1UusH7zthgFCMAQub54GLpoLAtUMIXNpmeHVrAHKVnYwvJqeAo5/r5OQXYa244qyjo8PKiYkhIaGhxNnFBSMjI0l6ejrm5uWRtPRbJDwiwpqbmmxOUT9Ef+MBhi7vJgSv7kPw6z0mXJ41AuievSdoV53yEhIwMirKmpOTg0KhkBiNRpKRkYGenp7o5+eH/v7+SPeI+O5dUl5WhkqVysxd/AkD1o8X4BSBNTYFUFIpgTJpDatGJsP8/HykTkhpaSmZmprCgYEBmzv09vbGxMREjI6OxsLCQiwpKSHNCgWRie+QxJ77GLh7+jdnYcMpbOt3gLmZGZifnb05NDSEmZmZRKVSEYFAQLRaLfb29qJUKkUfHx9ksVgYGhqKYWFhdtG29g4iEZWTZLEEqdBZmOnkStDxGcDh0RGYtrcjdTodRlA2rq6uxNnZmZSXl2N7ezvaUnZ3d7c79fDwsItSxqS+oYHI6+qsaV+W4o3NX/ecTvHSh1YEmJ+fh62trQuUzS80VYyLi7OmpqaSvr4+kp2djSEhIXZR255tHh4ejg1UrFggwPzbt80fx36Onxj3Bz/VG+B63wgDRCIRs6CgACi7CoVCgTMzM+bd3V2kKZOgoCBiKwjFYOcXHx+P1DmRSCTEl80maYkJyJNILdxTZHP/QPhs9jUD9vf3AekPofEOFTQ2NzfjycmJeWNjA+mcVFVVkf7+fqyoqEAOh0Oqq6tJWloastlsS0pKCsoUbTJZlQS+FhQzobgK4IgypC3CsLl0c3Pz5vF4/9B2QZPJZF5ZWcHh4WGiVCpJd3c3oV1AOjs7MSsr65zL5WJjY+PhZO+9S89npqGlp9fhDjUGBoMBBgcHoauri5mXlwd8Pv/a2traXzaH4+Pj5tbW1nNaHHv1KRYrLYhZLpcTGjg6Osr/TquFvgcjzPLH08B5tgyg1+uhsrISkpKSgB5m1tbW2tK/urS0tEzXtgIgFUUb39jYWKTMkT6OTU1NUo1GA/Qxhu0OxQP/D/oLwNHRESYmJoACZ9ow0MGQyWQl9fX16y0tLRa1Wv0vTXWHNriW8owRi8X2uz09PfagZ+zr/wACcXZFUs+DhgAAAABJRU5ErkJggg==",
+        "aspectRatio": 1.3157894736842106,
+        "src": "/static/cbe551547a31d5c17d978c2cc60d5c1c/ee604/1ce866391d6ef339e8af4176b8e3a53e.png",
+        "srcSet": "/static/cbe551547a31d5c17d978c2cc60d5c1c/69585/1ce866391d6ef339e8af4176b8e3a53e.png 200w,\n/static/cbe551547a31d5c17d978c2cc60d5c1c/497c6/1ce866391d6ef339e8af4176b8e3a53e.png 400w,\n/static/cbe551547a31d5c17d978c2cc60d5c1c/ee604/1ce866391d6ef339e8af4176b8e3a53e.png 800w,\n/static/cbe551547a31d5c17d978c2cc60d5c1c/5fa49/1ce866391d6ef339e8af4176b8e3a53e.png 1022w",
+        "sizes": "(max-width: 800px) 100vw, 800px"
+      }
+    }
+  }
+}

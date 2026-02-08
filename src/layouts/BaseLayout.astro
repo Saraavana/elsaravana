@@ -1,0 +1,69 @@
+---
+import Navbar from "../components/Navbar.astro";
+import Sidebar from "../components/Sidebar.astro";
+import Footer from "../components/Footer.astro";
+import { siteConfig } from "../data/site";
+import logo from "../assets/logo.svg";
+import twitterImage from "../assets/twitter-img.png";
+import "../styles/main.css";
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = siteConfig.description } = Astro.props;
+const pageTitle = `${title} | ${siteConfig.title}`;
+const canonicalUrl = new URL(Astro.url.pathname, siteConfig.siteUrl).toString();
+const socialImageUrl = new URL(twitterImage.src, siteConfig.siteUrl).toString();
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content={description} />
+    <meta name="image" content={socialImageUrl} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:creator" content={siteConfig.twitterUsername} />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={socialImageUrl} />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={socialImageUrl} />
+    <meta property="og:url" content={canonicalUrl} />
+    <link rel="canonical" href={canonicalUrl} />
+    <link rel="icon" type="image/svg+xml" href={logo.src} />
+    <title>{pageTitle}</title>
+  </head>
+  <body>
+    <Navbar />
+    <Sidebar />
+    <slot />
+    <Footer />
+
+    <script is:inline>
+      const sidebar = document.querySelector("[data-sidebar]");
+      const openButton = document.querySelector("[data-sidebar-open]");
+      const closeButton = document.querySelector("[data-sidebar-close]");
+      const sidebarLinks = sidebar?.querySelectorAll("a");
+
+      openButton?.addEventListener("click", () => {
+        sidebar?.classList.add("show-sidebar");
+      });
+
+      closeButton?.addEventListener("click", () => {
+        sidebar?.classList.remove("show-sidebar");
+      });
+
+      sidebarLinks?.forEach((link) => {
+        link.addEventListener("click", () => {
+          sidebar?.classList.remove("show-sidebar");
+        });
+      });
+    </script>
+  </body>
+</html>

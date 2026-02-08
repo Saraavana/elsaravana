@@ -1,0 +1,32 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { siteConfig } from "../data/site";
+
+const formEndpoint =
+  import.meta.env.PUBLIC_CONTACT_FORM_ENDPOINT ||
+  "https://formsubmit.co/your-email@example.com";
+---
+
+<BaseLayout title="Contact" description="Contact Saravana">
+  <section class="contact-page">
+    <article class="contact-form">
+      <h3>get in touch</h3>
+      <form
+        name="contact"
+        method="POST"
+        action={formEndpoint}
+      >
+        <div class="form-group">
+          <input type="text" placeholder="name" name="name" class="form-control" required />
+          <input type="email" placeholder="email" name="email" class="form-control" required />
+          <textarea name="message" rows="5" placeholder="message" class="form-control" required></textarea>
+        </div>
+        <button type="submit" class="submit-btn btn">submit</button>
+      </form>
+      <p style="padding: 0 1.5rem 1.5rem; margin-bottom: 0;">
+        Update the form action with your real endpoint or contact me at
+        <a href={`mailto:${siteConfig.contactEmail}`}>{siteConfig.contactEmail}</a>.
+      </p>
+    </article>
+  </section>
+</BaseLayout>

@@ -1,0 +1,20 @@
+---
+import Icon from "./Icon.astro";
+import { socialLinks } from "../data/social-links";
+
+interface Props {
+  className?: string;
+}
+
+const { className = "" } = Astro.props;
+---
+
+<ul class={`social-links ${className}`.trim()}>
+  {socialLinks.map((link) => (
+    <li>
+      <a href={link.url} class="social-link" target="_blank" rel="noreferrer" aria-label={link.label}>
+        <Icon name={link.icon} className="social-icon" />
+      </a>
+    </li>
+  ))}
+</ul>

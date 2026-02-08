@@ -1,0 +1,858 @@
+{
+  "sourceDeploy": "https://617bc89f272ddc000883571d--elsaravana.netlify.app",
+  "extractedAt": "2026-02-08T11:39:46Z",
+  "about": {
+    "stack": [
+      {
+        "id": 7,
+        "title": "python"
+      },
+      {
+        "id": 9,
+        "title": "opencv"
+      },
+      {
+        "id": 4,
+        "title": "swift"
+      },
+      {
+        "id": 5,
+        "title": "objective-c"
+      },
+      {
+        "id": 6,
+        "title": "java"
+      },
+      {
+        "id": 8,
+        "title": "Gatsby.js"
+      }
+    ],
+    "title": "about me",
+    "info": "Currently pursuing master's in Computational Modelling and Simulation - Track: Visual Computing at TU Dresden. Solving data problems using ML algorithms and building AI models that leverages the applications of computer vision and deep learning methods. Experienced iOS engineer with a demonstrated history of working in software industry. Proficient in providing scalable and sustainable business solution. ",
+    "image": {
+      "childImageSharp": {
+        "fluid": {
+          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEV0lEQVQ4yz2Ta0gbVhTHjwnDUgpjUFx1yqZQnUSNb6t2NkY3plRFxVgD1td8YKaLxqYzCjH4Ij6ihkzrM6ZayxJ1ytrUjvpqbLW6mvqYUTfUqhvDTdjGPkhi7tlNPuzCgXu59/7v//zOueAz9hS89Atw9ckLh4uI4Dw5C/By590rjwzJvjq9/LpOP3JD+2g8WKMb9lLr6lyeLN5kI172fGkC9uoeBBgPmFGzqxD0aheCVn4GcHlsANenSw4XFnfgGiLjo4lpSdTw2G9Z3QNYo76PUkU7FgmFyC8sworWNhQNf4t+iq4/fZ+vq0NebbP837wF9pu3DmFzRghc2AS4on/hAMZjgB8PLrIefv9DTq8G1Roa36jOs26lW/jpPEvZV6UWkVBouadUWuQ1UusH7zthgFCMAQub54GLpoLAtUMIXNpmeHVrAHKVnYwvJqeAo5/r5OQXYa244qyjo8PKiYkhIaGhxNnFBSMjI0l6ejrm5uWRtPRbJDwiwpqbmmxOUT9Ef+MBhi7vJgSv7kPw6z0mXJ41AuievSdoV53yEhIwMirKmpOTg0KhkBiNRpKRkYGenp7o5+eH/v7+SPeI+O5dUl5WhkqVysxd/AkD1o8X4BSBNTYFUFIpgTJpDatGJsP8/HykTkhpaSmZmprCgYEBmzv09vbGxMREjI6OxsLCQiwpKSHNCgWRie+QxJ77GLh7+jdnYcMpbOt3gLmZGZifnb05NDSEmZmZRKVSEYFAQLRaLfb29qJUKkUfHx9ksVgYGhqKYWFhdtG29g4iEZWTZLEEqdBZmOnkStDxGcDh0RGYtrcjdTodRlA2rq6uxNnZmZSXl2N7ezvaUnZ3d7c79fDwsItSxqS+oYHI6+qsaV+W4o3NX/ecTvHSh1YEmJ+fh62trQuUzS80VYyLi7OmpqaSvr4+kp2djSEhIXZR255tHh4ejg1UrFggwPzbt80fx36Onxj3Bz/VG+B63wgDRCIRs6CgACi7CoVCgTMzM+bd3V2kKZOgoCBiKwjFYOcXHx+P1DmRSCTEl80maYkJyJNILdxTZHP/QPhs9jUD9vf3AekPofEOFTQ2NzfjycmJeWNjA+mcVFVVkf7+fqyoqEAOh0Oqq6tJWloastlsS0pKCsoUbTJZlQS+FhQzobgK4IgypC3CsLl0c3Pz5vF4/9B2QZPJZF5ZWcHh4WGiVCpJd3c3oV1AOjs7MSsr65zL5WJjY+PhZO+9S89npqGlp9fhDjUGBoMBBgcHoauri5mXlwd8Pv/a2traXzaH4+Pj5tbW1nNaHHv1KRYrLYhZLpcTGjg6Osr/TquFvgcjzPLH08B5tgyg1+uhsrISkpKSgB5m1tbW2tK/urS0tEzXtgIgFUUb39jYWKTMkT6OTU1NUo1GA/Qxhu0OxQP/D/oLwNHRESYmJoACZ9ow0MGQyWQl9fX16y0tLRa1Wv0vTXWHNriW8owRi8X2uz09PfagZ+zr/wACcXZFUs+DhgAAAABJRU5ErkJggg==",
+          "aspectRatio": 1.3157894736842106,
+          "src": "/static/cbe551547a31d5c17d978c2cc60d5c1c/ee604/1ce866391d6ef339e8af4176b8e3a53e.png",
+          "srcSet": "/static/cbe551547a31d5c17d978c2cc60d5c1c/69585/1ce866391d6ef339e8af4176b8e3a53e.png 200w,\n/static/cbe551547a31d5c17d978c2cc60d5c1c/497c6/1ce866391d6ef339e8af4176b8e3a53e.png 400w,\n/static/cbe551547a31d5c17d978c2cc60d5c1c/ee604/1ce866391d6ef339e8af4176b8e3a53e.png 800w,\n/static/cbe551547a31d5c17d978c2cc60d5c1c/5fa49/1ce866391d6ef339e8af4176b8e3a53e.png 1022w",
+          "sizes": "(max-width: 800px) 100vw, 800px"
+        }
+      }
+    }
+  },
+  "jobs": [
+    {
+      "strapiId": 4,
+      "company": "SBG",
+      "position": "Werkstudent - Mixed Reality developer",
+      "date": "July 2020 - April 2021",
+      "description": [
+        {
+          "id": 8,
+          "name": "Involved in development of Augmented Reality applications for Microsoft Hololens using Unity"
+        },
+        {
+          "id": 9,
+          "name": "Responsible for user experience design. Created 3D components and visualizations using Blender"
+        }
+      ]
+    },
+    {
+      "strapiId": 3,
+      "company": "Cureios Health eApp (P) Ltd.",
+      "position": "Lead iOS Developer",
+      "date": "January 2019 – April 2019",
+      "description": [
+        {
+          "id": 7,
+          "name": "Led iOS application development team in building /dr (slashdr) product, an Electronic Health Record (EHR) system from scratch for single speciality & multi speciality poly clinics"
+        }
+      ]
+    },
+    {
+      "strapiId": 2,
+      "company": "NFN Labs",
+      "position": "Senior iOS Developer",
+      "date": "May 2015 - December 2018",
+      "description": [
+        {
+          "id": 4,
+          "name": "Responsibilities include application architecture, development, debugging, performance evaluation, product delivery to customers."
+        },
+        {
+          "id": 5,
+          "name": "Involved in requirement collection, project cost estimation, team management, hiring, intern supervision, app documentation, customer support & product maintenance. "
+        },
+        {
+          "id": 6,
+          "name": "Built multiple products from scratch to deployment in App Store marketplace"
+        }
+      ]
+    },
+    {
+      "strapiId": 1,
+      "company": "NFN Labs",
+      "position": "iOS Development Intern",
+      "date": "December 2014 – May 2015",
+      "description": [
+        {
+          "id": 1,
+          "name": "Implemented application design patterns like MVC, MVP, MVVM"
+        },
+        {
+          "id": 2,
+          "name": "Strong conceptual and practical understanding about AutoLayouts, Core Data, LLVM, Version Control System, CoreLocation, CoreAnimation, CoreGraphics, iCloud, GCD, APN"
+        },
+        {
+          "id": 3,
+          "name": "Worked with dependency managers like Cocoapods, Carthage"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "Projects_8",
+      "url": "https://slashdr.com",
+      "github": null,
+      "description": "Slashdr is an iPad app, an Electronic Health Record (EHR) product conceptualised by and for doctors. 80% of healthcare is delivered in primary and secondary health care levels. Slashdr addresses the problem faced by these levels by understanding and configuring to their clinical problems. Assists physician by adapting to their individual process using a fluid workflow \n",
+      "title": "Slashdr",
+      "image": {
+        "childImageSharp": {
+          "fluid": {
+            "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAADCElEQVQoz0WT62sUVxjG95/ph2IhX6pSejExaBWkraUgiBWhYFu0xmstVNPEesFYaipqNdoYYyxkm5ZkU9rsRdNqq9FcRYKKQcqaZGd2dnZmZ3Yue5n9+c5G6IGHc87L4TnP814ii9kcSi6PqufJ5k00wyRnFNBNC71gkS/Y5Ewb13O5PZtm2a4+GlqucThlcHYavh+vcOp+wHfjAZ0TVSJetYbjl3FKFbxKVRBQCmqUa9RRAfxqQLimZmZ4veE1Nry7hlj/VZ48GOfh5BjT927xaGZMXgREBod/Z2x8grv3J2SfrCM835uYFEwtYXKa23fG6O7t45WG5TSu/4ATJ4/T09sjsV5+7OriUvcVPBEV2XfgKxayBhlFZTGzhIWMgqrpaJKKjJrFtH2ivw7Ssms3Wz7cxKcfb+NoRycdP5xlaHiQgd8G+GMkQaUqltva2oVME1tQEri+j1uuYEsgvBf9CqHh5OjffHvoEOf37uHC/n10Xb3OGVF1+eI5LnWdI9p/XV7ViLS3H0HTjTqBWw4ouj4FgeGUhayKYXuUJJepG6N81rKfV5s/YuV7W+mJjRK7NUX/yD/8krhDNHGXvod+qLCNnFTXKQW4Isl2XEzHIy82Q3Vm0cWTv+PxOLtbT7K+NcqqvZfpnvb4+TFcmw0YeAbRORiaE8LWw18zP/+c4ktCq+hgCIluedheBdX0saXUCVG4c+cO3nnzDdY0NVHUFWquhaUtShtYArveCZH2tm9QFUUIa3jlKkXHwXRFYbFUt6wX3Hp+U5LDz3d8wYq3VtO87n0pllZ3o2Q1dOldQ/pWuo3IwS8PSlGydYWOWPzfckkUlslbDmX5OZFK8sn27Sx/u5HGtetQVBVfCqhpGgUZANd1lxSe7uxkKDZM8uYo8dQNRhJJ/gwRT8r9ppwTxEZS/HRlgI5TZ1jbtJGNG7aga3lKnk86nUYVctt+aTkct3lR+Fz6L9wX1BAai9kQOYkpPHmaYe4/n3//mmVb8x4ObD5Gen6BrKthyWjqMraG2PZk4l4Aly0og05OYroAAAAASUVORK5CYII=",
+            "aspectRatio": 1.680672268907563,
+            "src": "/static/2ff66eacc07329178a02245c2d07406b/ee604/ce6d692754dcd77473ed078977df0e23.png",
+            "srcSet": "/static/2ff66eacc07329178a02245c2d07406b/69585/ce6d692754dcd77473ed078977df0e23.png 200w,\n/static/2ff66eacc07329178a02245c2d07406b/497c6/ce6d692754dcd77473ed078977df0e23.png 400w,\n/static/2ff66eacc07329178a02245c2d07406b/ee604/ce6d692754dcd77473ed078977df0e23.png 800w,\n/static/2ff66eacc07329178a02245c2d07406b/f3583/ce6d692754dcd77473ed078977df0e23.png 1200w,\n/static/2ff66eacc07329178a02245c2d07406b/e7b05/ce6d692754dcd77473ed078977df0e23.png 1432w",
+            "sizes": "(max-width: 800px) 100vw, 800px"
+          }
+        }
+      },
+      "stack": [
+        {
+          "id": 20,
+          "title": "swift"
+        }
+      ]
+    },
+    {
+      "id": "Projects_7",
+      "url": "https://apple.co/2IXScgR",
+      "github": null,
+      "description": "ShiftPixy(iOS app) is a platform, that serves as a all-in-one workforce management for employers (business owners) who rely on contingent employees. Part-time workers(shifters) receive valuable benefits(health insurance, workers’ compensation). Shifters can easily identify and apply to works in their active city. Zero paperwork. All formal procedures are authenticated within the app\n",
+      "title": "ShiftPixy",
+      "image": {
+        "childImageSharp": {
+          "fluid": {
+            "base64": "data:image/png;base64,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",
+            "aspectRatio": 0.6472491909385113,
+            "src": "/static/4059dfa5c9d2db87f5dbd9a7c7b6fec0/ee604/be09ec3dfeff5a4e31eafa829c54fe7d.png",
+            "srcSet": "/static/4059dfa5c9d2db87f5dbd9a7c7b6fec0/69585/be09ec3dfeff5a4e31eafa829c54fe7d.png 200w,\n/static/4059dfa5c9d2db87f5dbd9a7c7b6fec0/497c6/be09ec3dfeff5a4e31eafa829c54fe7d.png 400w,\n/static/4059dfa5c9d2db87f5dbd9a7c7b6fec0/ee604/be09ec3dfeff5a4e31eafa829c54fe7d.png 800w,\n/static/4059dfa5c9d2db87f5dbd9a7c7b6fec0/b912f/be09ec3dfeff5a4e31eafa829c54fe7d.png 806w",
+            "sizes": "(max-width: 800px) 100vw, 800px"
+          }
+        }
+      },
+      "stack": [
+        {
+          "id": 18,
+          "title": "swift"
+        },
+        {
+          "id": 19,
+          "title": "graphql"
+        }
+      ]
+    },
+    {
+      "id": "Projects_6",
+      "url": "https://apple.co/2kilxVo",
+      "github": null,
+      "description": "StormIt is an app that allows one to curate their thoughts and share them as a Tweetstorm(threads) on twitter. One can compose, manage, save as draft, preview tweetstorm before publishing. PRO features include Control Tweet Breaks, respond to tweet, Switch twitter account, customise storm style",
+      "title": "StormIt - Tweetstorm on Twitter",
+      "image": {
+        "childImageSharp": {
+          "fluid": {
+            "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAcCAYAAABh2p9gAAAACXBIWXMAABYlAAAWJQFJUiTwAAAGS0lEQVRIx22VC2zV5RnG/70gbinEaNRsZAlGFBMXdMaZQkFogQy66TITpbKF4aW0FVjtKFjTljoQKGQVBAXSC73CpA2wlouAPfSCLdIAQu2swKi9QM+1536//fb+/6dUyfySJ+93vvc7z3ne53u/7ygNSU6q4x2UPdnFhqereOvBMgpmVbN7xiVqE93UTXZRd7+L+p9LnOymXuY1Spi6+/xarnaS+0dwoVTGhfmnMkhLjY62C6dpbf+CIcd3HCrRsUsxUDvVS+UkJxXxbioSXFQm+mn6TQ+Hpt+iXPFREeeSKLk4t7ZH6crfSYli5fTBTswWI4TRRtOW82xTRjn86yBnMiKc+qOHE+kejqXAyeVnqH2sj90K7BWiGDwaFJdlGo0r/sGJ8l5GzYN8c/U/mJ16/rW5nc2isOIhF58lD7D/ASh/xMeh57+jatpt9k01UPWrm+yZ5OBjxctuIVOh3PpiKV4ULnW3YDY7GBkaxhmwcHhrO4WKkyPpx+na9i6tuds4vLCZ7u3v8vWBFVz6NJvL+1bRkNxBqSj9SOwoE2LFYX0U/fcPculyDVZbCOuYDXfATU2xjgLFRvlT/ZzO3cnJrL3UL2ilbm47n6W3cOS1QzS9cphdD4+wRQlRGu8Ri4TQNjqdD3/xFQfKWui90U9PTx/XrvexK7eZDUL40aN6Kl64wKcz+6hM7tLm5c9fpPy5HrZPNYv/8GGCV+zxsznOh2K4PovPdyxn54bzGG0jDH+vZ9g4yI53jrFeCD9ICFEkCorHUaT88HljnJ+SBJ/Ar81VKJseMnHt1Byaz64XZbcx2fV8M3yVkuw6/i6EhbK5UBQUJfq1uRo1TPKP5wIaihJjUNaL5EJpWN2BYvaXNrF1bTMflzSTn9xGvuTeT0BilDwpab18IV9IVKyT/s1PCApkLT4QiwKlcPZ5/vZEF3nP/Ju85AoyHz9K5oxG1s48S/6sTvKePkfZ0ptULYmyP9XP3gVR9gmqlsqBLfaxd36EfakBiQHKl4qHcx95mQXTXmbJjOWk/jKD3z2eQfoTf2bxY6+yePprzFSSKVlWyanXoXoutK7q5PRfe+hY0yIN3kt3/kGaXnJSPx+a3xCF85JWsuK3haxdspW8l7bzZspG3p5XQlbqJlkrJfn+DAoWNdCYJrfiKaibbeRgqoXq5Cj1L4ZomGei8llR+SQ0pAdRFj2wmjkJmcyJz+TFydmkJKxitvI2KYlZLPjZap5RXmfzsiY63odjK70ceyPK52vgTK5cx7VBjmdBS2aQljfD6IpVwinryH2ulm3pZymae5yC2UcpTGlmy+9PsuOVM6TFvceeDUdwB+3oR/XafXe5nPh8PoxGI1brGJYxi7YWCErJS5KK+brzpvYgBPwhLOYxPG4fd0deWjll7xyVN8PHmMWKxWIhGAzyU8PvF8I/TCnlYuu3mMZGsdvsWiIcDmtJdaxLq2FnzglCeBgeuo3D7tDWo9EokUhEEItERVBACP80ZQ9X2v6L02PTFASESCW8O95b2Miu7LMEcDFmtuJwOHA6nYRCoQliFVqFAfHw1aRqLusGsDrNGPRGDAYDLqcLnzdWduHCk+zOapOSPRj1Ju7cucPIyIj2w+qIqYzESlYVZiQ1cq19BLffLi+NFbfbjcfjkdKc2qaNC3V8kt0tCp2YjBZ54szY7XatirtkKlSVmod/STrOFd0QLp+NYCCkJdXN4ZBadpSS1A7251wRD10aoc1m+6HUSHTCywmFK5N0XD0nZnvk100WaQOr5k8kHPNlU9pFKnL6tHkoGNFINEXjZP9H+FbSV/S2GTRCo8GklaOS+rx+bdOWtF6qcmJtFQ6OH0CUezBxKNJOSlZSL992jhGIuHE6XHi93okN6ihNu0F1ztA9hD+F2CmLwjVTb3FNZ8RsG5WbYMBkMo23hkvdQtmiEepy9PcSxlycwD2Eq+/T09/hwB9xSru45aT8mkqP2ytbgpTNN1OXORYjDIwTjnustmussX/Uhx/MdND/pR27xyx306z5oKZjhxKhcpn88xWoasO4HF6cLjfegZsY7ngZGoqI5168PhehcECivIcDNyyM6i0YzBJNsahXIXOj3NvBAYtcudhcXVfzBvlnHNHrGRi6Rf91Pefa7XRfsDIwOMr/AGIl3gt7SSMLAAAAAElFTkSuQmCC",
+            "aspectRatio": 0.7194244604316546,
+            "src": "/static/9f5a9ebea2430670069537cca27c7982/ee604/ebbdea29dbda41b5e3d5a6d67449eaf9.png",
+            "srcSet": "/static/9f5a9ebea2430670069537cca27c7982/69585/ebbdea29dbda41b5e3d5a6d67449eaf9.png 200w,\n/static/9f5a9ebea2430670069537cca27c7982/497c6/ebbdea29dbda41b5e3d5a6d67449eaf9.png 400w,\n/static/9f5a9ebea2430670069537cca27c7982/ee604/ebbdea29dbda41b5e3d5a6d67449eaf9.png 800w,\n/static/9f5a9ebea2430670069537cca27c7982/a7cbc/ebbdea29dbda41b5e3d5a6d67449eaf9.png 830w",
+            "sizes": "(max-width: 800px) 100vw, 800px"
+          }
+        }
+      },
+      "stack": [
+        {
+          "id": 17,
+          "title": "swift"
+        }
+      ]
+    },
+    {
+      "id": "Projects_5",
+      "url": null,
+      "github": null,
+      "description": "An iOS app that provides corresponding survey for the product being liked. It is easy to engage to shoppers using the-like-machine. Shoppers push like button and share their approval to local community. Like-Machine shows total likes for a product. Survey shown to shoppers after their like; that are motivated by incentives. Insights are used to support sales, marketing initiatives at local and national level\n",
+      "title": "The Like Machine",
+      "image": {
+        "childImageSharp": {
+          "fluid": {
+            "base64": "data:image/png;base64,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",
+            "aspectRatio": 0.5681818181818182,
+            "src": "/static/b7adc0eb3ee9d92757124beac6b70a54/63919/d637923ebd662cfc857e99ad7a3aee86.png",
+            "srcSet": "/static/b7adc0eb3ee9d92757124beac6b70a54/69585/d637923ebd662cfc857e99ad7a3aee86.png 200w,\n/static/b7adc0eb3ee9d92757124beac6b70a54/497c6/d637923ebd662cfc857e99ad7a3aee86.png 400w,\n/static/b7adc0eb3ee9d92757124beac6b70a54/63919/d637923ebd662cfc857e99ad7a3aee86.png 684w",
+            "sizes": "(max-width: 684px) 100vw, 684px"
+          }
+        }
+      },
+      "stack": [
+        {
+          "id": 16,
+          "title": "swift"
+        }
+      ]
+    },
+    {
+      "id": "Projects_4",
+      "url": null,
+      "github": "https://github.com/Saraavana/Greenday",
+      "description": "Greenday is an iOS app that is used to organise domestic and commercial services in Dublin, Ireland. Drainage services, plumbing, electricity services, liquid waste management, grease traps and sewer repair are included. Users can document the services provided like cost, date etc., also can access their invoices and reports related to the services",
+      "title": "Greenday",
+      "image": {
+        "childImageSharp": {
+          "fluid": {
+            "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAABYlAAAWJQFJUiTwAAADzUlEQVQ4y42UfUyVVRzHb1stW1tt/hd/yerqSkNnYWXoilVjMCFXEpiiA8ykF6ZcLhe4L8QFFEcgJPkSRAi3oNbmJpT4VohSaKZFa7bmpkSMd4Xn8gDPvc/5dJ77oNgYq7N9d16e53zO7+0cywJvLxZPLwt2D3Jv8RD3y/kDhT1YvANYXFLuPh4p76FfCTJfS7BVYnk8kXtWJmPZ26myR2r/RZXKrgkqL0xS9ZNG6Q9TuNpV3FLlP6oMqQFGpjQGVI3+SY0/hxW6rvVxS5kgtaSBhbF2FiXYsNw+JRgA/bYRAT9oYyBUYxJa6h2f5MT1YS4PjHGh7xYtv/1Fc+fvtJzrpr7Rh8ftxGHPNoCCY5cFcR/qrK8SbD4YJFCRQfCtp9BeDyNw9ACaQdSnjWONwUw/G4KmnHQcyfHY890m8OglwRvVOgmVsNaroRcmITaGo8c8iO7bE9p0+JRGWg3YmuDQd9DWDXVndVLrYVd0HIWvrsbm+sAE+joFYZmCJTnwSpm0YUckRFrQn5NqLA4B39yvEZEHUV6B1SYI3yVYtFMnXO5JfSaO4teeJ8s5A2y9orOmeJp1FdO82xBAK00jsHUpgdSlBI9/FgJu+yTAswUQs1cQWyZYWyRYka+z3CO/RW+gaOPL2PI9ZlJa+7qIac9lXYeb9K4Kvvl0gjqnn30ZCpdOGbETbD2ks0pufqFE8ESOkNYKlktFuODF2Hre25KNIy/HBNZfb8N6fBPWtk2sOr2DGvc0zvUamdFTnG42E5H0kc7ibHjabYJCMKN3w8rVn5O2wUGu024CD187hqU5ivu+fokVJ9M4mK3iiJ0gL36C77/S7gAfsyHdNEERdwEjoxrYlpgzC2zsOcPCliTC21KJ6fRwRCZ2dyqUSJ1v5Q7QagCd/wYaLkfFNJORkiddlkAhf59ShxkduMLo4K+MDXWj9l9F6fsD5e+rTCsjoaQkVwfnAA23l+XLLO8sw+vYjs2eawLVX6oYKrcwWvMwNxutjPoeZaT2IQarLPgvek2gLJu5QJ1lTkhJiqdg+xpsuQUmMKD0ot44yWRvu1SH1Dmps6gyFNrYjRngPBbK2kxz1OJ1ZWHLllnWdZ3/bkHpsj4vMN3VRFFBHlm2bAMoEEJH6IE50kMy7+7Gj4MsscsScYkQ1Mi2UdhPyhi+7fmS0mIPjtx86bIQ/8NC+XDs0wl7nxDUKB+rrMnFcmyVVy8xs5rMd1LYnLIFy81xP2OKX75rpu4ez64pfPuzgq/DL58shabzCl90jHPkzBC1J8YoP9BORYWPmjof/wCFxFHFTWt+UQAAAABJRU5ErkJggg==",
+            "aspectRatio": 1.0869565217391304,
+            "src": "/static/491de1044b25ec4c07902138aa99d068/ee604/17af19e4d98703078f64524edb28051b.png",
+            "srcSet": "/static/491de1044b25ec4c07902138aa99d068/69585/17af19e4d98703078f64524edb28051b.png 200w,\n/static/491de1044b25ec4c07902138aa99d068/497c6/17af19e4d98703078f64524edb28051b.png 400w,\n/static/491de1044b25ec4c07902138aa99d068/ee604/17af19e4d98703078f64524edb28051b.png 800w,\n/static/491de1044b25ec4c07902138aa99d068/3f97c/17af19e4d98703078f64524edb28051b.png 950w",
+            "sizes": "(max-width: 800px) 100vw, 800px"
+          }
+        }
+      },
+      "stack": [
+        {
+          "id": 15,
+          "title": "swift"
+        }
+      ]
+    },
+    {
+      "id": "Projects_3",
+      "url": null,
+      "github": null,
+      "description": "BetterHQ is an iOS SDK, that is a feedback management system for the application. User can request a feature, report a bug and can also view application version logs. An effective mechanism to visualise all the feedback in a single channel and to improve the product iteratively\n",
+      "title": "BetterHQ",
+      "image": {
+        "childImageSharp": {
+          "fluid": {
+            "base64": "data:image/png;base64,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",
+            "aspectRatio": 0.5586592178770949,
+            "src": "/static/30456bba6543f06019d96611ee9e31ba/07362/d50b21e2f3112ab087e2f168093b1195.png",
+            "srcSet": "/static/30456bba6543f06019d96611ee9e31ba/69585/d50b21e2f3112ab087e2f168093b1195.png 200w,\n/static/30456bba6543f06019d96611ee9e31ba/497c6/d50b21e2f3112ab087e2f168093b1195.png 400w,\n/static/30456bba6543f06019d96611ee9e31ba/07362/d50b21e2f3112ab087e2f168093b1195.png 674w",
+            "sizes": "(max-width: 674px) 100vw, 674px"
+          }
+        }
+      },
+      "stack": [
+        {
+          "id": 12,
+          "title": "swift"
+        },
+        {
+          "id": 13,
+          "title": "rest"
+        },
+        {
+          "id": 14,
+          "title": "iOS-sdk"
+        }
+      ]
+    },
+    {
+      "id": "Projects_2",
+      "url": null,
+      "github": null,
+      "description": "An iOS app that estimates karma(carbon) score for each families and provides suggestions to keep their environment greener. Carbon emissions are calculated on every households from parameters like total members, Energy bill, water bill etc. Karma score is calculated depending on their emissions; likewise each family can view the score of their neighbourhoods to improve themselves. Score can be improved by installing less carbon emitting/carbon free products, hence recommendations are provided on each categories like energy, water, yard",
+      "title": "Dharmameter",
+      "image": {
+        "childImageSharp": {
+          "fluid": {
+            "base64": "data:image/png;base64,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",
+            "aspectRatio": 0.5602240896358543,
+            "src": "/static/ef76327f78682e8b5b3c7cf5597a42b6/7501a/0bbc400d583fa97b5e193dc2d76528bc.png",
+            "srcSet": "/static/ef76327f78682e8b5b3c7cf5597a42b6/69585/0bbc400d583fa97b5e193dc2d76528bc.png 200w,\n/static/ef76327f78682e8b5b3c7cf5597a42b6/497c6/0bbc400d583fa97b5e193dc2d76528bc.png 400w,\n/static/ef76327f78682e8b5b3c7cf5597a42b6/7501a/0bbc400d583fa97b5e193dc2d76528bc.png 678w",
+            "sizes": "(max-width: 678px) 100vw, 678px"
+          }
+        }
+      },
+      "stack": [
+        {
+          "id": 10,
+          "title": "swift"
+        },
+        {
+          "id": 11,
+          "title": "rest"
+        }
+      ]
+    },
+    {
+      "id": "Projects_1",
+      "url": null,
+      "github": null,
+      "description": "An iOS app that is used to maintain and track the distribution of FMCG(Fast Moving Consumer Goods). Also used to track the distribution of pharmaceutical under WWCVL(World Wide Commercial Ventures Limited). Provides high end analytics like costing, warehousing, sale order booking, picking, packaging, accounting to senior management and operational teams\n",
+      "title": "MyBiz",
+      "image": {
+        "childImageSharp": {
+          "fluid": {
+            "base64": "data:image/png;base64,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",
+            "aspectRatio": 0.5509641873278237,
+            "src": "/static/2b763271ed4c378d59da42535aea5f7c/2b407/6202fdfe829f7e3b5d0df437426413d3.png",
+            "srcSet": "/static/2b763271ed4c378d59da42535aea5f7c/69585/6202fdfe829f7e3b5d0df437426413d3.png 200w,\n/static/2b763271ed4c378d59da42535aea5f7c/497c6/6202fdfe829f7e3b5d0df437426413d3.png 400w,\n/static/2b763271ed4c378d59da42535aea5f7c/2b407/6202fdfe829f7e3b5d0df437426413d3.png 654w",
+            "sizes": "(max-width: 654px) 100vw, 654px"
+          }
+        }
+      },
+      "stack": [
+        {
+          "id": 1,
+          "title": "swift"
+        },
+        {
+          "id": 2,
+          "title": "rest"
+        }
+      ]
+    }
+  ],
+  "blogsList": [
+    {
+      "slug": "weak-self-in-swift",
+      "date": "September 7th, 2019",
+      "id": "Blogs_1",
+      "desc": "We will discuss about how ARC, weak self, retain cycles works in Swift...",
+      "title": "Weak self in Swift",
+      "category": "swift"
+    },
+    {
+      "slug": "resuable-containers-in-swift-ui",
+      "date": "August 30th, 2019",
+      "id": "Blogs_22",
+      "desc": "Views built using SwiftUI can be reused by segregating Views and Data Flow...",
+      "title": "Resuable containers in SwiftUI",
+      "category": "swift"
+    },
+    {
+      "slug": "presenting-views-and-popovers-in-swift-ui",
+      "date": "August 27th, 2019",
+      "id": "Blogs_20",
+      "desc": "We will discuss about how to present different views, modals, popovers...",
+      "title": "Presenting Views and Popovers in SwiftUI",
+      "category": "swift"
+    },
+    {
+      "slug": "utility-extensions-using-equatable",
+      "date": "August 17th, 2019",
+      "id": "Blogs_29",
+      "desc": "Describes various utilites functions using Equatable...",
+      "title": "Utility extensions using Equatable",
+      "category": "swift"
+    },
+    {
+      "slug": "exploring-background-tasks-framework",
+      "date": "August 10th, 2019",
+      "id": "Blogs_8",
+      "desc": "We will explore backgroundtasks framework which was introduced in iOS 13...",
+      "title": "Exploring BackgroundTasks Framework",
+      "category": "swift"
+    },
+    {
+      "slug": "passing-data-in-swift-ui",
+      "date": "July 15th, 2019",
+      "id": "Blogs_18",
+      "desc": "We will look into how we can pass data across views in SwiftUI...",
+      "title": "Passing Data in SwiftUI",
+      "category": "swift"
+    },
+    {
+      "slug": "publishers-and-subscribers-in-combine-framework",
+      "date": "July 5th, 2019",
+      "id": "Blogs_21",
+      "desc": "We will learn about basics in Combine framework...",
+      "title": "Publishers and Subscribers in Combine framework",
+      "category": "swift"
+    },
+    {
+      "slug": "what-are-state-object-binding-and-environment-object",
+      "date": "June 25th, 2019",
+      "id": "Blogs_31",
+      "desc": "We will get to know how property wrappers @State, @ObjectBinding, @EnvironmentObject works in SwiftUI...",
+      "title": "What are @State, @ObjectBinding and @EnvironmentObject",
+      "category": "swift"
+    },
+    {
+      "slug": "navigation-in-swift-ui",
+      "date": "June 20th, 2019",
+      "id": "Blogs_15",
+      "desc": "Describes about navigating from one view to another using declarative code...",
+      "title": "Navigation in SwiftUI",
+      "category": "swift"
+    },
+    {
+      "slug": "using-list-in-swift-ui",
+      "date": "June 18th, 2019",
+      "id": "Blogs_28",
+      "desc": "Describes about how to create scrolling table of fruits using static and dynamic lists...",
+      "title": "Using List in SwiftUI",
+      "category": "swift"
+    },
+    {
+      "slug": "date-picker-and-stepper-in-swift-ui",
+      "date": "June 13th, 2019",
+      "id": "Blogs_5",
+      "desc": "Declaration and definition of DatePicker and Stepper components...",
+      "title": "DatePicker and Stepper in SwiftUI",
+      "category": "swift"
+    },
+    {
+      "slug": "what-is-swift-ui",
+      "date": "June 11th, 2019",
+      "id": "Blogs_33",
+      "desc": "In WWDC 2019, Apple has introduced SwiftUI, which will replace the imperative UI used before iOS 13. SwiftUI is a user interface toolkit that require us to design apps using declarative code...",
+      "title": "What is SwiftUI",
+      "category": "swift"
+    },
+    {
+      "slug": "what-s-new-in-swift-5-1",
+      "date": "June 6th, 2019",
+      "id": "Blogs_34",
+      "desc": "Lets have a look at What's new in Swift 5.1...",
+      "title": "What's new in Swift 5.1",
+      "category": "swift"
+    },
+    {
+      "slug": "error-handling",
+      "date": "June 4th, 2019",
+      "id": "Blogs_7",
+      "desc": "Error handling is the process of responding to and recovering from error conditions in our program...",
+      "title": "Error Handling",
+      "category": "swift"
+    },
+    {
+      "slug": "working-with-codable",
+      "date": "May 30th, 2019",
+      "id": "Blogs_35",
+      "desc": "Codable API allows us to leverage the compiler to generate most of code needed to encode and decode data to/from a serialized object like JSON...",
+      "title": "Working with Codable",
+      "category": "swift"
+    },
+    {
+      "slug": "using-unknown-default-in-swift",
+      "date": "May 28th, 2019",
+      "id": "Blogs_26",
+      "desc": "In Swift 5, `@unknown default` was introducted. It is a new technique by which enums in Swift works and helps the enums...",
+      "title": "Using @unknown default in Swift",
+      "category": "swift"
+    },
+    {
+      "slug": "typealias-in-swift",
+      "date": "May 23rd, 2019",
+      "id": "Blogs_24",
+      "desc": "A typealias allows us to provide a new name(alias) for an existing data type into our program...",
+      "title": "Typealias in Swift",
+      "category": "swift"
+    },
+    {
+      "slug": "debugging-core-data",
+      "date": "May 21st, 2019",
+      "id": "Blogs_6",
+      "desc": "Core data is a framework that we can use to manage the modal layer of the application. It provides generialized and automated solutions...",
+      "title": "Debugging Core Data",
+      "category": "swift"
+    },
+    {
+      "slug": "async-tasks-using-grand-central-dispatch",
+      "date": "May 14th, 2019",
+      "id": "Blogs_3",
+      "desc": "Grand Central Dispatch(GCD) is a low-level API for managing concurrency in our application...",
+      "title": "Async tasks using Grand Central Dispatch",
+      "category": "swift"
+    },
+    {
+      "slug": "what-is-generics",
+      "date": "May 9th, 2019",
+      "id": "Blogs_32",
+      "desc": "Generic code enables you to write flexible, reusable functions and types that can work with any type, subject to requirements that you define...",
+      "title": "What is Generics",
+      "category": "swift"
+    },
+    {
+      "slug": "value-types-and-reference-types",
+      "date": "May 7th, 2019",
+      "id": "Blogs_30",
+      "desc": "In Swift, we can access data by Value types and Reference types. Reference types creates instances which acts as reference to the object...",
+      "title": "Value Types and Reference Types",
+      "category": "swift"
+    },
+    {
+      "slug": "unit-testing-on-modal-layer",
+      "date": "May 2nd, 2019",
+      "id": "Blogs_25",
+      "desc": "Unit testing is a software testing method, which by means of test cases (code) validates and tests individual set of code blocks...",
+      "title": "Unit Testing on Modal Layer",
+      "category": "swift"
+    },
+    {
+      "slug": "securing-data-in-keychain",
+      "date": "April 30th, 2019",
+      "id": "Blogs_23",
+      "desc": "Application security is very important in case of application development. Users rely on our app to share their...",
+      "title": "Securing data in Keychain",
+      "category": "swift"
+    },
+    {
+      "slug": "abstracting-third-party-dependencies-usage",
+      "date": "April 25th, 2019",
+      "id": "Blogs_2",
+      "desc": "Third party frameworks/libraries are easy to configure and helps us to boost the application development...",
+      "title": "Abstracting third party dependencies usage",
+      "category": "swift"
+    },
+    {
+      "slug": "pattern-matching-using-case-let",
+      "date": "April 23rd, 2019",
+      "id": "Blogs_19",
+      "desc": "Pattern Matching is a feature that allows us to match state/value/property to some pattern. In Swift, it is...",
+      "title": "Pattern matching using 'case let'",
+      "category": "swift"
+    },
+    {
+      "slug": "ios-password-and-otp-autofill",
+      "date": "April 18th, 2019",
+      "id": "Blogs_14",
+      "desc": "From iOS 12, Password and OTP can be suggessted in the QuickType bar, which can be filled to corresponding textfields in a single tap...",
+      "title": "iOS Password and OTP autofill",
+      "category": "swift"
+    },
+    {
+      "slug": "using-ios-strong-password",
+      "date": "April 16th, 2019",
+      "id": "Blogs_27",
+      "desc": "From iOS 12, strong password can be recommended whenever a new user sign up to iOS application. It is a simple and straight forward approach to implement this feature in your iOS application...",
+      "title": "Using iOS Strong Password",
+      "category": "swift"
+    },
+    {
+      "slug": "basics-of-unit-testing",
+      "date": "April 11th, 2019",
+      "id": "Blogs_4",
+      "desc": "Unit Testing is sometime misunderstood with Manual Testing. Manual Testing is carried out by testers/developers...",
+      "title": "Basics of Unit Testing",
+      "category": "swift"
+    },
+    {
+      "slug": "implementing-qr-code-scanner-to-ios-app",
+      "date": "April 9th, 2019",
+      "id": "Blogs_11",
+      "desc": "An QR (Quick Response) code is two dimensional barcode. It can carry information in both vertical and horizontal direction...",
+      "title": "Implementing QR code scanner to iOS app",
+      "category": "swift"
+    },
+    {
+      "slug": "how-to-add-firebase-crashlytics-to-ios-app",
+      "date": "April 6th, 2019",
+      "id": "Blogs_9",
+      "desc": "At somepoint in time all of our apps will have crashes. It would be better to prioritize and fix those crashes, if we can identify...",
+      "title": "How to add Firebase Crashlytics to iOS app",
+      "category": "swift"
+    },
+    {
+      "slug": "how-to-download-images-files-and-show-progress",
+      "date": "April 4th, 2019",
+      "id": "Blogs_10",
+      "desc": "Most of the iOS developers would have come across this situation to download images/files in their project...",
+      "title": "How to download images/files and show progress",
+      "category": "swift"
+    },
+    {
+      "slug": "optimizing-images-to-reduce-memory-consumption-part-2",
+      "date": "March 27th, 2019",
+      "id": "Blogs_17",
+      "desc": "Optimizing images to reduce memory consumption – Part 2",
+      "title": "Optimizing images to reduce memory consumption – Part 2",
+      "category": "swift"
+    },
+    {
+      "slug": "optimizing-images-to-reduce-memory-consumption-part-1",
+      "date": "March 9th, 2019",
+      "id": "Blogs_16",
+      "desc": "Optimizing images to reduce memory consumption – Part 1",
+      "title": "Optimizing images to reduce memory consumption – Part 1",
+      "category": "swift"
+    },
+    {
+      "slug": "ios-memory-footprint-profiling",
+      "date": "February 15th, 2019",
+      "id": "Blogs_13",
+      "desc": "iOS Memory Footprint Profiling",
+      "title": "iOS Memory Footprint Profiling",
+      "category": "swift"
+    },
+    {
+      "slug": "ios-memory-allocation",
+      "date": "January 24th, 2019",
+      "id": "Blogs_12",
+      "desc": "iOS Memory Allocation",
+      "title": "iOS Memory Allocation",
+      "category": "swift"
+    }
+  ],
+  "blogPostPages": [
+    {
+      "path": "/blogs/abstracting-third-party-dependencies-usage",
+      "slug": "abstracting-third-party-dependencies-usage",
+      "title": "Abstracting third party dependencies usage",
+      "desc": "Third party frameworks/libraries are easy to configure and helps us to boost the application development...",
+      "content": "Third party frameworks/libraries are easy to configure and helps us to boost the application development. On the contrary, the entirety of the dependency is not known and it is difficult to maintain them if Apple makes any Swift version update. We would have used that framework in different files so it will also be time consuming to remove the dependency and write something on our own/to find an alternative dependency.\n\nIn this post, we will look into ways to abstract and refactor the dependencies to a single function/single class file, therefore it will be easy to do changes in case of update.\n\n#### Extensions\nLet's consider `Kingfisher` and `AlamofireImage` framework. Both are used to download image from the given url and can also be cached locally in memory/disk. In a typical iOS application with image, one of these framework, let's say `Kingfisher` will be used in multiple class files to setImage to corresponding imageview/container. If we want to replace `Kingfisher` with `AlamofireImage` it will be a tedious process. The ugly way to do this is by making change to all the files, whereall the previous framework is used. The better approach should be with tweaking the implementation itself. By adopting the below method, frameworks can be implemented efficiently.\n\n```Swift\nimport UIKit\nimport Kingfisher\n\nextension UIImageView {\n\tfunc setImage(fromUrl:URL) {\n\t\tkf.setImage(with: url)\n\t}\n}\n```  \nThus, in case of replacing the framework, change is required only to this single extension file. \n\n#### Protocol\nProtocol allows us to abstract the usage of library to other parts of the source code. In iOS, keychain is highly secure, where we can store user sensitive datas. A library called `KeychainSwift` provides key-value pair API to get and set values into the keychain. \n\n``` Swift\nlet keyChain = KeychainSwift()\nkeyChain.set(\"Hello all\",forKey:\"Secure key\") \nkeyChain.get(\"Secure key\") // Returns \"Hello all\" value \n```\n\nProtocol will hide the usage of library to most of the codebase. Let's check protocol implementation as follows,\n\n``` Swift\nprotocol TokenStore {\n\tvar accessToken :String {get set}\n\tvar refreshToken :String {get set}\n}\n\nextension KeychainSwift:TokenStore {\n\tprivate enum Keys {\n\t\tstatic let accessToken = \"accessToken\"\n\t\tstatic let refreshToken = \"refreshToken\"\n\t}\n\n\tvar accessToken:String{\n\t\tget{return get(Keys.accessToken)}\n\t\tset{set(newValue,forKeys:Keys.refreshToken)}\n\t}\n\n\tvar refreshToken: String {\n        get { return get(Keys.refreshToken) }\n        set { set(newValue, forKey: Keys.refreshToken)}\n    }\n}\n\n\n// Now without mentioning the Library name we can use the functionality in our class file by Protocol\nclass AuthenticationService {\n    private let tokenStore: TokenStore\n\n    init(tokenStore: TokenStore) {\n        self.tokenStore = tokenStore\n    }\n\n    func fetchToken() {\n    \tprint(\"Access token is \\(tokenStore.accessToken)\")\n    }\n\n    func saveToken(token:String,refreshToken:String) {\n      tokenStore.accessToken = token\n      tokenStore.refreshToken = refreshToken\n    }\n} \n```\n\nIn above case, we will use `KeychainSwift` library only while creating AuthenticationService object. In this way, we can abstract the library usage from rest of the codebase \n\nMost of the frameworks might be an overkill to your application's use case. If you have more time to develop a feature it is always better to write any framework on your own in order to have control over the framework.   \n"
+    },
+    {
+      "path": "/blogs/async-tasks-using-grand-central-dispatch",
+      "slug": "async-tasks-using-grand-central-dispatch",
+      "title": "Async tasks using Grand Central Dispatch",
+      "desc": "Grand Central Dispatch(GCD) is a low-level API for managing concurrency in our application...",
+      "content": "### Grand Central Dispatch\nGrand Central Dispatch(GCD) is a low-level API for managing concurrency in our application. It enables us to perform multi-threading which means a number of tasks can be performed parallely.\n\nGCD performs asynchronous tasks by executing blocks of codes in queues. This closure will be executed only once and the callback will be called once the task is complete. We usually perform all our UI updates in main queue. \n\n``` Swift\nDispatchQueue.main.async {\n\tfilterProducts(sortBy:\"Price\")\n\ttableView.reloadData()\n}\n```\nWhen we perform a memory heavy operation, we should not execute it in the main thread rather we should execute it in background thread. Operations performed in background thread will not impact the UI performance.\n\n``` Swift\nDispatchQueue.global(qos:.background).async {\n\tdownloadDataModel()\n\tnotifyCompletion()\n} \n``` \n\nWe will need to perform UI updates once the background task is completed. We will perform those UI tasks in main thread as follows,\n\n``` Swift\n///Quality of Service - .userInitiated will have higher priority as we need to perform UI updates\nvar label = UILabel()\nlabel.text=\"Downloading\"\n\nDispatchQueue.global(qos:.userInitiated).async{\n\tdownloadDataModel()\n\tDispatchQueue.main.async {\n\t\tlabel.text=\"Downloaded\"\n\t}\n}\n```\n\nWe can also create our own dispatch queue that will provide us higher control over the queue. We can enable these queue to perform serial and concurrent tasks.In iOS, GCD is an essential framework to work with asynchronous tasks.\n\n``` Swift\nlet queue1 = DispatchQueue(label:\"Queue1\") // Default QOS and performs operations serially\n\n//Since QOS is .userInitiated, tasks will have higher priority. Operations will be executed concurrently \nlet queue2 = DispatchQueue(label:\"Parallel Queue\",qos:.userInitiated,attributes:[.concurrent]) \n```\n \n"
+    },
+    {
+      "path": "/blogs/basics-of-unit-testing",
+      "slug": "basics-of-unit-testing",
+      "title": "Basics of Unit Testing",
+      "desc": "Unit Testing is sometime misunderstood with Manual Testing. Manual Testing is carried out by testers/developers...",
+      "content": "### Unit Testing\nUnit Testing is sometime misunderstood with Manual Testing. Manual Testing is carried out by testers/developers. Unit testing is a form of automated testing that is perfomed via code. It improves the application from leaks, protects code base from regressions and reduces the time consumed on Manual testing. Unit testing is necessary a function that executes our code and asserts whether the right action is performed. \n\nIt is performed by using classes called as _test cases_, using _XCTest_ framework which is a subclass of _XCTestCase_. Unit test cases are run using unit testing targets. If your app doesn't have it, then add _Unit Testing Bundle_ target using _Xcode's File menu-> New -> Target_ before implementing test cases.\n\nLet's create a test case that will apply offer to our food. \n\n``` Swift\nimport XCTestCase\n// @testable will import all the symbols (types and functions) publicly available from our targets\n@testable import FoodApp\n\nclass FoodTests :XCTestCase {\n\tfunc testApplyOffer() {\n\n\t}\n}\n```\n\nXCTest's test runner will automatically invoke all the methods defined on the test cases beginning with _\"test\"_, will call all the methods when test suite is executed. \n\nWe will now define login inside our _testApplyOffer_ function. _XCTAssertEqual_ will validate the if the passed argument(new value) matches with the expected value. It will determine whether our test case gives success or not. Our test case should follow below standard struction, in order to have clear method definition, to maintain huge test cases among teams and to avoid confusion. \n- **Given** set of conditions\n- **When** set of actions to be performed\n- **Then** the expected outcome should be\n\nTo re-use same value/object created from _Given_ section to perform multiple test cases, we can use _setUp()_ method. The _setUp()_ method will be called each time when a test case is executed, thus it will reset our test cases and provides fresh copies of the object to run our test.\n\n``` Swift\nclass FoodTests :XCTestCase {\n\tprivate var productCart :ProductCart!\n\n\toverride func setUp() {\n\t\tsuper.setUp()\n\t\tproductCart = ProductCart()\n\t}\n\n\tfunc testApplyOffer() {\n\t\t//Given: We can assert if our initial state holds true\n\t\tXCTAssertEqual(productCart.price,0)\n\t\tlet offer = Offer(name:\"Craving Offer\",discount:40) // given 40% off on new order\n\n\t\t//When\n        productCart.add(Food(name:\"Butter Chicken\",price:200))\n        productCart.add(Food(name:\"Ghee Dosa\",price:100))  \n        productCart.apply(offer)\n\n\t\t//Then\n        XCTAssertEqual(productCart.price,180)\n\t}\n} \n``` \nWe have used hard-coded values to assert the test cases. In production code, we should remove such hard-coded values and instead should use variable/properties. It is also good to have validation values as _literals_ so that it will be simple, easy to read and maintain them. \n"
+    },
+    {
+      "path": "/blogs/date-picker-and-stepper-in-swift-ui",
+      "slug": "date-picker-and-stepper-in-swift-ui",
+      "title": "DatePicker and Stepper in SwiftUI",
+      "desc": "Declaration and definition of DatePicker and Stepper components...",
+      "content": "### DatePicker\n`DatePicker` is similar to `UIDatePicker` and it has lot of configuring options that let us to have control over the state and to obtain values from it.\n\nLet's create a `DatePicker`, \n``` Swift\nstruct ContentView : View {\n    var dateFormatter: DateFormatter {\n        let formatter = DateFormatter()\n        formatter.dateStyle = .long\n        return formatter\n    }\n\n    @State var currentDate = Date()\n\n    var body: some View {\n        VStack {\n            DatePicker(\n                $currentDate,\n                maximumDate: Date(),\n                displayedComponents: .date\n            )\n\n            Text(\"Date is \\(currentDate, formatter: dateFormatter)\")\n        }\n    }\n}\n```  \n`maximumDate` is used to restrict the future date. We can also set `minimumDate` to prevent selection beyond a specific date.\n\n### Stepper\n`Stepper` is similar to `UIStepper`. Let's look at below example to create `Stepper`\n```Swift\nstruct ContentView : View {\n\t@State var defaultValue :Double = 5\n    var body: some View {\n        VStack {\n            DatePicker(\n                $currentDate,\n                maximumDate: Date(),\n                displayedComponents: .date\n            )\n            Stepper(value:$defaultValue,in: 2...15,step: 0.25) {\n            \tText(\"The value is \\(defaultValue,specifier:\"%g\")\")\n            }\n        }\n    }\n}\n```\nThis will create a `Stepper` with range of 2 to 15, default value as 5 and each step will increase/decrease by 0.25\n \n"
+    },
+    {
+      "path": "/blogs/debugging-core-data",
+      "slug": "debugging-core-data",
+      "title": "Debugging Core Data",
+      "desc": "Core data is a framework that we can use to manage the modal layer of the application. It provides generialized and automated solutions...",
+      "content": "Core data is a framework that we can use to manage the modal layer of the application. It provides generialized and automated solutions to common tasks with object life cycle and object graph management, including persistence. Some less know functionality in Core data debugging will be discussed in this post.\n\n#### Explore SQL database\nSQL Debug output can be enabled to understand the abstract executions happening in the SQL database. To enable SQL debug output _Edit scheme -> Run -> Arguments -> Arguments Passed On Launch_ and select `~com.apple.CoreData.SQLDebug 1`\n\nThe level can be set to 4 to get more verbose level of output. It will provide information about fetch requests, saved data, properties accessed and internal executions of the operation performed. It will also provide the sqlite database file location in the debug console.\n\n``` Swift\nCoreData: annotation: Connecting to sqlite database file at \"/Users/Saravana/Library/Developer/CoreSimulator/Devices/AB83S03D-D1C1-45C4-9324-DB0E91FAB4F9/data/Containers/Shared/AppGroup/C6934424-5E58-4164-8593-3CC0D60D2BB5/mydatabase.sqlite\n``` \n\nIt will also allow us to discover heavy queries and the places in our app, that trigger multiple requests. More details can be acquired from [WWDC 2018’s Core Data Best Practices](https://developer.apple.com/videos/play/wwdc2018/224/)\n\n#### Concurrency debugging\nConcurrency allows us to execute multi thread operation on Core data. To understand the flows of the app and to identify when exceptions due to concurrency issue occurs, we should enable `-com.apple.CoreData.ConcurrencyDebug 1`\n\n#### Migration debugging\nTo debug and understand the internal operations involved in Core Data migration can be viewed by enabling `-com.apple.CoreData.MigrationDebug 1`. This will provide us insights about the exception cases when data migration occurs.\n\n"
+    },
+    {
+      "path": "/blogs/error-handling",
+      "slug": "error-handling",
+      "title": "Error Handling",
+      "desc": "Error handling is the process of responding to and recovering from error conditions in our program...",
+      "content": "Error handling is the process of responding to and recovering from error conditions in our program. Swift provides first-class support for throwing, catching, propagating, and manipulating recoverable errors at runtime.\n\nSome operations aren’t guaranteed to always complete execution or produce a useful output. Optionals are used to represent the absence of a value, but when an operation fails, it’s often useful to understand what caused the failure, so that our code can respond accordingly.\n\nSwift provides a native way to define and handle errors using the Error protocol. Conforming to it doesn’t require us to add any specific properties or methods, so we can make any type conform to it with ease.\n\n``` Swift\nenum ValidationError: Error {\n    case tooShort\n    case tooLong\n    case invalidCharacterFound(Character)\n}\n```\n\nLet's inherit `LocalizedError` protocol to `ValidationError` enum, so that we can return approriate error message to each of the case individually. \n``` Swift\nextension ValidationError: LocalizedError {\n    var errorDescription: String? {\n        switch self {\n        case .tooShort:\n            return NSLocalizedString(\n                \"Your username needs to be at least 4 characters long\",\n                comment: \"\"\n            )\n        case .tooLong:\n            return NSLocalizedString(\n                \"Your username can't be longer than 14 characters\",\n                comment: \"\"\n            )\n        case .invalidCharacterFound(let character):\n            let format = NSLocalizedString(\n                \"Your username can't contain the character '%@'\",\n                comment: \"\"\n            )\n\n            return String(format: format, String(character))\n        }\n    }\n} \n```\n\nThe above function enables us to validate the username. We will look two ways to implement this error handling.\n1. Using try-catch block\n2. Using closure\n\n#### Using try-catch block\n``` Swift\nfunc validate(username: String) throws {\n    guard username.count > 3 else {\n        throw ValidationError.tooShort\n    }\n\n    guard username.count < 15 else {\n        throw ValidationError.tooLong\n    }\n\n    for character in username {\n        guard character.isLetter else {\n            throw ValidationError.invalidCharacterFound(character)\n        }\n    }\n}\n```\nThe above function validates the username and throws the corresponds ValidationError case. We have to implement try-catch block to receive the validate passed from above method. `isLetter` is a new API introduced in Swift 5.\n``` Swift\nfunc userDidPickName(_ username: String) {\n    do {\n        try validate(username: username)\n        // validation success, no error was thrown. \n        submit(username)\n    } catch {\n        errorLabel.text = error.localizedDescription\n    }\n}\n```\n#### Using closure\n``` Swift\nfunc validate(username: String,\n              then handler: @escaping (ValidationError?) -> Void) {\n    guard username.count > 3 else {\n        handler(ValidationError.tooShort)\n    }\n\n    guard username.count < 15 else {\n        handler(ValidationError.tooLong)\n    }\n\n    for character in username {\n        guard character.isLetter else {\n            handler(ValidationError.invalidCharacterFound(character))\n        }\n    }\n}\n```\nIf will be slightly different to handle the callback from the closure, let's have a look at below code\n``` Swift\nfunc userDidPickName(_ username: String) {\n    validate(username: username) { error in\n        if let error = error {\n            errorLabel.text = error.localizedDescription\n        } else {\n            submit(username)\n        }\n    }\n}\n```\nNow that we can show the user the appropriate validation message. By giving proper error codes/message, we give directions for the user to proceed then on. Even if we show error, valid localized error message will set the right context about the state, so users might be happy even if something goes wrong. \n"
+    },
+    {
+      "path": "/blogs/exploring-background-tasks-framework",
+      "slug": "exploring-background-tasks-framework",
+      "title": "Exploring BackgroundTasks Framework",
+      "desc": "We will explore backgroundtasks framework which was introduced in iOS 13...",
+      "content": "### BackgroundTasks framework\nThis framework was introduced in iOS 13. We can perform our required background operations such as downloading data in background, fetching updated contents etc., when the application is in background state.\n\nAn essential API to perform background tasks is `BGTaskScheduler`\n\n> BGTaskScheduler - A class for registering launch handlers that are run by submitting task requests to launch your app in the background.\n\nFollowing requests are used to process tasks and refresh the application in background\n\n> `BGProcessingTaskRequest` - A request to launch your app in the background to execute a processing task that can take minutes to complete.\n> `BGAppRefreshTaskRequest`  - A request to launch your app in the background to execute a short refresh task.\n\nIn order to perform background tasks we have to add capabilities to our application. In Xcode 11, click *Your App target -> Signing & Capabilities -> +Capability -> Background Modes*. And check `Background fetch` and `Background processing`\n\niOS will perform background tasks registered with specific identifiers. So we need to provide identifiers for our background tasks in plist file. Add `BGTaskSchedulerPermittedIdentifiers` key in info.plist and add items with uniques identifiers. For example: Item 0 - *com.app.backgroundImageFetch*, Item 1 - *com.app.appRefresh* \n\nWe need to register our background tasks using `BGTaskScheduler` in `AppDelegate.swift`\n``` Swift\nimport BackgroundTasks \n\n// We need to cancel existing background tasks before performing a new one\nfunc cancelAllPendingBGTask() {\n  BGTaskScheduler.shared.cancelAllTaskRequests()\n}\n\nfunc application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {\n\nregisterBackgroundTask()\nreturn true\n}\n\n//MARK: Registering backgroundtasks\nprivate func registerBackgroundTasks() {\n\n  BGTaskScheduler.shared.register(forTaskWithIdentifier: \"com.app.backgroundImageFetch\", using: nil) { task in\n   //This task can be casted to BGProcessingTask \n   self.handleImageFetcherTask(task: task as! BGProcessingTask)\n  }\n\n  BGTaskScheduler.shared.register(forTaskWithIdentifier: \"com.app.appRefresh\", using: nil) { task in\n   //This task can be casted to BGAppRefreshTask \n   self.handleAppRefreshTask(task: task as! BGAppRefreshTask)\n  }\n}\n``` \n\nWe also need to schedule what tasks to be executed when app enters background state. \n``` Swift\nfunc applicationDidEnterBackground(_ application: UIApplication) {\n  bgImageFetch()\n  bgAppRefresh()\n}\n\n// We will fetch all the images from Photos app\nfunc bgImageFetch()() {\n let request = BGProcessingTaskRequest(identifier: \"com.app.backgroundImageFetch\")\n request.requiresNetworkConnectivity = false // Need to true if your task need to network process. Defaults to false.\n request.requiresExternalPower = false\n\n request.earliestBeginDate = Date(timeIntervalSinceNow: 1 * 60) // fetch Image after 1 minute\n do {\n  try BGTaskScheduler.shared.submit(request)\n } catch {\n   print(\"Unable to fetch: \\(error)\") \n }\n}\n\nfunc bgAppRefresh() {\n let request = BGAppRefreshTaskRequest(identifier: \"com.app.appRefresh\")\n request.earliestBeginDate = Date(timeIntervalSinceNow: 2 * 60) // Initiate app Refresh after 2 minute\n do {\n  try BGTaskScheduler.shared.submit(request)\n } catch {\n   print(\"Unable to refresh: \\(error)\")\n }\n}\n```\nWe cannot perform longer background tasks in iOS 13. The background task time is limited to 30 seconds.\n"
+    },
+    {
+      "path": "/blogs/how-to-add-firebase-crashlytics-to-ios-app",
+      "slug": "how-to-add-firebase-crashlytics-to-ios-app",
+      "title": "How to add Firebase Crashlytics to iOS app",
+      "desc": "At somepoint in time all of our apps will have crashes. It would be better to prioritize and fix those crashes, if we can identify...",
+      "content": "At somepoint in time all of our apps will have crashes. It would be better to prioritize and fix those crashes, if we can identify how often the crash occurs, its the root cause and track its impact on users. \n\n### Firebase Crashlytics\nFirebase Crashlytics is a real-time crash reporter that helps to track issues and enhances the app quality. We must follow the below steps to integrate Firebase Crashlytics framework in our iOS application,\n1. Connect iOS app\n2. Add Crashlytics SDK\n3. Configure crashlytics in Xcode\n4. Build/run iOS app\n\n#### Connect iOS app\nSelect Crashlytics from left nav-panel of [Firebase console](https://console.firebase.google.com/?pli=1). If Firebase is not added to iOS app, then register the app by entering iOS bundle ID. And download **GoogleService-Info.plist** config file and add it to iOS project. Choose appropriate app from the dropdown in top bar of the console. Tap **Set up Crashlytics** and select *No, this app does not have any version of the Crashlytics SDK installed*\n\n#### Add Crashlytics SDK\nCrashlytics SDK must be added to iOS project workspace. It can be installed easily using *Cocoapods*. If the project doesn't support Cocoapods, SDK can be added manually also.\n\n##### To add SDK via Cocoapods\n- Open terminal and navigate to project directory\n- Open podfile and add these dependencies\n``` Swift\npod 'Fabric', '~> 1.10.1'\npod 'Crashlytics', '~> 3.13.1'\n```\n- Enter `pod install` to install the dependencies\n\n##### To add SDK manually \n- Download the [Crashlytics SDK](https://storage.googleapis.com/firebase-preview-drop/ios/crashlytics/com.crashlytics.ios-manual.zip)\n- Unzip the SDK file and add `Fabric.framework` and `Crashlytics.framework` to project navigator\n- Select *Copy items if necessary* and click *Finish*\n\n#### Configure crashlytics in Xcode\nSelect the *Build Settings* from project file in Xcode and choose *DWARF with dSYM File* to the Debug Information format. This will allow the app to create dSYM files which will have clear stack traces with line numbers and methods. Navigate to *Build Phases* and add *New Run Script Phase* and enter this shell script `${PODS_ROOT}/Fabric/run` in the text box. This script will upload the dSYM files to Firebase, which will enable us to read detailed stack trace. Without the dSYM files we will only have raw stack traces with non-readable logs. \n\n#### Build/run iOS app\nOnce the app is run, verification will be sent to Firebase console that crashlytics is successfully installed. And the device logs can be viewed in the console.\n\nBy default, Firebase crashlytics will add analytic events to its crash logs. It will help us to identify the workflow of the user and his usage of different screens with specific events.   \n"
+    },
+    {
+      "path": "/blogs/how-to-download-images-files-and-show-progress",
+      "slug": "how-to-download-images-files-and-show-progress",
+      "title": "How to download images/files and show progress",
+      "desc": "Most of the iOS developers would have come across this situation to download images/files in their project...",
+      "content": "Most of the iOS developers would have come across this situation to download images/files in their project. And we have to show progress of the download for better User Experience.\n\n### Download images/files:\n\n```URLSession``` is a subclass of ```NSObject``` that coordinates group of network related tasks. This class provides APIs related to downloading and uploading data from the endpoints given by URLs. The API also enables the app to perform background tasks when the app isn't running or when the app is in suspended state. This class provides a instance method ```downloadTask(with:completionHandler:)``` that is used to retrieve the contents from the specified URL and calls a handler after completion.\n\n\n``` Swift\nfunc download(completion: @escaping((Any?)->Void)) -> Progress\n\nguard let imageURL = URL(string: \"https://www.gstatic.com/webp/gallery/5.jpg\") else {return}\n\nlet downloadTask = URLSession.shared.downloadTask(with: imageURL) { url, urlResponse, error in\n    if let contentUrl = url {\n            do {\n            \t// If the content downloaded is image\n                let imageData = try Data(contentsOf: contentUrl)\n                let image = UIImage(data: imageData)\n\n                //If the content downloaded is file\n                let string = try String(contentsOf: contentUrl)\n                print(\"The contents of file is \\(string)\") \n                completion(contentUrl)               \n            } catch {\n              print(\"Error:\\(error.debugDescription())\")\n              completion(nil)\n            }\n    }\n}\ndownloadTask.resume()\nreturn downloadTask.progress\n``` \n\nOnce the downloadTask is created, it should call ```resume()``` method to perform the call. The downloading task will be handled by ```URLSession```\n\n### Show progress:\n\nProgress is used to represent completion of certain task that app is doing like downloading/uploading a file. \n\nLet's have a look at basic properties of Progress,\n\n1. totalUnitCount\n2. completedUnitCount\n3. fractionCompleted\n4. localizedDescription\n\n#### totalUnitCount\n\nThe total number of units of work tracked for the current progress\n\n#### completedUnitCount\n\nThe number of units of work for the current job that have already been completed\n\n#### fractionCompleted\n\nIt represents the fraction of work completed by overall task, it also includes work done by any children it may have. It is fractioned between 0 and 1, where 0 means no work is completed and 1 means overall work is completed\n\n#### localizedDescription\n\nIt provides more information about the progress tracked by the receiver. Using *Kind* property one can parameterize what its unit represent. For eg. if Kind is *ProgressKind.file* the *localizedAdditionalDescription* will give byte formatted string\n\nThe progress of download/upload can be tracked and its state can be shown in the UI\n\n``` Swift\nprivate var taskProgress: Progress? {\n        didSet {\n            observation?.invalidate()\n            progressView.observedProgress = nil\n\n            guard let progress = taskProgress else {return}\n\n            progressView.observedProgress = progress\n            progressDescriptionLabel.text = progress.localizedDescription\n\n            observation = progress.observe(\\.localizedAdditionalDescription, options: [.initial, .new]) { [weak self] _, change in\n                print(\"The progress value is\\(change.newValue)\")\n                //This progress value can be shown in UI\n            }\n        }\n    }\n```  \n"
+    },
+    {
+      "path": "/blogs/implementing-qr-code-scanner-to-ios-app",
+      "slug": "implementing-qr-code-scanner-to-ios-app",
+      "title": "Implementing QR code scanner to iOS app",
+      "desc": "An QR (Quick Response) code is two dimensional barcode. It can carry information in both vertical and horizontal direction...",
+      "content": "### QR Code\nAn QR (Quick Response) code is two dimensional barcode. It can carry information in both vertical and horizontal direction. QR code can be used to display product descriptions, provide URLs/address, give contact cards, initiate payments, deeplink any iOS application. It is used to market and advertise the brands.\n\nIn iOS, QR code can be scanned using default Camera app. Also, certain apps use their own QR code scanner to maintain their in-app experience, accessibility and invoke specific functionality. A custom interface to scan QR can be build using `AVFoundation` framework.\n\n### Configuring Capture Session\n`AVCaptureSession` manages the audio & video sessions in iOS. `AVCaptureDevice` is the physical capturing device present in your phone and it gives one or more `AVCaptureOutputs`. We will use default camera as input and the output will be instance of `AVCaptureMetadataOutput` that will provide us metadata of the video session. The output type of the metadata can be set by setting `metadataObjectTypes` to `.qr`\n\n```Swift\nfunc captureSession() {\n    guard let videoDevice = deviceType.default(for: .video),\n        let captureInput = try? AVCaptureDeviceInput(device: videoDevice),\n        session.canAddInput(captureInput) else {\n            //If the device is not present/cannot be added to the capturing session.\n            return\n    }\n\n    let metaOutput = AVCaptureMetadataOutput()\n    guard session.canAddOutput(metaOutput) else {\n        //If the output cannot be added to the capturing session.\n        return\n    }\n\n    session.addInput(captureInput)\n    session.addOutput(metaOutput)\n\n    guard metaOutput.availableMetadataObjectTypes.contains(.qr) else {\n        //QR metadata output not present in this device\n        return\n    }\n\n    metadataOutput.metadataObjectTypes = [.qr]\n    metadataOutput.setMetadataObjectsDelegate(self, queue: queue)\n}\n```\n### Loading Camera\nWe need to provide permission to access camera. To request for permission we must add `NSCameraUsageDescription` key to `info.plist` with description stating why do we need access the camera. To load a Camera view, we must create custom view with `AVCaptureVideoPreviewLayer` as its sublayer. The session can be initiated by calling `startRunning`\n\n```Swift\nfunc requestPermission() {\n    switch AVCaptureDevice.authorizationStatus(for: AVMediaType.video) {\n    case .authorized:\n    // If authorized to access the camera.\n    case .notDetermined:\n        // We have never requested access to the camera before.\n        AVCaptureDevice.requestAccess(for: .video) { authorized in\n                guard authorized else {\n                    // Denied the camera access request.\n                    return\n                }\n                // Authorized to access the camera.\n            }\n        }\n    case .denied, .restricted:\n        // Denied the camera access request or if camera usage is restriced.\n        return\n    }\n}\n```\n\n### Scanning QR Code\nWe will look how to extract URL from QR code. We have set up camera video session, configured our video preview layer and permission to access camera is granted by user. `AVCaptureMetaDataOutputObjectsDelegate` provides a delegate method `captureOutput:didOutputMetadataObjects:fromConnection:` that is called when QR code is scanned. \n\n```Swift\nfunc metadataOutput(_ output: AVCaptureMetadataOutput, didOutput metadataObjects: [AVMetadataObject], from connection: AVCaptureConnection) {\n        guard let object = metadataObjects.first as? AVMetadataMachineReadableCodeObject,\n            let stringValue = object.stringValue,\n            let url = URL(string: stringValue) else do {\n                return\n        }\n        //If the URL is valid, perform required action\n    }\n```\n\nThus, we have implemented custom QR code scanner, which will enable user to perform multiple actions by identifying QR code.\n"
+    },
+    {
+      "path": "/blogs/ios-memory-allocation",
+      "slug": "ios-memory-allocation",
+      "title": "iOS Memory Allocation",
+      "desc": "iOS Memory Allocation",
+      "content": "The Virtual Memory manager creates a logical address space (or “virtual” address space) for each process and divides it up into uniformly-sized chunks of memory called **pages**. \n\n\nPages holds multiple object in the heap such as _UIView_, _UILabel_, _String_, _Data_ etc., Some object can extend to more than one page. These pages are typically ___16Kb___ in size.\n\n\nThe memory use of the application depends on the number of pages and its page size.\n\n<!-- ![](./images/memory-in-use.png) -->\n![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209686/elsaravana/ios-memory-allocation/images/memory-in-use_bxvubu.png)\n\n### Typical memory profile of an app:\n-   Clean memory\n-   Dirty memory\n-   Compressed memory\n\n<!-- ![](./images/memory-types.png) -->\n![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209685/elsaravana/ios-memory-allocation/images/memory-types_ucddca.png)\n\n### Clean memory:\n\n- Memory mapped files are files present in disk that are loaded into memory. \n- If the memory mapped files (can be _image.jpg_, _blob.data_, _Training.model_, _Frameworks_) are read-only, then they it will always be as Clean pages. \n- Kernel manages when the files comes in and out of the RAM.\n\n### Dirty memory:\n\n- Dirty memory is any memory that are written by an app. \n- Dirty memory will be utilized by all heap allocation objects such as _malloc_, _Array_, _NSCache_, _UIViews_, _String_ and decoded image buffers such as _CGRasterData_, _ImageIO_ and _Frameworks_. \n- This dirty memory can be reduced by usage of Singleton classes and Global initializers.\n\n### Compressed memory:\n\nCompressed memory will compress and store the unaccessed pages. Memory compressor is used to store & retrieve compressed memory. \n\nMemory compressor performs 2 actions:\n-   Compresses unaccessed pages\n-   Decompresses pages upon access\n\nSometimes compressor complicates freeing memory. _NSCache_ is thread safe, can be preferred over _Dictionary_. \n\n\n### Memory Footprint Limits:\n\n<!-- ![](./images/memory-footprint.png) -->\n![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209685/elsaravana/ios-memory-allocation/images/memory-footprint_zp9p7k.png)\n\n- Only Dirty and Compressed memory contributes to high memory footprint. \n- Limits vary from device to device. \n- Applications will have fairly high memory footprint limits whereas Extensions will have much lower limit. \n- EXC_RESOURCE_EXCEPTION will occur if footprint limit is exceeded.\n"
+    },
+    {
+      "path": "/blogs/ios-memory-footprint-profiling",
+      "slug": "ios-memory-footprint-profiling",
+      "title": "iOS Memory Footprint Profiling",
+      "desc": "iOS Memory Footprint Profiling",
+      "content": "iOS Memory Footprint can be measured by Xcode Memory gauge and can be investigated by Instruments.\n\n## Xcode Memory gauge:\n\nXcode memory gauge is used to view the memory footprint of the app. It is present in Xcode debug navigator.\n\n## Instruments:\n\nInstruments provides number of ways to investigate the memory footprint of the app.\n\n-\tAllocations\n-\tLeaks\n-\tVM Tracker\n-\tVirtual memory trace\n\n### Allocations:\n\nAllocations check the various heap allocations of the app\n\n### Leaks:\n\nLeaks provides the memory leaks in the process over time\n\n### VM Tracker:\n\nVM Tracker provides the memory allocation information in Dirty size, Swapped (Pre-Compressed) size and Resident size. It is useful to identify the dirty size of the app\n\n### Virtual memory trace:\n\nVirtual memory trace provides the deep view of performance of virtual memory. It provides the operations of system profile such as Page cache hits, zero fill etc., in the instruments \n\nOnce EXC_RESOURCE_EXCEPTION exception occurs the memory allocation can be view from the Memory debugger. Memory Graph Hierarchy can be viewed from the debugger. \n\n<!-- ![](./images/view-memgraph-hierarchy.png) -->\n![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209752/elsaravana/ios-memory-footprint-profiling/images/view-memgraph-hierarchy_ozngpy.png)\n\nTo investigate further, the memory graph has to be exported from the project. Memory graph can be exported from _File -> Export Memory graph_\n\n<!-- ![](./images/export-memgraph.png) -->\n![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209752/elsaravana/ios-memory-footprint-profiling/images/export-memgraph_lqr84d.png)\n\nOnce _abc.memgraph_ is exported. We can investigate it further using XCode command line tools such as _vmmap, leaks, heaps_, _malloc-history_.\n\n#### vmmap: \n\nShows virtual memory regions allocated in a process\n\n`vmmap abc.memgraph`\n\n`vmmap –-summary abc.memgraph`\n\n-   The summary flags provides the sizes in virtual memory region such as virtual size, resident size, dirty size, swapped size etc., Dirty and swapped size are important that contributes to the memory footprint.\n\n\n##### vmmap and AWK:\n\n`vmmap –page abc.memgraph | grep ‘.dylib’ | awk ‘{ sum += $6 } END { print “Total dirty pages: ”sum}‘`\n\n-   The above code prints the total dirty pages of the dynamic library in the app.\n\n\n#### leaks:\n\nShows objects that are allocated, but no longer referenced and also shows routine cycle to which the leaks belong to. Tracks objects in heap that are not rooted in runtime. So Leaks are dirty memory that can never be freed.\n\n`leaks abc.memgraph`\n\n-   If malloc stack logging is enabled in the process, it also shows the backtrace to the root node. Malloc logging can be enabled from _Edit Scheme -> Run -> Diagnostics_\n\n<!-- ![](./images/enable-malloc.png) -->\n![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209751/elsaravana/ios-memory-footprint-profiling/images/enable-malloc_rqaczk.png)\n\n#### heap:\n\nShows object allocated on the process heap and used for identifying large objects in memory and what allocated it.\n\n`heap abc.memgraph`\n\n  - Provides information about the class_name, count of its occurrence, total size and average size etc., \n\n`heap -–sortBySize abc.memgraph`\n\n-   Sorts the heap information (class_name, count, size etc.,) by size\n\n`heap –address [class_name] abc.memgraph`\n\neg: heap –address NSConcreteData abc. Memgraph\n\n-   If address flag is passed along with the name of the class, it will give the each instance of the class in heap\n\n\n#### malloc_history:\n\nTo use malloc_history command line tool, malloc stack tracking should be enabled.\n\n`malloc_history abc.memgraph [address]`\n\n-   Provides the backtrace for the given address for instance in memory, if backtrace is captured.\n\nFrom the backtrace, the function/class which causes the huge memory allocation can be identified and managed better.\n"
+    },
+    {
+      "path": "/blogs/ios-password-and-otp-autofill",
+      "slug": "ios-password-and-otp-autofill",
+      "title": "iOS Password and OTP autofill",
+      "desc": "From iOS 12, Password and OTP can be suggessted in the QuickType bar, which can be filled to corresponding textfields in a single tap...",
+      "content": "### Password Autofill\n\nFrom iOS 12, Password and OTP can be suggessted in the QuickType bar, which can be filled to corresponding textfields in a single tap. It is easy to enable this feature in your app. When your app is installed to an iOS device, the OS associate with all the domains mentioned in App's _Associated domains_ entitlement. \n\n#### Configuring App's Associated Domains\nSelect _Project File from Project Navigator -> Target -> Capabilities -> Associated Domains_. Add new domain with _webcredentials:_ prefix, to include all the subdomains of the associated domain, use _*<Domain Name>_. The domain should follow the below structure\n\n``` Swift\n<service>:<Domain Name>[:port number]\n```\n\n#### Include Apple App Site Association File (AASAF) to your domain\nCreate a file without extension named as `apple-app-site-association`. It must be accessible via HTTPS. The file should contain associated app information in following structure.\n\n``` Json\n{\n\t\"webcredentials\":{\n\t\t\"apps\":[\n\t\t\t\"abcdef1234.com.password.ios12\",\n\t\t\t\"abcdef1234.com.otp.ios12\"\n\t\t]\n\t}\n}\n``` \nThe `apps` array should include identifier with format `<Team ID>.<appID>`. This will enable two way connection between the app and your domain.\n\nTo enable password autofill, we must set values to `contentType` properties.\n\n``` Swift\nusernameTxtField.contentType = .username\npasswordTxtField.contentType = .password\n```\n\n### OTP/Security Code autofill\nTo enable OTP autofill, we must set values to contentType property as follows,\n\n``` Swift\notpTxtField.contentType = .oneTimeCode \n```\n\nPlease note, when sign-in autofill is tapped, a FaceID or TouchID authentication is required to fill the necessary credentials to your application.\n"
+    },
+    {
+      "path": "/blogs/navigation-in-swift-ui",
+      "slug": "navigation-in-swift-ui",
+      "title": "Navigation in SwiftUI",
+      "desc": "Describes about navigating from one view to another using declarative code...",
+      "content": "In order to navigate from one view to another in the navigation stack, we must use `NavigationButton`. It will take a destination as its first parameter and what to show inside the button as its second parameter (or as a trailing closure), and it handles pushing the new view on the stack for us along with animation. \n\nLet's look at below example to understand better,\n``` Swift\nstruct DetailView: View {\n    var body: some View {\n        Text(\"Detail\")\n    }\n}\n\nstruct ContentView : View {\n    var body: some View {\n        NavigationView {\n            NavigationButton(destination: DetailView()) {\n                Text(\"Hello!!\")\n            }.navigationBarTitle(Text(\"Navigation\"))\n        }\n    }\n}\n```\nAlso SwiftUI doesn't provide `didSelectRowAtIndexPath:` delegate to know when a tableview row is tapped. We have a create navigation when a row is tapped in a `List`. \n```Swift\nstruct DetailView: View {\n    var body: some View {\n        Text(\"Detail\")\n    }\n}\n\nstruct ContentView : View {\n    var body: some View {\n        NavigationView {\n            List(items) { item in\n              NavigationButton(destination: DetailView(),isDetail:true) {\n                Text(item)\n              } \n            }.navigationBarTitle(Text(\"List view\")) \n        } \n    }\n}\n```\nIn the above examples `DetailView` represent the second view to which we want to navigate using `NavigationView`\n"
+    },
+    {
+      "path": "/blogs/optimizing-images-to-reduce-memory-consumption-part-1",
+      "slug": "optimizing-images-to-reduce-memory-consumption-part-1",
+      "title": "Optimizing images to reduce memory consumption – Part 1",
+      "desc": "Optimizing images to reduce memory consumption – Part 1",
+      "content": "The memory usage of the image depends on its dimension (2034*1600) not its file size (600kb)\n\nMemory usage of an image can be calculated as follows,\n\nMemory = width in pixels * height in pixels * 4 byte per pixel\n\nSo our memory will be, \n\nMemory = 2034 * 1600 * 4 =  **13.02 MB**\n\n\n## Why do images occupy such memory space?\n\nIn iOS, 3 phases are involved to render an image in app. The phases are Load, Decode & Render\n\n![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209421/elsaravana/optimizing-images-to-reduce-memory-consumption-part-1/images/image-load-lifecycle_oyw9az.png)\n\n### Load:\n\nLoads the compressed .jpg, .png file into the memory\n\n### Decode:\n\nDecodes/uncompress the image into GPU readable format, which in turn occupies more memory than its files size\n\n### Render:\n\nRenders the image into the app\n\n## Image Formats:\n\nThe following are the image formats,\n\n-   SRGB Format (4 byte/pixel)\n-   Wide Format (8 byte/pixel)\n-   Luminance & alpha 8 format (2 byte/pixel)\n-   Alpha 8 format (1 byte/pixel)\n\nTo choose the right format for the app,\n\n-   Don’t use _UIGraphicsBeginImageContextWithOptions_, it occupies 4 bytes per pixel by default\n-   Use _UIGraphicsImageRenderer_, automatically picks best graphics format in iOS 12\n\nEg: To Draw circle using _UIGraphicsImageRenderer_ – allocates only 1 byte per pixel\n\n``` Swift\nlet bounds = CGRect(x: 0, y: 0, width:300, height: 100)\nlet renderer = UIGraphicsImageRenderer(size: bounds.size) \n\nlet image = renderer.image { context in \n// Drawing Code \nUIColor.black.setFill() \n\nlet path = UIBezierPath(roundedRect: bounds, byRoundingCorners: UIRectCorner.allCorners, cornerRadii: CGSize(width: 20, height: 20)) \n\npath.addClip() \nUIRectFill(bounds) \n} \n\n// Make circle render blue, but stay at 1 byte-per-pixel image \nlet imageView = UIImageView(image: image) \nimageView.tintColor = .blue \n```\n\n## Image Resizing:\n\n_UIImage_ is non-efficient in resizing images. It will compress original image to memory and its internal coordinate space transforms are expensive\n\n_ImageIO_ is efficient in resizing images. It can read image size & metadata information without dirtying the memory.\n\n``` Swift\n//Resizing image using ImageIO - Efficient\n       \nlet file = \"path/image.jpg\"\n\nlet url = NSURL(fileURLWithPath: file)\n        \nlet imageSource = CGImageSourceCreateWithURL(url, nil)\n\nlet properties = CGImageSourceCopyPropertiesAtIndex(imageSource, 0, nil)\n\nlet options :[NSString:Any] = [\n            kCGImageSourceThumbnailMaxPixelSize:100,\nkCGImageSourceCreateThumbnailFromImageAlways:true ]\n        \nlet scaledImage = CGImageSourceCreateThumbnailAtIndex(imageSource, 0, options)\n```\n\nImages should be loaded only if the app presents the image. Unload the images when the app is off-screen using App lifecycle such as _UIApplicationWillEnterForeground_ and _UIApplicationDidEnterBackground_ notifications.\n\n\nAlso unload images using _UIViewController_ lifecycle methods such as \n_viewWillAppear_ and _viewDidDisappear_.\n"
+    },
+    {
+      "path": "/blogs/optimizing-images-to-reduce-memory-consumption-part-2",
+      "slug": "optimizing-images-to-reduce-memory-consumption-part-2",
+      "title": "Optimizing images to reduce memory consumption – Part 2",
+      "desc": "Optimizing images to reduce memory consumption – Part 2",
+      "content": "Image rendering pipeline involves Load, Decode and Render as mentioned in [Part 1](/blogs/optimizing-images-to-reduce-memory-consumption-part-1).\n\n![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209491/elsaravana/optimizing-images-to-reduce-memory-consumption-part-2/images/image-load_xqbtr2.png)\n\nRendering is a continuous phase. It is important to consider decoding to measure the performance. Image Buffers retains the pixels of the image while decoding.\n\n### Image buffer:\n\nIt is the in-memory representation of the image. Each element in the buffer describes the color and transparency of single pixel in the image. The buffer size is proportional to the size of the image.\n\n\n### Frame buffer:\n\nFrame buffer holds the actual rendered output of the application.\nAs application view hierarchy updates, _UIKit_ will render the application’s window and all of its subviews into the frame buffer. The frame buffer provides the per pixel information that the display hardware will read to render the pixel on the display. The render happens at fixed interval (60-120Hz)\n\n### Data buffer:\n\nData buffers contains image file. It is buffer which contains the sequences in bytes. Image itself will be encoded in JPEG, PNG and other compressed forms. Its metadata describes the image dimensions. Bytes do not directly represent pixel of the image.\n\n### Downsampling Images:\n\nThe _UIImageView_ size will be smaller when compared to the UIImage that is required to be render inside it. Usually CoreAnimation will shrink the image into _UIImageView_. By using downsampling we can save memory\n\n![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209491/elsaravana/optimizing-images-to-reduce-memory-consumption-part-2/images/image-buffer_qsy7al.png)\n\nDownsampling shrinks the UIImage and decodes the shrinked image from Image buffer. This shrinked image can be used always to render into _UIImageView_. We can discard the original data buffer of the image, to save the memory.\n\n![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209491/elsaravana/optimizing-images-to-reduce-memory-consumption-part-2/images/downsampling-flow_wvtvab.png)\n\n``` Swift\n//Downsampling large images for display at smaller size\n    func downSample(imageAt imageURL:URL, to pointSize :CGSize, scale:CGFloat) -> UIImage {\n        let imageSourceOptions = [kCGImageSourceShouldCache:false] as CFDictionary\n        let imageSource = CGImageSourceCreateWithURL(imageURL as CFURL, imageSourceOptions)!\n        \n        let maxDimensionInPixels = max(pointSize.width, pointSize.height) * scale\n        let downSampleOptions = [kCGImageSourceCreateThumbnailFromImageAlways:true, kCGImageSourceShouldCacheImmediately: true, kCGImageSourceCreateThumbnailWithTransform: true, kCGImageSourceThumbnailMaxPixelSize:maxDimensionInPixels] as CFDictionary\n        \n        let downSampleImage = CGImageSourceCreateThumbnailAtIndex(imageSource, 0, downSampleOptions)!\n        return UIImage(cgImage: downSampleImage)\n    }\n```\n\nA sample downsampling example is as follows, \n\n![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209490/elsaravana/optimizing-images-to-reduce-memory-consumption-part-2/images/downsampling-comparison_hxxm38.png)\n\nBy performing optimization using the downsampling technique we can drastically reduce the memory consumed by the image, which in turn will improve the performance of the app. \n"
+    },
+    {
+      "path": "/blogs/passing-data-in-swift-ui",
+      "slug": "passing-data-in-swift-ui",
+      "title": "Passing Data in SwiftUI",
+      "desc": "We will look into how we can pass data across views in SwiftUI...",
+      "content": "Data plays a vital part in maintaining different states of our app. Using these data, SwiftUI allows us to handle various states easily.\n\n### Retrieve data from Local Storage/Model\n\nLet's consider the below model layer to retrieve and show profile information of a user and update his personal data.\n``` Swift\nimport SwiftUI\nimport Combine\n\nstruct Profile: Identifiable {\n    let id: Int\n    var name: String\n    var age: Int\n}\n\nfinal class ProfileStore: BindableObject {\n    let didChange = PassthroughSubject<Void, Never>()\n\n    var profiles: [Profile] = [] {\n        didSet {\n            DispatchQueue.main.async {\n                self.didChange.send(())\n            }\n        }\n    }\n\n    func getData() {\n        // Retrieve data\n        profiles = [\n            .init(id: 1, name: \"Saravana\", age: 25),\n            .init(id: 2, name: \"Hund\", age: 10),\n            .init(id: 3, name: \"Bea\", age: 30)\n        ]\n    }\n}\n```\nThe struct Profile conforms to `Identifiable` protocol. The view ProfileStore conforms to `BindableObject`, which will allow SwiftUI to refresh the views once it receives notification through `didChange`\n\n#### List profile data:\n\nWe will now create our view that display the profile information of users.\n``` Swift\nstruct ProfileListView : View {\n    @ObjectBinding var store: ProfileStore\n\n    var body: some View {\n        NavigationView {\n            List(store.profiles) { profile in\n                VStack(alignment: .leading) {\n                    Text(profile.name)\n                        .font(.headline)\n                    Text(\"Age: \\(profile.age)\")\n                        .font(.subheadline)\n                }\n            }\n                .onAppear(perform: { self.store.getData() })\n                .navigationBarTitle(Text(\"Users\"))\n        }\n    }\n}\n```\n\nThe `ProfileListView` shows array of profiles from the struct. It displays name and age of each profile in every row. \n\n#### Edit profile data:\n\nWe will create a new view that edits the profile data in real time. Thus, allowing the `ProfileListView` to maintain the state from updated data model layer. We will achieve this by using `Form` component.\n``` Swift\nstruct EditingView: View {\n    @Environment(\\.isPresented) var isPresented: Binding<Bool>\n    @Binding var profile: Profile\n\n    var body: some View {\n        NavigationView {\n            Form {\n                Section(header: Text(\"Profile information\")) {\n                    TextField($profile.name)\n                    Stepper(value: $profile.age) {\n                        Text(\"Age: \\(profile.age)\")\n                    }\n                }\n\n                Section {\n                    Button(action: { self.isPresented?.value.toggle() }) {\n                        Text(\"Save\")\n                    }\n                }\n            }.navigationBarTitle(Text(profile.name))\n        }\n    }\n}\n```\nThe property wrapper `@Binding` is used to editing and update the profile data to `Profile` struct. It will allow the view to update the value without retaining a copy of the data.\n\nLet's look at how we can pass profile data and present `EditingView`,\n``` Swift\nstruct ProfileListView : View {\n    @ObjectBinding var store: ProfileStore\n\n    var body: some View {\n        NavigationView {\n            List { \n             ForEach(0..<store.profiles.count) { index in\n\t           PresentationButton(destination: EditingView(profile: self.$store.profiles[index])) {\n\t \t         VStack(alignment: .leading) {\n                    Text(self.store.profiles[index].name)\n                        .font(.headline)\n                    Text(\"Age: \\(self.store.profiles[index].age)\")\n                        .font(.subheadline)\n                 }\n\t           }\n              }\n           }\n           .onAppear(perform: { self.store.getData() })\n           .navigationBarTitle(Text(\"Users\"))\n        }\n    }\n}\n```\nThus, we can edit the name using Textfield, age using Stepper and the changes will get updated in the modal layer. The data change will notify `didChange` in `ProfileListView`, which will refresh the view and displays the updated information. \n"
+    },
+    {
+      "path": "/blogs/pattern-matching-using-case-let",
+      "slug": "pattern-matching-using-case-let",
+      "title": "Pattern matching using 'case let'",
+      "desc": "Pattern Matching is a feature that allows us to match state/value/property to some pattern. In Swift, it is...",
+      "content": "### Pattern Matching\n\nPattern Matching is a feature that allows us to match state/value/property to some pattern. In Swift, it is achieved by using `case let` keyword.\n\nPattern matching can be applied by using different types of structure,\n1. Enums\n2. Optionals\n3. Tuples\n4. Flow statements\n\n#### Enums\nUsing `enum` let's show different states in showing favourite list of series. We can also filter by using `where` keyword.\n\n``` Swift\nenum State<Data> {\n\tcase favoriting\n\tcase favorited(Data)\n    case failed(Error)\n}\n\nswitch state {\n\tcase .favoriting: showFavouriteAnimation()\n\tcase let .favorited(series) where series.isEmpty: showEmptyState()\n\tcase let .favorited(series): showSeries()\n\tcase let .failed(error): showErrorState(error)\n}\n```\n\n#### Optionals\nOptionals can be used in combination with enum for pattern matching, which in turn has some additional functionality. Let's check in the example below,\n\n``` Swift\nlet price :Int? = 20\n\nswitch price {\n\tcase let price? where price > 15: print(\"Price is higher than 15 bucks\")\n\tcase let .some(price): print(\"The price is \\(price)\")\n\tcase .none: print(\"--Nil--\")\n}\n```\nBoth `price?` and `some(price)` are non-nil values\n\n#### Tuples\nPattern matching using `case let` can also be done on Tuples. Tuples are lightweight types which will represent an object in most cases. Let's look into the example below to understand better.\n\n```Swift\nlet auth = (username: \"Saravana\", password: \"StrongPassword\")\n\nswitch auth {\n\tcase (\"admin\", \"admin\"): showAdminView()\n\tcase let (_, password) where password.count < 6: showShortPasswordMessage()\n\tcase let (username, password): showProfile(username, password)\n}\n```\n\n#### Flow statements\n`if else` statements and `for-in` loops allow pattern matching using `case let`\n\n```Swift\n// Using if-else statement\nif case let .favorited(series)=state, series.isEmpty {\n\tshowEmptyState()\n}\n\n//Using guard else statement\nguard case let .favorited(series)=state, series.isEmpty else {\n\tshowEmptyState()\n}\n\n//Using for loops. Filter can also be applied\nlet viewStates :[State<[Series]>] = [.favorited([]), .favoriting]\nfor case let .favorited(series) in viewStates where series.count > 5 {\n\t//Highlight the favourite shows\n}\n``` \n"
+    },
+    {
+      "path": "/blogs/presenting-views-and-popovers-in-swift-ui",
+      "slug": "presenting-views-and-popovers-in-swift-ui",
+      "title": "Presenting Views and Popovers in SwiftUI",
+      "desc": "We will discuss about how to present different views, modals, popovers...",
+      "content": "As we know SwiftUI is declarative, we can easily present different views such as alerts, actionsheets, modals, popovers. Let's implement each of the view type using SwiftUI.\n\n### Alert & ActionSheet\nAlert and ActionSheet can be presented in a similar way. Both *alert* and *actionSheet* modifiers follows *Boolean* and *Optional Identifiable* binding to present it's view. \n``` Swift\nstruct ParentView: View {\n\t//Using Boolean binding\n    @State private var showView = false\n\n    var body: some View {\n        VStack {\n            Button(\"Show View\") {\n                self.showView = true\n            }\n        }\n        // \"actionSheet\" modifier used to present an ActionSheet  \n        .actionSheet(isPresented: $showView) {\n            ActionSheet(\n                title: Text(\"Title\"),\n                message: Text(\"All actions\"),\n                buttons: [\n                    .cancel { print(self.showView) },\n                    .default(Text(\"Action\")),\n                    .destructive(Text(\"Delete\"))\n                ]\n            )\n        }\n        // \".alert\" modifier used to present an AlertView\n        .alert(isPresented: $showView) { \n            Alert(\n                title: Text(\"Title\"),\n                dismissButton: .cancel()\n            )\n        } \n    }\n}\n```\nSwiftUI changes the binding values to default value when the view is dismissed. We can also create Alert and ActionSheet from the parameters passed on to the closure using *Optional Identifiable* binding.\n``` SwiftUI\nstruct Message: Identifiable {\n    let text: String\n}\n\nstruct ParentView: View {\n    @State private var message: Message? = nil\n\n    var body: some View {\n        VStack {\n            Button(\"Show View\") {\n                self.message = Message(text: \"Hello Wonderland!\")\n            }\n        }\n        // \"actionSheet\" modifier used to present an ActionSheet  \n        .actionSheet(item: $message) {\n            ActionSheet(\n                title: Text(\"Title\"),\n                message: Text(message.text),\n                buttons: [\n                    .cancel { print(\"Cancelled\") },\n                    .default(Text(\"Action\")),\n                    .destructive(Text(\"Delete\"))\n                ]\n            )\n        }\n        // \".alert\" modifier used to present an AlertView\n        .alert(item: $message) { message in\n            Alert(\n                title: Text(message.text),\n                dismissButton: .cancel()\n            )\n        }\n    }\n}\n```\n\n### Modal & Popover\nModal and Popover can also be presented using *Boolean* and *Optional Identifiable* binding. Modals can be presented using *sheet* modifier. Modals creates the content view from the closure and also contains an optional *onDismiss* closure, which gets called when view dismisses. \n``` Swift\nimport SwiftUI\nimport Combine\n\nstruct ParentView: View {\n    @State private var displayModal = false\n\n    var body: some View {\n        VStack {\n            Button(\"Present modal\") {\n                self.displayModal = true\n            }\n        }.sheet(isPresented: $displayModal, onDismiss: {\n            print(self.displayModal)\n        }) {\n            ModalView(message: \"Modal view\")\n        }\n    }\n}\n\nstruct ModalView: View {\n    @Environment(\\.presentationMode) var presentation\n    //.presentationMode is an Environment binding to current Presentation Mode\n    let message: String\n\n    var body: some View {\n        VStack {\n            Text(message)\n            Button(\"Dismiss\") {\n                self.presentation.value.dismiss()\n            }\n        }\n    }\n}\n``` \nPopOver can be presented using *popover* modifier and it is similar to Alert and ActionSheet. *popover* modifier has an additional parameter *arrowEdge*, which allows us to draw arrow in specified direction from the given edge value.\n``` Swift\nstruct MasterView: View {\n    @State private var showPopover: Bool = false\n\n    var body: some View {\n        VStack {\n            Button(\"Show popover\") {\n                self.showPopover = true\n            }.popover(\n                isPresented: self.$showPopover,\n                arrowEdge: .bottom\n            ) { Text(\"Popover\") }\n        }\n    }\n}\n```\nWhen PopOver/Modal view is dismissed, the *binding* resets to it's initial value.  \n"
+    },
+    {
+      "path": "/blogs/publishers-and-subscribers-in-combine-framework",
+      "slug": "publishers-and-subscribers-in-combine-framework",
+      "title": "Publishers and Subscribers in Combine framework",
+      "desc": "We will learn about basics in Combine framework...",
+      "content": "### Combine\nCombine framework is used to perform asynchronous tasks by using event-processing operators. It can be used to perform async operations, UI tasks and network requests. Combine framework is similar to RxSwift. It enables us to process values over time using its declarative Swift API. This declarative API allows us to expose and receive values by using _publishers_ and _subscribers_ respectively. It is described by Apple as,\n\n> The Combine framework provides a declarative Swift API for processing values over time. These values can represent many kinds of asynchronous events. Combine declares _publishers_ to expose values that can change over time, and _subscribers_ to receive those values from the publishers.\n\n\n### Publishers\nPublishers are similar to Observables in RxSwift. A publisher expose values that changes in run time to its subscribers. Let's look at below example to understand better,\n``` Swift\nimport Combine\n\nstruct Post {\n\tlet caption: String\n\tlet imageURL: URL\n}\n\nlet postPublisher = NotificationCenter.Publisher(center: .default, name: Notification.Name(\"post\"), object:nil)\n                    .map{(notification)-> String? in\n                    \treturn (notification.object as? Post)?.caption ?? \"\"\n                    }\n``` \nThe `Publisher` watches the changes to the Notification name _\"post\"_. When the change occurs, it exposes the _caption_ property of the _struct Post_ to its subscriber. Zero/more values can be published. The [publisher documentation](https://developer.apple.com/documentation/combine/publisher) will provide detailed list of Publisher operators.     \n\n### Subscribers\nSubscribers are similar to Observers in RxSwift. Subscribers receives the changes provided from publishers and performs specified actions.\nA subscriber can have only one subscription. Subscriber may have a completion block. \n``` Swift\nlet captionLabel = UILabel()\nlet postCaptionSubscriber = Subscribers.Assign(object: captionLabel, keyPath: \\.text)\npostPublisher.subscribe(postCaptionSubscriber)\n\nlet post = Post(caption:\"Beautiful snaps\", imageURL:URL(string: \"./hues\")!)\nNotificationCenter.default.post(name: Notification.Name(\"post\"), object: post)\nprint(\"The latest post caption is \\(captionLabel.text)\") //\"The latest post caption is Beautiful snaps\"\n```\n\n#### @Published\n`@Published` is a property wrapper that adds a `Publisher` to any property. Let's look at below example,\n``` Swift\nclass QuestionnaireVC: UIViewController {\n    \n    @Published var toAllowSubmit: Bool = false\n\n    @IBOutlet private weak var questionSwitch: UISwitch!\n    @IBOutlet private weak var nextButton: UIButton!\n\n    override func viewDidLoad() {\n        super.viewDidLoad()\n        $toAllowSubmit.receive(on: DispatchQueue.main).assign(to: \\.isEnabled, on: nextButton)\n    }\n\n    @IBAction func didSwitch(_ switch: UISwitch) {\n        toAllowSubmit = switch.isOn\n    }\n}\n```\nBy means of _@Published_ property wrapper, `toAllowSubmit` receives updates when `questionSwitch` is turned on and assigns `.isEnabled` property to `nextButton`.\n"
+    },
+    {
+      "path": "/blogs/resuable-containers-in-swift-ui",
+      "slug": "resuable-containers-in-swift-ui",
+      "title": "Resuable containers in SwiftUI",
+      "desc": "Views built using SwiftUI can be reused by segregating Views and Data Flow...",
+      "content": "SwiftUI is a lightweight framework and each and every view in SwiftUI are linked to one another. Generally Views in SwiftUI fetches data, renders them, listens user input and triggers action calls. It makes the View to be heavy and it cannot be reused across other flows in the app. Let's consider below example to fetch our Favourite food items,\n``` Swift\nimport SwiftUI\nimport Combine\n\nstruct FavoritesView : View {\n    @EnvironmentObject var foodItems: [Food]\n\n    var body: some View {\n        NavigationView {\n            List {\n                ForEach(foodItems) { food in\n                    HStack(alignment: .top) {\n                        VStack(alignment: .leading) {\n                            Text(food.name)\n                                .font(.headline)\n                            Text(food.description ?? \"\")\n                                .font(.subheadline)\n                        }\n                    }\n                }\n            }\n            .navigationBarTitle(Text(\"Favorites\"))\n            .onAppear(perform: fetch)\n        }\n    }\n\n    private func fetch() {\n        store.fetchFavorites()\n    }\n}\n```\nThe above example creates FavoritesView that combines fetching and rendering of the food items that are favourited. So We can't reuse the same view if we want to search for a food item. \n\n### Decomposing views and Container Views\nTo reuse views, we have to segregate small composable views. Once we decompose views, we have to pass data and render the views. Container Views fetches the data and passes it to a simple decomposed view, that renders the view. Let's look at the below example,\n``` Swift\nimport SwiftUI\n\n//Container View - that fetches data and passes it to rendering view\nstruct FavoritesContainerView: View {\n    @EnvironmentObject var foods: [Food]\n\n    var body: some View {\n        FoodsView(foods: foods)\n            .onAppear(perform: fetch)\n    }\n\n    private func fetch() {\n        store.fetchFavorites()\n    }\n}\n\n//Decomposed View\nstruct FoodsView : View {\n    let foods: [Food]\n\n    var body: some View {\n        List {\n            ForEach(foods) { food in\n                HStack(alignment: .top) {\n                    VStack(alignment: .leading) {\n                        Text(food.name)\n                            .font(.headline)\n                        Text(food.description ?? \"\")\n                            .font(.subheadline)\n                    }\n                }\n            }\n        }\n    }\n}\n```\nFrom the above example, we fetch the foods from `FavoritesContainerView` and the foods data are then passed to `FoodsView` that renders the view. Here we have a segregation between the View and Data-flow. Let's consider below example to search a food item,\n``` Swift\nimport SwiftUI\n\nstruct SearchContainerView: View {\n    @EnvironmentObject var foods: [Food]\n    @State private var query: String = \"Ghee Dosa\"\n\n    var body: some View {\n        SearchView(query: $query, foods: foods, onCommit: fetch)\n            .onAppear(perform: fetch)\n    }\n\n    private func fetch() {\n        store.fetch(matching: query)\n    }\n}\n\nstruct SearchView : View {\n    @Binding var query: String\n    \n    let foods: [Food]\n    let onCommit: () -> Void\n\n    var body: some View {\n        List {\n            TextField(\"Search here\", text: $query, onCommit: onCommit)\n            ForEach(foods) { food in\n                HStack(alignment: .top) {\n                    VStack(alignment: .leading) {\n                        Text(food.name)\n                            .font(.headline)\n                        Text(food.description ?? \"\")\n                            .font(.subheadline)\n                    }\n                }\n            }\n        }\n    }\n}\n```   \nHere ContainerView provides handling action closure and state binding to rendering views. ContainerView should fetch data, handle states, manage life cycles (onAppear/onDisappear) and pass data to Rendering view. RenderingView should not store any state and render the views from the data provided. \n"
+    },
+    {
+      "path": "/blogs/securing-data-in-keychain",
+      "slug": "securing-data-in-keychain",
+      "title": "Securing data in Keychain",
+      "desc": "Application security is very important in case of application development. Users rely on our app to share their...",
+      "content": "Application security is very important in case of application development. Users rely on our app to share their sensitive data, it is mandatory to maintain the privacy and security of the data.  \n\n### Where to not store sensitive data?\n`UserDefaults` is not the place to store user sensitive data such as subscription data, access token etc., It just stores the data as a property list file inside the preferences folder of our app without any encryption. The data inside this `UserDefaults` can be easily accessed by lot of apps available in the AppStore. This can be done without even jailbreak. \n\nThe intended purpose of `UserDefaults` is to store only preferences of the app and not to store sensitive information. Keychain services API allows us to store and retreive sensitive data from encrypted keychain database.\n\n#### Storing data to keychain\n\n``` Swift \n func save(_ password: String, for user: String) {\n        let password = password.data(using: String.Encoding.utf8)!\n        let query: [String: Any] = [kSecClass as String: kSecClassGenericPassword,\n                                    kSecAttrAccount as String: user,\n                                    kSecValueData as String: password]\n        let status = SecItemAdd(query as CFDictionary, nil)\n        guard status == errSecSuccess else { return print(\"save error\")\n    }\n```\nThe keychain API `SecItemAdd` performs addition of data in keychain database\n\n#### Retrieving data from keychain\nThe required data can retrieved from the query passed to `SecItemCopyMatching` function.\n \n``` Swift\nfunc retrievePassword(for user: String) -> String? {\n    let query: [String: Any] = [kSecClass as String: kSecClassGenericPassword,\n                                kSecAttrAccount as String: user,\n                                kSecMatchLimit as String: kSecMatchLimitOne,\n                                kSecReturnData as String: kCFBooleanTrue]\n    \n    var retrivedData: AnyObject? = nil\n    let _ = SecItemCopyMatching(query as CFDictionary, &retrivedData)\n    \n    guard let data = retrivedData as? Data else {return nil}\n    return String(data: data, encoding: String.Encoding.utf8)\n}\n``` \n\n"
+    },
+    {
+      "path": "/blogs/typealias-in-swift",
+      "slug": "typealias-in-swift",
+      "title": "Typealias in Swift",
+      "desc": "A typealias allows us to provide a new name(alias) for an existing data type into our program...",
+      "content": "### Typealias\nA typealias allows us to provide a new name(alias) for an existing data type into our program. After a type alias is declared, the aliased name can be used instead of the existing type throughout the program.\n\n### Declaring a typealias\nA typealias can be declared by using `typealias` keyword followed by the typename we want to assign. Let's look at following example to understand,\n```Swift\ntypealias INR:Double\n\nstruct Receipt {\n\tlet totalCosts:INR\n}\n```\n`INR` is ideally of type `Double` but with different name. If we declare any variable of type `INR`, it means that the variable is of type `Double`. In the other hand, if we write any extensions to typealias `INR`, it gets inherited to type `Double`.\n\n``` Swift\ntypealias INR:Double\ntypealias Euro :Double\n\nstruct Receipt {\n\tlet totalCosts:INR\n} \n\nextension INR {\n\tfunc toEuro() -> Euro {\n\t\treturn self * 0.013\n\t}\n}\n\nlet receipt = Receipt(totalCosts:50)\nreceipt.totalCosts.toEuro() // 0.65\n\nlet doubleValue: Double = 50\ndoubleValue.toEuro() //0.65\n```  \n\n### Typealiasing with generics\nGenerics can also be used along with typealias, which will even improve the definition of the code structure. In below example, we have used typealias `ExchangeResult` instead of Swift's `Result` type\n\n``` Swift\ntypealias INR:Double\ntypealias Euro :Double\n\nstruct Receipt {\n\tlet totalCosts:INR\n} \n\ntypealias Currency:Double\ntypealias ExchangeResult<Currency> = Result<Currency,Error>\n\nenum ExchangeError:Error {\n\tcase invalidInput\n}\n\nextension INR {\n\tfunc toEuro() -> ExchangeResult<Euro> {\n\t\tguard self > 0 else {\n\t\t\treturn ExchangeResult.failure(ExchangeError.invalidInput)\n\t\t}\n\t\treturn Result.success(self * 0.013)\n\t}\n}\n\nlet receipt = Receipt(totalCosts:50)\nreceipt.totalCosts.toEuro() // 0.65\n\nlet doubleValue: Double = 50\ndoubleValue.toEuro() //0.65\n``` \n\nTypealias can be used along with other types like Closure, Delegate, Dictionary etc., Typealias is used to improve the code readability, which in turn is easy to maintain.\n\n``` Swift\n//Closure \ntypealias Completion = () -> Void\n\n//Delegate\ntypealias TransitionDelegate = UIViewController & UIViewControllerTransitioningDelegate\n\n//Dictionary\npublic typealias JSON = [String: Any]\n```\n\n"
+    },
+    {
+      "path": "/blogs/unit-testing-on-modal-layer",
+      "slug": "unit-testing-on-modal-layer",
+      "title": "Unit Testing on Modal Layer",
+      "desc": "Unit testing is a software testing method, which by means of test cases (code) validates and tests individual set of code blocks...",
+      "content": "Unit testing is a software testing method, which by means of test cases (code) validates and tests individual set of code blocks in the source code.\n\nIf we are working on the mutating modal layer that will change when a new feature is implemented, it is recommended to Unit Test the modal layer every time a new change occurs. So that we can validate where the mandatory fields in the modal are not affected by the new change. We will look how to implement unit testing in the modal layer.\n\n\n``` Swift\nimport Foundation\n\nstruct SearchNearbyRestaurant:Codable {\n\tlet count :Int\n\tlet results :[Restaurant]\n}\n\nstruct Restaurant:Codable {\n\tlet id:Int\n\tlet name:String\n\tlet location:String\n\tlet phone:String\n\tlet foodItems:[FoodItem]\n}\n\nstruct FoodItem:Codable {\n\tlet id:Int\n\tlet name:String\n\tlet price:String\n}\n```  \nThe above modal represents attributes of the searching nearby restaurants in our app. It will associate to the value fetched from JSON, when search nearby restaurant API is called.\n\n``` Swift\nclass SearchRestaurant {\n    typealias Handler = (Result<SearchNearbyRestaurant, Error>) -> Void\n\n    private let session: URLSession\n    private let decoder: JSONDecoder\n\n    init(session: URLSession = .shared, decoder: JSONDecoder = .init()) {\n        self.session = session\n        self.decoder = decoder\n    }\n\n    func search(with query: String, handler: @escaping Handler) {\n        session.dataTask(with: makeRequest(for: query)) { [weak self] data, _, error in\n            guard let self = self else {\n                return\n            }\n\n            do {\n                let response = try self.decoder.decode(SearchNearbyRestaurant.self, from: data ?? Data())\n                handler(.success(response))\n            } catch {\n                handler(.failure(error))\n            }\n        }\n    }\n} \n```\n\nThe `SearchRestaurant` class makes search API request to fetch nearby restaurant matching with given query parameters. We will create a mock JSON, to verify the response fetched from the API. \n\n``` Swift\n//SearchRestaurant.json\n{\n\t\"count\":20,\n\t\"results\":[\n\t{\n\t\t \"id\":24,\n\t     \"name\":\"IdlyArt\",\n\t     \"location\":\"Chennai\",\n\t     \"phone\":\"9999999999\"\n\t     \"foodItems\":[\n\t     {\n          \"id\":5,\n           \"name\":\"Idly\",\n           \"price\":\"10\"\n\t     },\n\t     {\n          \"id\":6,\n           \"name\":\"Ghee Dosa\",\n           \"price\":\"50\"\n\t     }\n\t     ]\n\t}\n\t]\n} \n```\nwe will create our test case to verify our modal with above mock JSON. To create new test case file, _Xcode's File -> New -> File -> Unit Test Case Class_. We have the add above JSON file into our project navigator, to validate with our test case.\n\n``` Swift\nimport XCTest\n@testable import FoodOrder \n\nclass FoodOrderTests:XCTestCase {\n\tfunc testSearchNearbyRestaurants() throws {\n         //Given\n         guard let path = Bundle(for: self).path(forResource: \"SearchRestaurant\", ofType: \"json\") else {\n         \tfatalError(\"Cannot find JSON File\")\n         }\n\n        //When\n        let data = try Data(contentsOf: URL(fileURLWithPath: path))\n        let response = try JSONDecoder().decode(SearchNearbyRestaurant.self, from: data)\n\n        //Then\n        XCTAssertEqual(response.count, 20)\n        XCTAssertEqual(response.results.count, 1)\n\n        let restaurant = response.results.first\n\n        XCTAssertEqual(restaurant.id, 24)\n        XCTAssertEqual(restaurant.name, \"IdlyArt\")\n        XCTAssertEqual(restaurant.location, \"Chennai\")\n\n        let foodItem = restaurant.foodItems.first\n\n        XCTAssertEqual(foodItem.id, 5)\n        XCTAssertEqual(foodItem.name, \"Idly\")\n        XCTAssertEqual(foodItem.price, \"10\")\n\t}\n}\n``` \n\n`@testable` will import all the properties and variable of `SearchNearbyRestaurant` object inside the test case. It is required to check the mandatory fields from the test case. Adopting test case into a growing modal is particularly important, as it will help to maintain the defined truth of the structure intact. \n"
+    },
+    {
+      "path": "/blogs/using-ios-strong-password",
+      "slug": "using-ios-strong-password",
+      "title": "Using iOS Strong Password",
+      "desc": "From iOS 12, strong password can be recommended whenever a new user sign up to iOS application. It is a simple and straight forward approach to implement this feature in your iOS application...",
+      "content": "### iOS Strong Password\n\nFrom iOS 12, strong password can be recommended whenever a new user sign up to iOS application. It is a simple and straight forward approach to implement this feature in your iOS application.\n\n### Autofill Strong password\nA strong password can be autofilled to your password textfield by specifying its contentType as `.newPassword`\n\n``` Swift\npasswordTxtField.contentType = .newPassword\n```\n\nThis strong passwords are usually 20 characters long. It can contains more than 71 bits of entropy. By default, password generation rule includes _lowercase, uppercase, digits, hypen_ \n\n<!-- ![](./images/strong-password.png) -->\n![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209632/elsaravana/using-ios-strong-password/images/strong-password_jciz7w.png)\n\nThe password generation rules can be customized for your app. The rule can be created and validated from [Password rules validation tool](https://developer.apple.com/password-rules/) \n\nA sample implementation of strong password autofill using custom password generation rule is as follows,\n\n``` Swift\nlet passwordTxtField = UITextField()\nlet rulesDescriptor = \"required: lower; required: upper; required: digit; required: [-,_]; minlength: 20; maxlength: 8;\"\npasswordTxtField.passwordRules = UITextInputPasswordRules(descriptor:rulesDescriptor)\n```\n"
+    },
+    {
+      "path": "/blogs/using-list-in-swift-ui",
+      "slug": "using-list-in-swift-ui",
+      "title": "Using List in SwiftUI",
+      "desc": "Describes about how to create scrolling table of fruits using static and dynamic lists...",
+      "content": "### List\n`List` in SwiftUI is similar to `UITableView` in UIKit.  Lists are designed for composability – designed to be able to build bigger things from smaller things. So rather than having one large view controller that configures cells by hand, SwiftUI helps us build small views that know how to configure themselves as list rows, then use those.\n\n#### Static List\nStatic list creates rows of items. To create a static list we have to declare an row that will be re-used for all the items in our list.  Let's look at example below\n``` Swift\nstruct FruitRow: View {\n    var name: String\n\n    var body: some View {\n        Text(\"Fruit: \\(name)\")\n    }\n}\n\nstruct ContentView: View {\n    var body: some View {\n        List {\n            FruitRow(name: \"Apple\")\n            FruitRow(name: \"Orange\")\n            FruitRow(name: \"Mango\")\n        }\n    }\n}\n```\n#### Dynamic List\nTo create a dynamic list, we need to identify each item by using `Identifiable` protocol, which has a property `id` associated with it. This `id` must be unique to each item.\n```Swift\nstruct Fruit: Identifiable {\n    var id = UUID()\n    var name: String\n}\n\nstruct FruitRow: View {\n    var fruit: Fruit\n\n    var body: some View {\n        Text(\"Fruit : \\(fruit.name)\")\n    }\n}\n\nstruct ContentView: View {\n    var body: some View {\n        let first = Fruit(name: \"Apple\")\n        let second = Fruit(name: \"Orange\")\n        let third = Fruit(name: \"Mango\")\n        let fruits = [first, second, third]\n\n        return List(fruits) { eachFruit in\n            FruitRow(fruit: eachFruit)\n        }\n    }\n}\n```\n"
+    },
+    {
+      "path": "/blogs/using-unknown-default-in-swift",
+      "slug": "using-unknown-default-in-swift",
+      "title": "Using @unknown default in Swift",
+      "desc": "In Swift 5, `@unknown default` was introducted. It is a new technique by which enums in Swift works and helps the enums...",
+      "content": "In Swift 5, `@unknown default` was introducted. It is a new technique by which enums in Swift works and helps the enums to be future compatible. \n\nStandard library enums like `UNAuthorizationStatus` will have set of cases which defined by Apple. Apple might add any new case in the future, at that point in time we have to update our source code to support now new case. In order to make the app work coherently in future without this impact, Apple introduced `@unknown default`. If each case is not handled individually, it will create warning in your enum and will not throw error, thus making it compactible for new enum cases.\n\nLet's look at below enum along with `fallthrough` and `@unknown default` keyword,\n\n``` Swift\nswitch userNotificationsAuthorizationStatus {\n\tcase .notDetermined:\n\t    requestPermission()\n\tcase .authorized, .denied, .provisional:\n\t    fallthrough\n\t@unknown default:\n\t    print(\"No need to request permission for User Notification\")    \n}\n```\n\n#### default vs @unknown default\n`@unknown default` is similar to usual default state and thus it matches any values. It is required to mention all the cases. If any new case is introduced, it will highlight them a warning sign instead of throwing an error. `default` will not show any warning if any case is missed. The main difference is given in below example,\n\n``` Swift\n//Using \"default\"\nswitch userNotificationsAuthorizationStatus {\n\tcase .notDetermined:\n\t    requestPermission()\n\tcase .denied, .provisional:\n\t    fallthrough\n\tdefault:\n\t    print(\"No need to request permission for User Notification\")    \n}\n\n//Using \"@unknown default\"\nswitch userNotificationsAuthorizationStatus {  //Shows warning \"Switch must be exhaustive\", because .authorized case is not handled \n\tcase .notDetermined:\n\t    requestPermission()\n\tcase .denied, .provisional:\n\t    fallthrough\n\t@unknown default:\n\t    print(\"No need to request permission for User Notification\")    \n}\n```\n\n"
+    },
+    {
+      "path": "/blogs/utility-extensions-using-equatable",
+      "slug": "utility-extensions-using-equatable",
+      "title": "Utility extensions using Equatable",
+      "desc": "Describes various utilites functions using Equatable...",
+      "content": "We will write extensions using Equatable that can be utilized in various parts of the code.\n\n``` Swift\nimport Foundation\n\npublic extension Equatable {\n    func presentIn<Seq: Sequence> (_ values: Seq) -> Bool where Seq.Iterator.Element == Self {\n        return values.contains(self)\n    }\n}\n```\n\nThe above code snippet can be used to find out if a specific item is present in a collection of items.\n``` Swift\n//Example\n1.presentIn([4,8,9,1,3]) //Returns true\nlet state = .noInternet\nstate.presentIn([.online, .offline, .connecting]) // Returns false\n```\n\nLet's look at another extension that will match `HTTPError` with `Error` type. \n\n``` Swift\nimport Foundation\n\npublic extension Equatable {\n  func ~=<E: Error & Equatable>(rhs: E, lhs: Error) -> Bool {\n    return (lhs as? E) == rhs\n  }\n}\n```\nIt will enable us to compare `URLError` , `HTTPError` and `Error` in same *switch* statement\n``` Swift\nfunc showStates(_ error: Error) {\n    switch error {\n    case URLError.notConnectedToInternet,\n         URLError.networkConnectionLost,\n         URLError.cannotLoadFromNetwork:\n        showOfflineView()\n    case HTTPError.unauthorized:\n        logOut()\n    case is HTTPError:\n        showNetworkErrorView()\n    default:\n        showErrorView(for: error)\n    }\n}\n```\n"
+    },
+    {
+      "path": "/blogs/value-types-and-reference-types",
+      "slug": "value-types-and-reference-types",
+      "title": "Value Types and Reference Types",
+      "desc": "In Swift, we can access data by Value types and Reference types. Reference types creates instances which acts as reference to the object...",
+      "content": "In Swift, we can access data by Value types and Reference types. Reference types creates instances which acts as reference to the object. Value types creates immutable instances that are used individually and we can mutate a value type if required. Value types are generally `Struct` whereas Reference types are `Class`\n\n#### Reference types\nLet's create a class that will publish instagram posts. Since reference types are `class`, we will create the class as follows,\n\n``` Swift\nclass Post {\n\tvar image :Image\n\tvar title :String\n\tvar location :String\n\tvar likes = 0\n\n\tinit(image:Image,title:String,location:String) {\n\t\tself.image = image\n\t\tself.title = title\n\t\tself.location = location\n\t}\n\n\t//'like' action\n\tfunc like(post:Post) {\n\t\tpost.likes+=1\n\t\tprint(\"The post is liked!!!\")\n\t}\n}\n\n//Publish a post and like it\nlet post = Post(image:Image(named:\"abc.png\"),title:\"Nature\",location:\"Chennai\")\nlike(post)\nprint(\"Number of likes \\(post.likes)\") // number of likes = 1\n```\nThe function `like(post:)` will like the post once the button is tapped. When an reference for `Post` class is created, the object acts as a refernce type. This reference type object will mutate the original object once it performs action. The above `post` object will get mutate it's `likes` variable when `like(post)` is called. Thus, it will be difficult to maintain the original copy of the object unless a new copy of the object is created and left immutated. \n\n#### Value types\nValue type has different behaviour. Let's create the same Post type using `struct`\n\n```Swift\nstruct Post {\n\tvar image:Image\n\tvar title:String\n\tvar location:String\n\tvar likes = 0\n\n\tinit(image:Image,title:String,location:String) {\n\t\tself.image = image\n\t\tself.title = title\n\t\tself.location = location\n\t}\n\n    //'like' action\n    func like(post:Post) {\n    \t//Since the properties in struct are immutable. We have create new mutable post variable to like the post. \n    \tvar post = post\n\t\tpost.likes+=1\n\t\tprint(\"The post is liked!!!\")\n    }\n}\n\n//Publish a post and like it\nlet post = Post(image:Image(named:\"abc.png\"),title:\"Nature\",location:\"Chennai\")\nlike(post)\nprint(\"Number of likes \\(post.likes)\") // number of likes = 0 \n```\nAny change done on the new object will not reflect on the original object. We can mutate object of `struct` type using `inout` keyword in the parameter. This will allow us to mutate the object inside `like(post:)` function. The object passed as parameter in `like(post:)` function must be preceded by `&`, it will indicate that the parameter passed is a reference.\n\n``` Swift\nfunc like(post: inout Post) {\n\tpost.likes+=1\n\tprint(\"The post is liked!!!\")\n}\n\n//Now publish post and like it\nlet post = Post(image:Image(named:\"abc.png\"),title:\"Nature\",location:\"Chennai\")\nlike(&post)\nprint(\"Number of likes \\(post.likes)\") // number of likes = 1\n```  \n\nIf we don't want to reference a parameter in `struct` type to utilize the nature of value types. We have to create a new copy of the `post` object, perform like action and return the object.\n\n``` Swift\n func like(post: Post) -> Post {\n \tvar post = post\n\tpost.likes+=1\n\tprint(\"The post is liked!!!\")\n\treturn post\n}\n\n//Now publish post and like it\nvar post = Post(image:Image(named:\"abc.png\"),title:\"Nature\",location:\"Chennai\")\npost = like(post)\nprint(\"Number of likes \\(post.likes)\") // number of likes = 1\n```\nThe usage of value and reference types depends on what action we can to perform. By default, `struct` is immutable where as `class` is mutable.\n"
+    },
+    {
+      "path": "/blogs/weak-self-in-swift",
+      "slug": "weak-self-in-swift",
+      "title": "Weak self in Swift",
+      "desc": "We will discuss about how ARC, weak self, retain cycles works in Swift...",
+      "content": "### What is ARC and How does ARC works?\n\nSwift uses *Automatic Reference Counting(ARC)* to track and manage app's memory usage. Whenever a new instance of a class is created ARC allocates a chunk of memory to store the information about that instance. It stores information about the type of the class, properties, constants and variables associated with that instance. When an instance of class in no longer needed, ARC deallocates the instance from the memory and frees up the memory to other parts of the app. \n\nARC checks all the variables, constants and properties refering to the instance. ARC will not deallocate an instance from memory as long as atleast one active reference to the instance exists. Whenever a constant/variable is declared, we must specify *weak* or *unowned* otherwise constant/variable makes a *strong reference* to that instance.\n\n> Reference counting applies only to instances of classes. Structures and enumerations are value types, not reference types, and are not stored and passed by reference.\n\n### Weak \n`weak` references are always declared as optionals, so that ARC can easily nullify them when the instance is deallocated from memory. Consider the following example,\n``` Swift\nclass Post {\n\tvar title :String\n\tvar imageURL :URL\n\tvar owner :UserWhoPosts?\n\n\tinit(title: String, imageURL: URL) { self.title = title; self.imageURL = imageURL }\n\n    deinit {\n        print(\"Post \\(title) is being deinitialized\")\n    }\n}\n\nclass UserWhoPosts {\n\tvar name :String\n    var post : Post?\n\n    init(name: String) { self.name = name }\n\n    deinit {\n        print(\"Owner of post \\(name) is being deinitialized\")\n    }\n}\n\nvar post: Post? = Post(title:\"Rains\",imageURL:URL(string:\"www.elsaravana.com/rains\")!)\nvar user :UserWhoPosts? = UserWhoPosts(name:\"Saravana\")\n\npost.owner = user!\nuser.post = post!\n\npost = nil\nuser = nil \n// Nothing gets printed\n```\nIn above example, Post has strong reference to the owner and UserWhoPosts has strong reference to the Post. So it retain cycles similar to infinite loop. To break this cycle and to deinitialize the instance of class we need introduce to weak reference.\n``` Swift\nclass Post {\n\tvar title :String\n\tvar imageURL :URL\n\tweak var owner :UserWhoPosts?\n\n\tinit(title: String, imageURL: URL) { self.title = title; self.imageURL = imageURL }\n\n    deinit {\n        print(\"Post \\(title) is being deinitialized\")\n    }\n}\n\nclass UserWhoPosts {\n\tvar name :String\n    var post : Post?\n\n    init(name: String) { self.name = name }\n\n    deinit {\n        print(\"Owner of post \\(name) is being deinitialized\")\n    }\n}\n\nvar post: Post? = Post(title:\"Rains\",imageURL:URL(string:\"www.elsaravana.com/rains\")!)\nvar user :UserWhoPosts? = UserWhoPosts(name:\"Saravana\")\n\npost.owner = user!\nuser.post = post!\n\npost = nil\nuser = nil\n\n//Owner of post Saravana is being deinitialized\n//Post Rains is being deinitialized\n```\n### Weak self\nWeak self must be used inside closures to avoid retain cycles. \n``` Swift\nvar publishedPosts: [Post] = []\n\nfunc publish(post:Post) {\n    DispatchQueue.main.asyncAfter(deadline: .now() + 1) { [weak self] in\n        // Publish the post\n        self.publishedPosts.append(post) \n        print(\"Post is published\")\n    }\n}\n```\nIf weak self is not used, strong reference will be used to publish the post and to append them in `publishedPosts` variable. \n"
+    },
+    {
+      "path": "/blogs/what-are-state-object-binding-and-environment-object",
+      "slug": "what-are-state-object-binding-and-environment-object",
+      "title": "What are @State, @ObjectBinding and @EnvironmentObject",
+      "desc": "We will get to know how property wrappers @State, @ObjectBinding, @EnvironmentObject works in SwiftUI...",
+      "content": "Structs are immutable and will have only one owner for each instance. Since structs are immutable, the properties defined in structs cannot be mutated. We use structs across multiple data types. In Swift 5.1, property wrappers were introduced to allow mutate(create & store) a property inside struct block using `lazy` initialization.\n``` Swift\nstruct Football {\n\tvar playerName :String\n\tlazy var reversedPlayerName :String = {\n\t\tString(playerName.reversed())\n\t}()\n}\n```\nSimilarly, SwiftUI creates it's view inside struct. Meaning, we cannot modify the states, views and properties created inside this struct. But SwiftUI gives us various property wrappers like `@State`, `@ObjectBinding`, `@EnvironmentObject` that allow us to change the state in struct.  \n\n### @State \n`@State` property wrapper tells SwiftUI that it will mutate over time and changes it's state as program runs. The memory of `@State` property is managed and monitored by SwiftUI, whereas the other properties of struct resides inside the memory of the struct. When the `@State`property changes, it will automatically reload the body of view. Apple recommends to use `private` type when `@State` property wrapper is used.  \n\n> SwiftUI manages the storage of any property you declare as a state. When the state value changes, the view invalidates its appearance and recomputes the body. Use the state as the single source of truth for a given view.\n\n> A State instance isn’t the value itself; it’s a means of reading and mutating the value. To access a state’s underlying value, use its value property.\n\n```Swift\nimport SwiftUI\n\nstruct ContentView:View {\n\t@State private var numberOfTaps = 0\n\n\tvar body: some View {\n      Button(action:{\n      \t    self.numberOfTaps += 1\n      \t}) {\n      \t\tText(\"Number of taps: \\(numberOfTaps)\")\n      \t}\n\t}\n}\n```  \nIn somecases, we will also want our property to be updated when the value of the property is changed from view. Eg. A textfield is used to display a value of property. When the value in textfield is changed, the value of property in code should also be changed. This is called as **Two-way binding**. In SwiftUI, two-way binding can be established by `$` at the beginning property name. It allows synchronization(read & write) of data to the property. \n```Swift\nimport SwiftUI\n\nstruct User {\n   var username = \"Saravana\"\n   var password = \"iuwerosdkj3298\"\n   var email = \"saravkumar.g@gmail.com\"\n}\n\nstruct ContentView:View {\n\t@State private var user = User()\n\n\tvar body: some View {\n      VStack {\n      \tTextField($user.username)\n      \tTextField($user.password)\n      \tTextField($user.email)\n      }\n\t}\n}\n``` \n\n### @ObjectBinding\nIf instance of struct is created and used across multiple view, each view will have it's own unique copy of the struct. So if one view changes it's property value, other views will not change the same property value. This lead us to have different states for the same data.\n\nSwiftUI enables us to maintain shared state across multiple views using `@ObjectBinding` property wrapper. It will allow changes to the property and also notifies/watches other parts when property is changed. It can be achieved by using `Combine` framework.\n\nCombine is new framework (similar to RxSwift, ReactiveSwift) that provides a declarative Swift API for processing values over time.\n\n> Combine framework customize handling of asynchronous events by combining event-processing operators.\n\n```Swift\nimport SwiftUI\n\nclass User:BindableObject {\n   var didChange = PassthroughSubject<Void,Never>()\t\n   var username = \"Saravana\" { didSet { didChange.send() } }\n   var password = \"iuwerosdkj3298\" { didSet { didChange.send() } }\n   var email = \"saravkumar.g@gmail.com\" { didSet { didChange.send() } }\n}\n\nstruct ContentView:View {\n\t@ObjectBinding var user = User()\n\n\tvar body: some View {\n      VStack {\n      \tTextField($user.username)\n      \tTextField($user.password)\n      \tTextField($user.email)\n      }\n\t}\n}\n``` \nThe class must confirm to protocol `BindableObject` to use didChange property that notifies if any property is changed. We will not throw any error in our case, so we have used `Never` parameter to `PassthroughSubject`. If a We need a property observor like `var username = \"Saravana\" { didSet { didChange.send() } }` that sends notification if the property is changed. Hence single User instance can be used for multiple views.\n\n### @EnvironmentObject\n\n<!-- ![](./images/environment.png) -->\n![](https://res.cloudinary.com/dsykbphvz/image/upload/v1563209821/elsaravana/what-are-%40state-%40objectbinding-and-%40environmentobject/images/environment_mwj26a.png)\n\n`@EnvironmentObject` property wrapper allows us to maintain a shared object globally, which means we can add shared object into environment that can be accessed by any view/screen. It also allow two-way binding similar to `@ObjectBinding`. If one view changes an environmentObject, all other views using that object will be notified and their view gets updated.   \n```Swift\nimport SwiftUI\n\nclass User:BindableObject {\n   var didChange = PassthroughSubject<Void,Never>()\t\n   var username = \"Saravana\" { didSet { didChange.send() } }\n   var password = \"iuwerosdkj3298\" { didSet { didChange.send() } }\n   var email = \"saravkumar.g@gmail.com\" { didSet { didChange.send() } }\n}\n\nstruct ContentView:View {\n\t@EnvironmentObject var user :User\n\n\tvar body: some View {\n      VStack {\n      \tTextField($user.username)\n      \tTextField($user.password)\n      \tTextField($user.email)\n      }\n\t}\n}\n```\nWe need to initialize the object, that we will use in our view. We should create instance of `User` in `SceneDelegate` class as `var userData = User()` and we should pass that instance to our content view as given below,\n``` Swift\nlet window = UIWindow(frame:UIScreen.main.bounds)\nwindow.rootViewController = UIHostingController(rootView:ContentView().environmentObject(userData))\n```\n"
+    },
+    {
+      "path": "/blogs/what-is-generics",
+      "slug": "what-is-generics",
+      "title": "What is Generics",
+      "desc": "Generic code enables you to write flexible, reusable functions and types that can work with any type, subject to requirements that you define...",
+      "content": "### Generics\nGeneric code enables you to write flexible, reusable functions and types that can work with any type, subject to requirements that you define. You can write code that avoids duplication and expresses its intent in a clear, abstracted manner. Generic is highly useful feature in Swift. `Array` and `Dictionary` are generic collection types. An array can hold `[Int]` or `[String]`\n\nLet's create our own generic type as follows,\n\n``` Swift\nstruct Stack<T> {\n\tvar item :T\n\tvar date :Date\n}\n\nlet stringStack = Stack(item:\"Hello\",date:Date())\nlet intStack = Stack(item:1,Date())\n```\nThe objects `stringStack` and `intStack` will implicitly adopt type as `Stack<String>` and `Stack<Int>` respectively. \n\nWe can also use a generic dictionary to store type of data as key-value pairs. Since we are using dictionary, we would require our key to conform to `Hashable`\n\n``` Swift\nclass Cache<Key:Hashable,Item> {\n\tprivate var items = [Key:Stack<T>]()\n\n\tfunc insert(item:T,key: Key) {\n\t\tlet date = Date()\n\t\titems[key] = Stack(item:item,date:date)\n\t}\n\n\tfunc value(key:Key) -> T? {\n\t\tguard let stack = items[key] else {\n\t\t\treturn nil\n\t\t}\n\t\treturn stack.item\n\t}\n}\n```  \nThe above generic dictionary can be used to cache any type of data. For example, it can store cached list of posts and it's ID `var cachedPosts = Cache<Post.ID,Post>()`. Such generics will act as single function that can be used across multiple data types. \n"
+    },
+    {
+      "path": "/blogs/what-is-swift-ui",
+      "slug": "what-is-swift-ui",
+      "title": "What is SwiftUI",
+      "desc": "In WWDC 2019, Apple has introduced SwiftUI, which will replace the imperative UI used before iOS 13. SwiftUI is a user interface toolkit that require us to design apps using declarative code...",
+      "content": "### SwiftUI\nIn WWDC 2019, Apple has introduced SwiftUI, that will replace the imperative UI used before iOS 13. SwiftUI is a user interface toolkit that require us to design apps using declarative code.  \n\nAll iOS developers are familiar with Imperative UI such as Interface Builders, XIBs and storyboards. It is complex to maintain the storyboard as the number of screen grows. Firstly, this Imperative UI is based on the XML, which is abstract from the developers to work upon. Secondly, XML coded storyboard is not a swift framework. So the compiler has to manage the Swift files and XML files individually. \n\nDeclarative code says iOS about all the possible states so we can easily maintain the `state` in Declarative UI, whereas in case of Imperative UI we have to mange them in controllers. We are not required to write code in viewcontroller to maintain states like `showEmptyState`, `showNetworkError` state, all such state will be handled in Declarative UI. By using declarative code, we necessary create components that can be used across different places and is very easy to switch between states. When working in a team, we also need not have to worry about source control problems while committing changes to UI.\n\nSwiftUI framework acts as a cross platform user interface layer across iOS, macOS, tvOS and watchOS. It enables us to learn single UI framework that can be adopted across multiple platforms.\n\nApple described SwiftUI has four things:\n\n- **Declarative**, meaning that we say what we want rather than how we get there.\n- **Automatic**, meaning that it takes care of many things we had to do by hand previously.\n- **Compositional**, meaning that we build small things and combine them together into larger things.\n- **Consistent**, meaning that we don’t see strange fault lines between Swift and Objective-C like we did previously, or very old APIs mixed up with very new ones.\n\n### Migration from UIKit to SwiftUI \nFollowing are the components introduced instead of UIkit view elements,\n\n- `UITableView` - `List`\n- `UICollectionView` - No SwiftUI equivalent\n- `UILabel` - `Text`\n- `UITextField` - `TextField`\n- `UITextField` with `isSecureTextEntry` set to true - `SecureField`\n- `UITextView` - No SwiftUI equivalent\n- `UISwitch` - `Toggle`\n- `UISlider` - `Slider`\n- `UIButton` - `Button`\n- `UINavigationController` - `NavigationView`\n- `UIAlertController` with style `.alert` - `Alert`\n- `UIAlertController` with style `.actionSheet` - `ActionSheet`\n- `UIStackView` with horizontal axis - `HStack`\n- `UIStackView` with vertical axis - `VStack`\n- `UIImageView` - `Image`\n- `UISegmentedControl` - `SegmentedControl`\n- `UIStepper` - `Stepper`\n-`UIDatePicker` - `DatePicker`\n- `NSAttributedString` - Incompatible with SwiftUI; use `Text` instead. \n"
+    },
+    {
+      "path": "/blogs/what-s-new-in-swift-5-1",
+      "slug": "what-s-new-in-swift-5-1",
+      "title": "What's new in Swift 5.1",
+      "desc": "Lets have a look at What's new in Swift 5.1...",
+      "content": "Apple have introducted lot of new enhancements to Swift. In detail, let's look at all the what's new in Swift 5.1 as follows,\n1. Memberwise initializer improvements\n2. Implicit returns from single-expression functions\n3. Universal 'Self'\n4. Opaque return types\n5. Ability to add static subscripts\n6. Warning for ambiguous 'none' cases\n7. Pattern matching enums between Optionals and Non-optionals\n8. Ordered collection differences\n9. Uninitialized array creation\n\n#### 1. Memberwise initializer improvements\nIn previous version of Swift, we have to specify all the parameters to create memberwise initialize. In Swift 5.1, the memberwise initializer accepts default value of the properties. It will help us to remove redundancy.\n``` Swift\nstruct Post {\n\tvar title:String\n\tvar likes:Int=0\n}\n\n//In previous Swift version \nlet post = Post(title:\"Nature\",likes:0)\n\n//In Swift 5.1\nlet trek = Post(title:\"Forest\",likes:0) \nlet ride = Post(title:\"Long way\") // Since the default value of likes is `0`, we can either mention or remove it.\n```\n\n#### 2. Implicit returns from single-expression functions\nClosures allow us to write single-expression functions with/without `return` keyword and the type will be inferred implicitly. With Swift 5.1, this feature is extended to function as well which means we can omit `return` keyword as long as the function has single-expression statement.\n```Swift\n//Closures\nlet multiplyByTwo = [2,9,1].map{$0*2}\nlet multiplyByTwo = [2,9,1].map{return $0*2}\n\n//In Swift 5.1\nfunc multiplyByTwo(number:Int)->Int {\n\tnumber*2\n}  \n```\n#### 3. Universal 'Self'\n`Self` refers to the containing type like classes, struct, enums. It is higly useful in case of dynamic types, where the type of the container is known only at run time. \n``` Swift\n//In previous Swift version\nclass NetworkManager {\n\tclass var maximumRequests :Int {\n\t\treturn 5\n\t}\n\tfunc activeRequests() {\n\t\tprint(\"Maximum requests:\\(NetworkManager.maximumRequests)\") // Prints \"5\"\n\t}\n}\n\n//Inheriting 'NetworkManager' class\nclass ConstraintedNetworkManager:NetworkManager{\n\toverride class var maximumRequests : Int {\n\t\treturn 3\n\t}\n}\n\nlet manager = ConstraintedNetworkManager()\nmanager.activeRequests() // Prints \"5\"\n```\nThe `activeRequests()` called from `manager` object should print 3 instead it prints 5 only, which is assigned in the parent class. This can be solved in Swift 5.1 using `Self`.\n``` Swift\nclass UpdatedNetworkManager {\n\tclass var maximumRequests :Int {\n\t\treturn 5\n\t}\n\tfunc activeRequests() {\n\t\tprint(\"Maximum requests:\\(Self.maximumRequests)\") // `Self` will dynamically refer to the class that calls the function\n\t}\n}\n```\n#### 4. Opaque return types\nOpaque return types allow us to abstract the actual type of the return value. Let's consider below example,\n```Swift\nprotocol Sport\n\nstruct Football : Sport{}\nfunc launchPlayer()->Sport{\n\treturn Football()\n}\nlet player1 = footballPlayer()\n\nstruct BasketBall:Sport{}\n\nfunc launchPlayer()->Sport{\n\treturn BasketBall()\n}\n\nlet player2 = basketballPlayer()\n``` \nWe cannot compare `player1` and `player2`. We cannot use `Equatable` protocol to compare the players who play both Football and Basketball. If we use `Equatable` protocol in `launchPlayer()`, it will throw error \"Protocol 'Sport' can only be used as a generic constraint because it has Self or associated type requirements.\" \n\nOpaque type can solve this problem, it enables us to compare and identify the return types. For example: it can identify whether `BasketBall()` returns array of string or Int. Opaque type can be implemented by using `some` keyword. \n\n``` Swift\nfunc launchPlayer()->some Sport{\n\treturn Football()\n}\n\n//Another example\nfunc makeString() -> Some Equatable {\n\t\"abc\"\n}\n\nfunc makeInt() -> Some Equatable {\n\tInt.random(in:1...5)\n}\nlet x = makeInt()\nlet y = makeInt()\nprint(x==y)\n```\nWe can compare `x` and `y` as it hold the type integer. On the contrary, we cannot compare `makeString()` and `makeInt()` functions, because Swift knows the return type will be `String` and `Int` which cannot be compared. Generics also provide a similar behaviour, but we have mention the type we want to create while initializing a generic function. In Opaque type, the actual type will be abstract from rest of the codebase.\n\n#### 5. Ability to add static subscripts\nWe can now allow subscripts to `static`, which means the property will apply to type rather than instance of the type. Let's consider following example where we need to maintian a common static setting for our application.\n```Swift\n//In previous Swift\npublic enum OldSettings {\n    private static var values = [String: String]()\n\n    static func get(_ name: String) -> String? {\n        return values[name]\n    }\n\n    static func set(_ name: String, to newValue: String?) {\n        values[name] = newValue\n    }\n}\n\nOldSettings.set(\"Hulk\", to: \"Smash\")\nOldSettings.set(\"Thor\", to: \"Hammer\")\nprint(OldSettings.get(\"Hulk\") ?? \"Unknown\")\n\n//In Swift 5.1\npublic enum NewSettings {\n    private static var values = [String: String]()\n\n    public static subscript(_ name: String) -> String? {\n        get {\n            return values[name]\n        }\n        set {\n            values[name] = newValue\n        }\n    }\n}\n\nNewSettings[\"Hulk\"] = \"Smash\"\nNewSettings[\"Thor\"] = \"Hammer\"\nprint(NewSettings[\"Hulk\"] ?? \"Unknown\")\n```\n#### 6. Warning for ambiguous 'none' cases\nWe can specify `none` case in our enum, but the enum should always be non-optional. \n``` Swift\nenum BorderStyle {\n\tcase none\n\tcase border(color:UIColor)\n}\n\n//In previous Swift version\nlet border :BorderStyle?=.none\nprint(border) // prints `nil`\n```\nIn case of optional as mentioned above, Swift will consider the border value as `nil` rather than setting the value as `BorderStyle.none`.\nTo avoid this confusion, in Swift 5.1 an warning will be shown “Assuming you mean 'Optional.none'; did you mean 'BorderStyle.none' instead?” to hint us use appropriate case.\n\n#### 7. Pattern matching enums between Optionals and Non-optionals\nPattern matching was allowed to other types while using `switch case` but it wasn't allowed for enums. In Swift 5.1 we can patter match optional enums and non-optional enums\n``` Swift\nenum Progress {\n\tcase started\n\tcase downloading\n\tcase complete\n}\nlet status :Progress? = .downloading\nswitch status {\ncase .downloading:\n    print(\"Downloading...\")\ncase .complete:\n    print(\"Download is complete!\")\ndefault:\n    print(\"Some other status\")\n}\n```\n\n#### 8. Ordered collection differences\nSwift 5.1 introduced the ability to calculate and apply the differences between ordered collections. It will allow developers to perform changes in their collection types with smooth animation. It can be done by using `difference(from:)` API. Swift will provide this functionality in OS, but the actual OS number with which the feature will be released is unknown. In such cases, we will use `if #available(iOS 9999,*)`.\n``` Swift\nvar points1 = [100, 91, 95, 98, 100]\nlet points2 = [100, 98, 95, 91, 100]\n\nif #available(iOS 9999, *) {\n    let diff = points2.difference(from: points1)\n\n    for change in diff {\n        switch change {\n        case .remove(let offset, _, _):\n            points1.remove(at: offset)\n        case .insert(let offset, let element, _):\n            points1.insert(element, at: offset)\n        }\n    }\n    print(points1)\n}\n```\nTo perform advanced animations `associatedWith` can be used as `.insert(let offset, let element, let associatedWith)`. We can also implement the changes to the collection by using `applying()` method\n``` Swift\nif #available(iOS 9999, *) {\n    let difference = points2.difference(from: points1)\n    let result = points1.applying(diff) ?? []\n}\n```\n\n#### 9. Uninitialized array creation\nA new private API is introduced to initialize the array without prefilling with default values. We can create an array like this,\n``` Swift\nlet randomNumbers = Array<Int>(unsafeUninitializedCapacity: 10) { buffer, initializedCount in\n    for x in 0..<10 {\n        buffer[x] = Int.random(in: 0...10)\n    }\n\n    initializedCount = 10\n}\n\n// Can also be achieved by map(), but is less efficient as it will loops over the range and calls the closure for every range item\nlet randomNumbers = (0...9).map{_ in Int.random(in:0...10)}\n```\n"
+    },
+    {
+      "path": "/blogs/working-with-codable",
+      "slug": "working-with-codable",
+      "title": "Working with Codable",
+      "desc": "Codable API allows us to leverage the compiler to generate most of code needed to encode and decode data to/from a serialized object like JSON...",
+      "content": "#### Codable\nCodable API allows us to leverage the compiler to generate most of code needed to encode and decode data to/from a serialized object like JSON (Java script object notation). \n\nCodable is a type alias for the `Encodable` and `Decodable` protocols. When we use Codable as a type or a generic constraint, it matches any type that conforms to both protocols.\n\n``` Swift\nstruct Post:Codable {\n\tvar postImage:UIImage\n\tvar postLikes:Int\n}\n```\n\nNow, we can encode and decode JSON data by using `JSONEncoder()` and `JSONDecoder()` respectively. Both encoding and decoding is performed on a `do-try-catch` block.\n``` Swift\ndo {\n    let post = Post(image: UIImage(data:data), likes: 10)\n    let encoder = JSONEncoder()\n    let data = try encoder.encode(post)\n\n    let decoder = JSONDecoder()\n    let post = try decoder.decode(Post.self, from: data)\n} catch {\n    print(\"Whoops, an error occured: \\(error)\")\n}\n```\n\nLet's consider the below JSON. If the properties name doesn't match with our `Codable` modal, we cannot encode/decode(parse) the JSON to our modal.\n``` Swift\n{\n\t\"post\":{\n\t\t\"post_image\":\"http://elsaravana.com/sample.png\"\n\t\t\"post_likes\":5\n\t}\n}\n```\n\nBoth in `JSONDecoder` and `JSONEncoder`, we can set the `.keyDecodingStrategy` or `.keyEncodingStrategy` to `.convertToSnakeCase`. Thus, `Codable` API makes it easy to serialize the JSON objects to and fro.\n``` Swift\ndo {\n    let post = Post(image: UIImage(data:data), likes: 10)\n    let encoder = JSONEncoder()\n    encoder.keyEncodingStrategy = .convertToSnakeCase\n    let data = try encoder.encode(post)\n\n    let decoder = JSONDecoder()\n    decoder.keyDecodingStrategy = .convertToSnakeCase\n    let post = try decoder.decode(Post.self, from: data)\n} catch {\n    print(\"Whoops, an error occured: \\(error)\")\n}\n```\n"
+    }
+  ]
+}

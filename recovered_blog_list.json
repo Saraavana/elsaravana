@@ -1,0 +1,282 @@
+[
+  {
+    "slug": "weak-self-in-swift",
+    "date": "September 7th, 2019",
+    "id": "Blogs_1",
+    "desc": "We will discuss about how ARC, weak self, retain cycles works in Swift...",
+    "title": "Weak self in Swift",
+    "category": "swift"
+  },
+  {
+    "slug": "resuable-containers-in-swift-ui",
+    "date": "August 30th, 2019",
+    "id": "Blogs_22",
+    "desc": "Views built using SwiftUI can be reused by segregating Views and Data Flow...",
+    "title": "Resuable containers in SwiftUI",
+    "category": "swift"
+  },
+  {
+    "slug": "presenting-views-and-popovers-in-swift-ui",
+    "date": "August 27th, 2019",
+    "id": "Blogs_20",
+    "desc": "We will discuss about how to present different views, modals, popovers...",
+    "title": "Presenting Views and Popovers in SwiftUI",
+    "category": "swift"
+  },
+  {
+    "slug": "utility-extensions-using-equatable",
+    "date": "August 17th, 2019",
+    "id": "Blogs_29",
+    "desc": "Describes various utilites functions using Equatable...",
+    "title": "Utility extensions using Equatable",
+    "category": "swift"
+  },
+  {
+    "slug": "exploring-background-tasks-framework",
+    "date": "August 10th, 2019",
+    "id": "Blogs_8",
+    "desc": "We will explore backgroundtasks framework which was introduced in iOS 13...",
+    "title": "Exploring BackgroundTasks Framework",
+    "category": "swift"
+  },
+  {
+    "slug": "passing-data-in-swift-ui",
+    "date": "July 15th, 2019",
+    "id": "Blogs_18",
+    "desc": "We will look into how we can pass data across views in SwiftUI...",
+    "title": "Passing Data in SwiftUI",
+    "category": "swift"
+  },
+  {
+    "slug": "publishers-and-subscribers-in-combine-framework",
+    "date": "July 5th, 2019",
+    "id": "Blogs_21",
+    "desc": "We will learn about basics in Combine framework...",
+    "title": "Publishers and Subscribers in Combine framework",
+    "category": "swift"
+  },
+  {
+    "slug": "what-are-state-object-binding-and-environment-object",
+    "date": "June 25th, 2019",
+    "id": "Blogs_31",
+    "desc": "We will get to know how property wrappers @State, @ObjectBinding, @EnvironmentObject works in SwiftUI...",
+    "title": "What are @State, @ObjectBinding and @EnvironmentObject",
+    "category": "swift"
+  },
+  {
+    "slug": "navigation-in-swift-ui",
+    "date": "June 20th, 2019",
+    "id": "Blogs_15",
+    "desc": "Describes about navigating from one view to another using declarative code...",
+    "title": "Navigation in SwiftUI",
+    "category": "swift"
+  },
+  {
+    "slug": "using-list-in-swift-ui",
+    "date": "June 18th, 2019",
+    "id": "Blogs_28",
+    "desc": "Describes about how to create scrolling table of fruits using static and dynamic lists...",
+    "title": "Using List in SwiftUI",
+    "category": "swift"
+  },
+  {
+    "slug": "date-picker-and-stepper-in-swift-ui",
+    "date": "June 13th, 2019",
+    "id": "Blogs_5",
+    "desc": "Declaration and definition of DatePicker and Stepper components...",
+    "title": "DatePicker and Stepper in SwiftUI",
+    "category": "swift"
+  },
+  {
+    "slug": "what-is-swift-ui",
+    "date": "June 11th, 2019",
+    "id": "Blogs_33",
+    "desc": "In WWDC 2019, Apple has introduced SwiftUI, which will replace the imperative UI used before iOS 13. SwiftUI is a user interface toolkit that require us to design apps using declarative code...",
+    "title": "What is SwiftUI",
+    "category": "swift"
+  },
+  {
+    "slug": "what-s-new-in-swift-5-1",
+    "date": "June 6th, 2019",
+    "id": "Blogs_34",
+    "desc": "Lets have a look at What's new in Swift 5.1...",
+    "title": "What's new in Swift 5.1",
+    "category": "swift"
+  },
+  {
+    "slug": "error-handling",
+    "date": "June 4th, 2019",
+    "id": "Blogs_7",
+    "desc": "Error handling is the process of responding to and recovering from error conditions in our program...",
+    "title": "Error Handling",
+    "category": "swift"
+  },
+  {
+    "slug": "working-with-codable",
+    "date": "May 30th, 2019",
+    "id": "Blogs_35",
+    "desc": "Codable API allows us to leverage the compiler to generate most of code needed to encode and decode data to/from a serialized object like JSON...",
+    "title": "Working with Codable",
+    "category": "swift"
+  },
+  {
+    "slug": "using-unknown-default-in-swift",
+    "date": "May 28th, 2019",
+    "id": "Blogs_26",
+    "desc": "In Swift 5, `@unknown default` was introducted. It is a new technique by which enums in Swift works and helps the enums...",
+    "title": "Using @unknown default in Swift",
+    "category": "swift"
+  },
+  {
+    "slug": "typealias-in-swift",
+    "date": "May 23rd, 2019",
+    "id": "Blogs_24",
+    "desc": "A typealias allows us to provide a new name(alias) for an existing data type into our program...",
+    "title": "Typealias in Swift",
+    "category": "swift"
+  },
+  {
+    "slug": "debugging-core-data",
+    "date": "May 21st, 2019",
+    "id": "Blogs_6",
+    "desc": "Core data is a framework that we can use to manage the modal layer of the application. It provides generialized and automated solutions...",
+    "title": "Debugging Core Data",
+    "category": "swift"
+  },
+  {
+    "slug": "async-tasks-using-grand-central-dispatch",
+    "date": "May 14th, 2019",
+    "id": "Blogs_3",
+    "desc": "Grand Central Dispatch(GCD) is a low-level API for managing concurrency in our application...",
+    "title": "Async tasks using Grand Central Dispatch",
+    "category": "swift"
+  },
+  {
+    "slug": "what-is-generics",
+    "date": "May 9th, 2019",
+    "id": "Blogs_32",
+    "desc": "Generic code enables you to write flexible, reusable functions and types that can work with any type, subject to requirements that you define...",
+    "title": "What is Generics",
+    "category": "swift"
+  },
+  {
+    "slug": "value-types-and-reference-types",
+    "date": "May 7th, 2019",
+    "id": "Blogs_30",
+    "desc": "In Swift, we can access data by Value types and Reference types. Reference types creates instances which acts as reference to the object...",
+    "title": "Value Types and Reference Types",
+    "category": "swift"
+  },
+  {
+    "slug": "unit-testing-on-modal-layer",
+    "date": "May 2nd, 2019",
+    "id": "Blogs_25",
+    "desc": "Unit testing is a software testing method, which by means of test cases (code) validates and tests individual set of code blocks...",
+    "title": "Unit Testing on Modal Layer",
+    "category": "swift"
+  },
+  {
+    "slug": "securing-data-in-keychain",
+    "date": "April 30th, 2019",
+    "id": "Blogs_23",
+    "desc": "Application security is very important in case of application development. Users rely on our app to share their...",
+    "title": "Securing data in Keychain",
+    "category": "swift"
+  },
+  {
+    "slug": "abstracting-third-party-dependencies-usage",
+    "date": "April 25th, 2019",
+    "id": "Blogs_2",
+    "desc": "Third party frameworks/libraries are easy to configure and helps us to boost the application development...",
+    "title": "Abstracting third party dependencies usage",
+    "category": "swift"
+  },
+  {
+    "slug": "pattern-matching-using-case-let",
+    "date": "April 23rd, 2019",
+    "id": "Blogs_19",
+    "desc": "Pattern Matching is a feature that allows us to match state/value/property to some pattern. In Swift, it is...",
+    "title": "Pattern matching using 'case let'",
+    "category": "swift"
+  },
+  {
+    "slug": "ios-password-and-otp-autofill",
+    "date": "April 18th, 2019",
+    "id": "Blogs_14",
+    "desc": "From iOS 12, Password and OTP can be suggessted in the QuickType bar, which can be filled to corresponding textfields in a single tap...",
+    "title": "iOS Password and OTP autofill",
+    "category": "swift"
+  },
+  {
+    "slug": "using-ios-strong-password",
+    "date": "April 16th, 2019",
+    "id": "Blogs_27",
+    "desc": "From iOS 12, strong password can be recommended whenever a new user sign up to iOS application. It is a simple and straight forward approach to implement this feature in your iOS application...",
+    "title": "Using iOS Strong Password",
+    "category": "swift"
+  },
+  {
+    "slug": "basics-of-unit-testing",
+    "date": "April 11th, 2019",
+    "id": "Blogs_4",
+    "desc": "Unit Testing is sometime misunderstood with Manual Testing. Manual Testing is carried out by testers/developers...",
+    "title": "Basics of Unit Testing",
+    "category": "swift"
+  },
+  {
+    "slug": "implementing-qr-code-scanner-to-ios-app",
+    "date": "April 9th, 2019",
+    "id": "Blogs_11",
+    "desc": "An QR (Quick Response) code is two dimensional barcode. It can carry information in both vertical and horizontal direction...",
+    "title": "Implementing QR code scanner to iOS app",
+    "category": "swift"
+  },
+  {
+    "slug": "how-to-add-firebase-crashlytics-to-ios-app",
+    "date": "April 6th, 2019",
+    "id": "Blogs_9",
+    "desc": "At somepoint in time all of our apps will have crashes. It would be better to prioritize and fix those crashes, if we can identify...",
+    "title": "How to add Firebase Crashlytics to iOS app",
+    "category": "swift"
+  },
+  {
+    "slug": "how-to-download-images-files-and-show-progress",
+    "date": "April 4th, 2019",
+    "id": "Blogs_10",
+    "desc": "Most of the iOS developers would have come across this situation to download images/files in their project...",
+    "title": "How to download images/files and show progress",
+    "category": "swift"
+  },
+  {
+    "slug": "optimizing-images-to-reduce-memory-consumption-part-2",
+    "date": "March 27th, 2019",
+    "id": "Blogs_17",
+    "desc": "Optimizing images to reduce memory consumption – Part 2",
+    "title": "Optimizing images to reduce memory consumption – Part 2",
+    "category": "swift"
+  },
+  {
+    "slug": "optimizing-images-to-reduce-memory-consumption-part-1",
+    "date": "March 9th, 2019",
+    "id": "Blogs_16",
+    "desc": "Optimizing images to reduce memory consumption – Part 1",
+    "title": "Optimizing images to reduce memory consumption – Part 1",
+    "category": "swift"
+  },
+  {
+    "slug": "ios-memory-footprint-profiling",
+    "date": "February 15th, 2019",
+    "id": "Blogs_13",
+    "desc": "iOS Memory Footprint Profiling",
+    "title": "iOS Memory Footprint Profiling",
+    "category": "swift"
+  },
+  {
+    "slug": "ios-memory-allocation",
+    "date": "January 24th, 2019",
+    "id": "Blogs_12",
+    "desc": "iOS Memory Allocation",
+    "title": "iOS Memory Allocation",
+    "category": "swift"
+  }
+]

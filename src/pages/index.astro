@@ -1,0 +1,24 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Hero from "../components/Hero.astro";
+import Services from "../components/Services.astro";
+import Jobs from "../components/Jobs.astro";
+import Projects from "../components/Projects.astro";
+import Blogs from "../components/Blogs.astro";
+import { projects } from "../data/projects";
+
+const blogPosts = (await getCollection("blog", ({ data }) => !data.draft))
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+  .slice(0, 3);
+
+const featuredProjects = projects.filter((project) => project.featured);
+---
+
+<BaseLayout title="Home" description="Portfolio home page for Saravana.">
+  <Hero />
+  <Services />
+  <Jobs />
+  <Projects projects={featuredProjects} title="featured projects" showLink />
+  <Blogs posts={blogPosts} title="latest articles" showLink />
+</BaseLayout>

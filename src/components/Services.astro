@@ -1,0 +1,19 @@
+---
+import Title from "./Title.astro";
+import Icon from "./Icon.astro";
+import { services } from "../data/services";
+---
+
+<section class="section bg-grey">
+  <Title title="services" />
+  <div class="section-center services-center">
+    {services.map((service) => (
+      <article class="service">
+        <Icon name={service.icon} className="service-icon" />
+        <h4>{service.title}</h4>
+        <div class="underline"></div>
+        <p>{service.text}</p>
+      </article>
+    ))}
+  </div>
+</section>

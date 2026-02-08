@@ -1,0 +1,17 @@
+---
+import { pageLinks } from "../data/navigation";
+
+interface Props {
+  className?: string;
+}
+
+const { className = "" } = Astro.props;
+---
+
+<ul class={`page-links ${className}`.trim()}>
+  {pageLinks.map((link) => (
+    <li>
+      <a href={link.url}>{link.text}</a>
+    </li>
+  ))}
+</ul>

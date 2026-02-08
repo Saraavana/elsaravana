@@ -1,0 +1,66 @@
+---
+import Title from "./Title.astro";
+import Icon from "./Icon.astro";
+import type { Project } from "../data/projects";
+
+interface Props {
+  projects: Project[];
+  title: string;
+  showLink?: boolean;
+}
+
+const { projects, title, showLink = false } = Astro.props;
+---
+
+<section>
+  <Title title={title} />
+
+  <div class="section-center projects-center">
+    {projects.length > 0 ? (
+      projects.map((project) => (
+        <article class="project">
+          <div class="project-img">
+            <img
+              src={project.image.src}
+              srcset={project.image.srcSet}
+              sizes={project.image.sizes}
+              alt={project.title}
+              loading="lazy"
+            />
+          </div>
+          <div class="project-info">
+            <h3>{project.title}</h3>
+            <p class="project-desc">{project.description}</p>
+            {project.stack.length > 0 && (
+              <div class="project-stack">
+                {project.stack.map((item) => (
+                  <span>{item}</span>
+                ))}
+              </div>
+            )}
+            <div class="project-links">
+              {project.github && (
+                <a href={project.github} target="_blank" rel="noreferrer" aria-label="GitHub repository">
+                  <Icon name="github" className="project-icon" />
+                </a>
+              )}
+              {project.url && (
+                <a href={project.url} target="_blank" rel="noreferrer" aria-label="Project URL">
+                  <Icon name="external" className="project-icon" />
+                </a>
+              )}
+            </div>
+          </div>
+        </article>
+      ))
+    ) : (
+      <p class="empty-state">No projects found.</p>
+    )}
+  </div>
+
+  {showLink && (
+    <a href="/projects/" class="btn center-btn">
+      projects
+    </a>
+  )}
+</section>

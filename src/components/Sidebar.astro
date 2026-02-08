@@ -1,0 +1,15 @@
+---
+import Icon from "./Icon.astro";
+import PageLinks from "./PageLinks.astro";
+import SocialLinks from "./SocialLinks.astro";
+---
+
+<aside class="sidebar" data-sidebar>
+  <button class="close-btn" aria-label="Close menu" data-sidebar-close>
+    <Icon name="close" className="icon-md" />
+  </button>
+  <div class="side-container">
+    <PageLinks className="sidebar-links" />
+    <SocialLinks className="sidebar-icons" />
+  </div>
+</aside>

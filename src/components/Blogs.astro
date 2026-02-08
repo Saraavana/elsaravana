@@ -1,0 +1,44 @@
+---
+import type { CollectionEntry } from "astro:content";
+import Title from "./Title.astro";
+import { formatDate } from "../utils/format-date";
+
+interface Props {
+  posts: CollectionEntry<"blog">[];
+  title: string;
+  showLink?: boolean;
+}
+
+const { posts, title, showLink = false } = Astro.props;
+---
+
+<section class="section">
+  <Title title={title} />
+
+  <div class="section-center blogs-center">
+    {posts.length > 0 ? (
+      posts.map((post) => (
+        <a href={`/blog/${post.slug}/`} class="blog">
+          <article>
+            <div class="blog-card">
+              <h4>{post.data.title}</h4>
+              <p>{post.data.description}</p>
+              <div class="blog-footer">
+                <p>{post.data.category}</p>
+                <p>{formatDate(post.data.date)}</p>
+              </div>
+            </div>
+          </article>
+        </a>
+      ))
+    ) : (
+      <p class="empty-state">No blog posts found.</p>
+    )}
+  </div>
+
+  {showLink && (
+    <a href="/blog/" class="btn center-btn">
+      blog
+    </a>
+  )}
+</section>

@@ -1,0 +1,15 @@
+---
+import PageLinks from "./PageLinks.astro";
+import Icon from "./Icon.astro";
+---
+
+<nav class="navbar">
+  <div class="nav-center">
+    <div class="nav-header">
+      <button type="button" class="toggle-btn" aria-label="Open menu" data-sidebar-open>
+        <Icon name="menu" className="icon-sm" />
+      </button>
+    </div>
+    <PageLinks className="nav-links" />
+  </div>
+</nav>

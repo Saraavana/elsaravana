@@ -1,0 +1,214 @@
+[
+  {
+    "id": "Projects_8",
+    "url": "https://slashdr.com",
+    "github": null,
+    "description": "Slashdr is an iPad app, an Electronic Health Record (EHR) product conceptualised by and for doctors. 80% of healthcare is delivered in primary and secondary health care levels. Slashdr addresses the problem faced by these levels by understanding and configuring to their clinical problems. Assists physician by adapting to their individual process using a fluid workflow \n",
+    "title": "Slashdr",
+    "image": {
+      "childImageSharp": {
+        "fluid": {
+          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAADCElEQVQoz0WT62sUVxjG95/ph2IhX6pSejExaBWkraUgiBWhYFu0xmstVNPEesFYaipqNdoYYyxkm5ZkU9rsRdNqq9FcRYKKQcqaZGd2dnZmZ3Yue5n9+c5G6IGHc87L4TnP814ii9kcSi6PqufJ5k00wyRnFNBNC71gkS/Y5Ewb13O5PZtm2a4+GlqucThlcHYavh+vcOp+wHfjAZ0TVSJetYbjl3FKFbxKVRBQCmqUa9RRAfxqQLimZmZ4veE1Nry7hlj/VZ48GOfh5BjT927xaGZMXgREBod/Z2x8grv3J2SfrCM835uYFEwtYXKa23fG6O7t45WG5TSu/4ATJ4/T09sjsV5+7OriUvcVPBEV2XfgKxayBhlFZTGzhIWMgqrpaJKKjJrFtH2ivw7Ssms3Wz7cxKcfb+NoRycdP5xlaHiQgd8G+GMkQaUqltva2oVME1tQEri+j1uuYEsgvBf9CqHh5OjffHvoEOf37uHC/n10Xb3OGVF1+eI5LnWdI9p/XV7ViLS3H0HTjTqBWw4ouj4FgeGUhayKYXuUJJepG6N81rKfV5s/YuV7W+mJjRK7NUX/yD/8krhDNHGXvod+qLCNnFTXKQW4Isl2XEzHIy82Q3Vm0cWTv+PxOLtbT7K+NcqqvZfpnvb4+TFcmw0YeAbRORiaE8LWw18zP/+c4ktCq+hgCIluedheBdX0saXUCVG4c+cO3nnzDdY0NVHUFWquhaUtShtYArveCZH2tm9QFUUIa3jlKkXHwXRFYbFUt6wX3Hp+U5LDz3d8wYq3VtO87n0pllZ3o2Q1dOldQ/pWuo3IwS8PSlGydYWOWPzfckkUlslbDmX5OZFK8sn27Sx/u5HGtetQVBVfCqhpGgUZANd1lxSe7uxkKDZM8uYo8dQNRhJJ/gwRT8r9ppwTxEZS/HRlgI5TZ1jbtJGNG7aga3lKnk86nUYVctt+aTkct3lR+Fz6L9wX1BAai9kQOYkpPHmaYe4/n3//mmVb8x4ObD5Gen6BrKthyWjqMraG2PZk4l4Aly0og05OYroAAAAASUVORK5CYII=",
+          "aspectRatio": 1.680672268907563,
+          "src": "/static/2ff66eacc07329178a02245c2d07406b/ee604/ce6d692754dcd77473ed078977df0e23.png",
+          "srcSet": "/static/2ff66eacc07329178a02245c2d07406b/69585/ce6d692754dcd77473ed078977df0e23.png 200w,\n/static/2ff66eacc07329178a02245c2d07406b/497c6/ce6d692754dcd77473ed078977df0e23.png 400w,\n/static/2ff66eacc07329178a02245c2d07406b/ee604/ce6d692754dcd77473ed078977df0e23.png 800w,\n/static/2ff66eacc07329178a02245c2d07406b/f3583/ce6d692754dcd77473ed078977df0e23.png 1200w,\n/static/2ff66eacc07329178a02245c2d07406b/e7b05/ce6d692754dcd77473ed078977df0e23.png 1432w",
+          "sizes": "(max-width: 800px) 100vw, 800px"
+        }
+      }
+    },
+    "stack": [
+      {
+        "id": 20,
+        "title": "swift"
+      }
+    ]
+  },
+  {
+    "id": "Projects_7",
+    "url": "https://apple.co/2IXScgR",
+    "github": null,
+    "description": "ShiftPixy(iOS app) is a platform, that serves as a all-in-one workforce management for employers (business owners) who rely on contingent employees. Part-time workers(shifters) receive valuable benefits(health insurance, workers’ compensation). Shifters can easily identify and apply to works in their active city. Zero paperwork. All formal procedures are authenticated within the app\n",
+    "title": "ShiftPixy",
+    "image": {
+      "childImageSharp": {
+        "fluid": {
+          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAfCAYAAADnTu3OAAAACXBIWXMAABYlAAAWJQFJUiTwAAAHQUlEQVRIx3WVa1CU1xmAvx/W/InRDB1TrO1MMtPOmKQznbQ1apnJdGrSzqhJa5upM02ddsYkowgRycRgTDWN9QaCgGAU3V2WXQW5CKKiqIN3AVnkuruwy97v3BfYK/D0fAva8qNn5p3znrPne8573ttKvzOrWaFI5c0/rWfV5t/yupjf+PO7CX3Vpnd49ZuP+Gl3Hh90K1h35Vv+XnyA9/Z+zFufbGb1jg9Zk7aFfxTsZ/35/azV5SP93FjMT7b+nvdT1vNOSgq//tXbpKxeQ8rba9mw/j1S3v0NS5qy+EV3Ph8Wf8Vwv526qhoOZO3j268PUJSXj8/i4OCZfJJvZSH9THecHWezmQrNMDQ+hsvnxTPkxz82jDxKyrW8UJfO2u6TpGvzeDZmhcTi8edrdX0VKxr2IL0pgKnKY4RmI+jdDu7rntBhNjAw6EY+/t1FNYtr01jXU8QO5RGCJgc9egPNza3o2jtpbtURDcUoq6/mBw1fyBbmkqbMJhgL4Y2NYnAN0GszYx3xERXAs5VaXr7yOWt6TrJTlc2EPUBseppIJMLksI8hlwmCfrTVWn7UkDVnYaYyFyJxJsNh4uLw9OwMIfGBPDTVFSyp35148mcacS42M//mWQHX4W6rYqKrBkVpPj9u/BrpDQGULZydjBCNx4hGo8xMzxCf94+68gKLxJNl4HZ1NojnzSN5+LiJco0KU8stihS5vNIoLHxdDorw4RwwzrSwUB7x+VldWc73BHCNAH6qPrYA+KT1LpfK1RgeNXFKAFffy5aBOcI3OcgRCItnTk1NERZPn5icnANWzQFXdxfwiQyMzT6PbHzYwoixkam+RtSaU2x9UiqAbQJYKoDi2vjM3FOn48Lp0ehz4KLanaw3lJBemk3I7iEoLhsbGyMaiTI5f/GFumq2NJ8RwNZsUhXi5uhMwocyUJbwfFBUFedZVJPK9oEa9muKCJhdWO0OjMZ+Biw2rDZHwhhtbSVbHn6HtMpQwO6LJ/l/o+raZaTG3ewavcXhSwqmvaOMjk/g8fhwCPDIyGji3OXb1/moW4P0y4I0Nu7YStk5JQWFhZw5XYJKpUroinMKdmaks2LfRjbmf85f0rZRcDSXnOO5FBUVU1JyVujHUSqUpGVmsOHox0ivJa9EkqTn8v3ly3nppSUL9hYLSVqydOHeC4t5ccmLC/Ze++EKpMNfFpO17TD/3J7N/tQcDmUUciSziH+l53FArPduO8IeIUezTnL4y3wO7s7j6BcnyRbfyXJsTxEHM/L49+4THBG6dEfbwz1ND3c13Tys0HP/Qg8Np9q4cbo9IfV5rdSfaOHRxV56btjpvengaf0AnVct6GpNdDdY6bpqpbncyKMLeqR7l7poudZL89VeWhv0Cbl7sYM75U8T0nRRx4OyLg6pzrGhOo3NVZn8oTKD9ys/44PKXWyqmp8r08nQHkcKjodEpIYJBAL4/X4C/gCDg4P4A0IXMjI+QmQ0Qs3d2+zrLCRPr+ZEdxkFBi3F/RVkdyg40VNGjklF/kMR5WflJleInKzBYFDM4wl9YmIi8VsoFMFi8Yh0GU00wpmgSPq5NCU2EkZuS50+PRW99UihcIRYNEYsNpfU8iyv53SR5GI9LoA69xBupweX3Yd1wMWouHR6VlRUPCramTjPNKMTY/PA2FyXkXucXH5yW5B1eW8OGKbdMYzPN4jL48Uv5mBwQnSw/9Z1aDJMcCz4P0ABkEGDopQCvcaELu89Az5x9RCa8hKOiUum48+NiEYjifWgfwiXw4k0FZ6zJBIOJSB9uYdoTdtKTLZSdB35g6lwFPPAFZyWFrweP6MiiF6vB7vDJgIYYGhoUKxd9BhsSJFIjNn5Luw0jtD4TT73jx2nq8ky36NmhU+j2KxmzOYBAXTictpxu1z09esZFNnhcJhFXQtxuJGsI25uWO9zx9VCXe8d8i6pKKxVoHxQz3XHXerMt+nyGbCbjKK7WPB4fSK9POi7jOg7+xkaDuDzeHA6HQJqQWrz9JLbruRU5wUKO8so1GsoNJwnv6uUXJ2SQ09OU2++ib+vA4++mYCpHbPFLvzlEB1HRN1jFdY6MJlM2GxWpL5BG5eFFVcGmqgx3aRaf43qzloumW5RJ0RrqOeevZWA24fL1seQpQ1nfwdOtxOvz4XXL9LI4cHnteOwCQtj0zMLG6BIm9lIeMGW+BPE6jbR1vaU9uZ+dA3X0d1+yNNmPXdutHOltg3d424MRjOSx+dPlJzX6xV55hM+8ib89Gwtzy4RANe4hcqS2+zadIqv/qbm4KfnOZRazt6/Ksn84xlyMqvRG11Ib61bzSuvJpP0chLJycksW7aM5aInJiUlsXLlSpYuXZqYu7q6mBgOY+ywY3pqpe+Rkb4HBsztIromNx6bT5RpBKmipgaVVoNKXYaqTINCVYqyVC3+uNWUzq9LNVoGrDbGJkSdTwYZF+L2uHE4LRj6hnjUEqG9Y5LHzeP8B8CQvfdrWe65AAAAAElFTkSuQmCC",
+          "aspectRatio": 0.6472491909385113,
+          "src": "/static/4059dfa5c9d2db87f5dbd9a7c7b6fec0/ee604/be09ec3dfeff5a4e31eafa829c54fe7d.png",
+          "srcSet": "/static/4059dfa5c9d2db87f5dbd9a7c7b6fec0/69585/be09ec3dfeff5a4e31eafa829c54fe7d.png 200w,\n/static/4059dfa5c9d2db87f5dbd9a7c7b6fec0/497c6/be09ec3dfeff5a4e31eafa829c54fe7d.png 400w,\n/static/4059dfa5c9d2db87f5dbd9a7c7b6fec0/ee604/be09ec3dfeff5a4e31eafa829c54fe7d.png 800w,\n/static/4059dfa5c9d2db87f5dbd9a7c7b6fec0/b912f/be09ec3dfeff5a4e31eafa829c54fe7d.png 806w",
+          "sizes": "(max-width: 800px) 100vw, 800px"
+        }
+      }
+    },
+    "stack": [
+      {
+        "id": 18,
+        "title": "swift"
+      },
+      {
+        "id": 19,
+        "title": "graphql"
+      }
+    ]
+  },
+  {
+    "id": "Projects_6",
+    "url": "https://apple.co/2kilxVo",
+    "github": null,
+    "description": "StormIt is an app that allows one to curate their thoughts and share them as a Tweetstorm(threads) on twitter. One can compose, manage, save as draft, preview tweetstorm before publishing. PRO features include Control Tweet Breaks, respond to tweet, Switch twitter account, customise storm style",
+    "title": "StormIt - Tweetstorm on Twitter",
+    "image": {
+      "childImageSharp": {
+        "fluid": {
+          "base64": "data:image/png;base64,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",
+          "aspectRatio": 0.7194244604316546,
+          "src": "/static/9f5a9ebea2430670069537cca27c7982/ee604/ebbdea29dbda41b5e3d5a6d67449eaf9.png",
+          "srcSet": "/static/9f5a9ebea2430670069537cca27c7982/69585/ebbdea29dbda41b5e3d5a6d67449eaf9.png 200w,\n/static/9f5a9ebea2430670069537cca27c7982/497c6/ebbdea29dbda41b5e3d5a6d67449eaf9.png 400w,\n/static/9f5a9ebea2430670069537cca27c7982/ee604/ebbdea29dbda41b5e3d5a6d67449eaf9.png 800w,\n/static/9f5a9ebea2430670069537cca27c7982/a7cbc/ebbdea29dbda41b5e3d5a6d67449eaf9.png 830w",
+          "sizes": "(max-width: 800px) 100vw, 800px"
+        }
+      }
+    },
+    "stack": [
+      {
+        "id": 17,
+        "title": "swift"
+      }
+    ]
+  },
+  {
+    "id": "Projects_5",
+    "url": null,
+    "github": null,
+    "description": "An iOS app that provides corresponding survey for the product being liked. It is easy to engage to shoppers using the-like-machine. Shoppers push like button and share their approval to local community. Like-Machine shows total likes for a product. Survey shown to shoppers after their like; that are motivated by incentives. Insights are used to support sales, marketing initiatives at local and national level\n",
+    "title": "The Like Machine",
+    "image": {
+      "childImageSharp": {
+        "fluid": {
+          "base64": "data:image/png;base64,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",
+          "aspectRatio": 0.5681818181818182,
+          "src": "/static/b7adc0eb3ee9d92757124beac6b70a54/63919/d637923ebd662cfc857e99ad7a3aee86.png",
+          "srcSet": "/static/b7adc0eb3ee9d92757124beac6b70a54/69585/d637923ebd662cfc857e99ad7a3aee86.png 200w,\n/static/b7adc0eb3ee9d92757124beac6b70a54/497c6/d637923ebd662cfc857e99ad7a3aee86.png 400w,\n/static/b7adc0eb3ee9d92757124beac6b70a54/63919/d637923ebd662cfc857e99ad7a3aee86.png 684w",
+          "sizes": "(max-width: 684px) 100vw, 684px"
+        }
+      }
+    },
+    "stack": [
+      {
+        "id": 16,
+        "title": "swift"
+      }
+    ]
+  },
+  {
+    "id": "Projects_4",
+    "url": null,
+    "github": "https://github.com/Saraavana/Greenday",
+    "description": "Greenday is an iOS app that is used to organise domestic and commercial services in Dublin, Ireland. Drainage services, plumbing, electricity services, liquid waste management, grease traps and sewer repair are included. Users can document the services provided like cost, date etc., also can access their invoices and reports related to the services",
+    "title": "Greenday",
+    "image": {
+      "childImageSharp": {
+        "fluid": {
+          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAABYlAAAWJQFJUiTwAAADzUlEQVQ4y42UfUyVVRzHb1stW1tt/hd/yerqSkNnYWXoilVjMCFXEpiiA8ykF6ZcLhe4L8QFFEcgJPkSRAi3oNbmJpT4VohSaKZFa7bmpkSMd4Xn8gDPvc/5dJ77oNgYq7N9d16e53zO7+0cywJvLxZPLwt2D3Jv8RD3y/kDhT1YvANYXFLuPh4p76FfCTJfS7BVYnk8kXtWJmPZ26myR2r/RZXKrgkqL0xS9ZNG6Q9TuNpV3FLlP6oMqQFGpjQGVI3+SY0/hxW6rvVxS5kgtaSBhbF2FiXYsNw+JRgA/bYRAT9oYyBUYxJa6h2f5MT1YS4PjHGh7xYtv/1Fc+fvtJzrpr7Rh8ftxGHPNoCCY5cFcR/qrK8SbD4YJFCRQfCtp9BeDyNw9ACaQdSnjWONwUw/G4KmnHQcyfHY890m8OglwRvVOgmVsNaroRcmITaGo8c8iO7bE9p0+JRGWg3YmuDQd9DWDXVndVLrYVd0HIWvrsbm+sAE+joFYZmCJTnwSpm0YUckRFrQn5NqLA4B39yvEZEHUV6B1SYI3yVYtFMnXO5JfSaO4teeJ8s5A2y9orOmeJp1FdO82xBAK00jsHUpgdSlBI9/FgJu+yTAswUQs1cQWyZYWyRYka+z3CO/RW+gaOPL2PI9ZlJa+7qIac9lXYeb9K4Kvvl0gjqnn30ZCpdOGbETbD2ks0pufqFE8ESOkNYKlktFuODF2Hre25KNIy/HBNZfb8N6fBPWtk2sOr2DGvc0zvUamdFTnG42E5H0kc7ibHjabYJCMKN3w8rVn5O2wUGu024CD187hqU5ivu+fokVJ9M4mK3iiJ0gL36C77/S7gAfsyHdNEERdwEjoxrYlpgzC2zsOcPCliTC21KJ6fRwRCZ2dyqUSJ1v5Q7QagCd/wYaLkfFNJORkiddlkAhf59ShxkduMLo4K+MDXWj9l9F6fsD5e+rTCsjoaQkVwfnAA23l+XLLO8sw+vYjs2eawLVX6oYKrcwWvMwNxutjPoeZaT2IQarLPgvek2gLJu5QJ1lTkhJiqdg+xpsuQUmMKD0ot44yWRvu1SH1Dmps6gyFNrYjRngPBbK2kxz1OJ1ZWHLllnWdZ3/bkHpsj4vMN3VRFFBHlm2bAMoEEJH6IE50kMy7+7Gj4MsscsScYkQ1Mi2UdhPyhi+7fmS0mIPjtx86bIQ/8NC+XDs0wl7nxDUKB+rrMnFcmyVVy8xs5rMd1LYnLIFy81xP2OKX75rpu4ez64pfPuzgq/DL58shabzCl90jHPkzBC1J8YoP9BORYWPmjof/wCFxFHFTWt+UQAAAABJRU5ErkJggg==",
+          "aspectRatio": 1.0869565217391304,
+          "src": "/static/491de1044b25ec4c07902138aa99d068/ee604/17af19e4d98703078f64524edb28051b.png",
+          "srcSet": "/static/491de1044b25ec4c07902138aa99d068/69585/17af19e4d98703078f64524edb28051b.png 200w,\n/static/491de1044b25ec4c07902138aa99d068/497c6/17af19e4d98703078f64524edb28051b.png 400w,\n/static/491de1044b25ec4c07902138aa99d068/ee604/17af19e4d98703078f64524edb28051b.png 800w,\n/static/491de1044b25ec4c07902138aa99d068/3f97c/17af19e4d98703078f64524edb28051b.png 950w",
+          "sizes": "(max-width: 800px) 100vw, 800px"
+        }
+      }
+    },
+    "stack": [
+      {
+        "id": 15,
+        "title": "swift"
+      }
+    ]
+  },
+  {
+    "id": "Projects_3",
+    "url": null,
+    "github": null,
+    "description": "BetterHQ is an iOS SDK, that is a feedback management system for the application. User can request a feature, report a bug and can also view application version logs. An effective mechanism to visualise all the feedback in a single channel and to improve the product iteratively\n",
+    "title": "BetterHQ",
+    "image": {
+      "childImageSharp": {
+        "fluid": {
+          "base64": "data:image/png;base64,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",
+          "aspectRatio": 0.5586592178770949,
+          "src": "/static/30456bba6543f06019d96611ee9e31ba/07362/d50b21e2f3112ab087e2f168093b1195.png",
+          "srcSet": "/static/30456bba6543f06019d96611ee9e31ba/69585/d50b21e2f3112ab087e2f168093b1195.png 200w,\n/static/30456bba6543f06019d96611ee9e31ba/497c6/d50b21e2f3112ab087e2f168093b1195.png 400w,\n/static/30456bba6543f06019d96611ee9e31ba/07362/d50b21e2f3112ab087e2f168093b1195.png 674w",
+          "sizes": "(max-width: 674px) 100vw, 674px"
+        }
+      }
+    },
+    "stack": [
+      {
+        "id": 12,
+        "title": "swift"
+      },
+      {
+        "id": 13,
+        "title": "rest"
+      },
+      {
+        "id": 14,
+        "title": "iOS-sdk"
+      }
+    ]
+  },
+  {
+    "id": "Projects_2",
+    "url": null,
+    "github": null,
+    "description": "An iOS app that estimates karma(carbon) score for each families and provides suggestions to keep their environment greener. Carbon emissions are calculated on every households from parameters like total members, Energy bill, water bill etc. Karma score is calculated depending on their emissions; likewise each family can view the score of their neighbourhoods to improve themselves. Score can be improved by installing less carbon emitting/carbon free products, hence recommendations are provided on each categories like energy, water, yard",
+    "title": "Dharmameter",
+    "image": {
+      "childImageSharp": {
+        "fluid": {
+          "base64": "data:image/png;base64,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",
+          "aspectRatio": 0.5602240896358543,
+          "src": "/static/ef76327f78682e8b5b3c7cf5597a42b6/7501a/0bbc400d583fa97b5e193dc2d76528bc.png",
+          "srcSet": "/static/ef76327f78682e8b5b3c7cf5597a42b6/69585/0bbc400d583fa97b5e193dc2d76528bc.png 200w,\n/static/ef76327f78682e8b5b3c7cf5597a42b6/497c6/0bbc400d583fa97b5e193dc2d76528bc.png 400w,\n/static/ef76327f78682e8b5b3c7cf5597a42b6/7501a/0bbc400d583fa97b5e193dc2d76528bc.png 678w",
+          "sizes": "(max-width: 678px) 100vw, 678px"
+        }
+      }
+    },
+    "stack": [
+      {
+        "id": 10,
+        "title": "swift"
+      },
+      {
+        "id": 11,
+        "title": "rest"
+      }
+    ]
+  },
+  {
+    "id": "Projects_1",
+    "url": null,
+    "github": null,
+    "description": "An iOS app that is used to maintain and track the distribution of FMCG(Fast Moving Consumer Goods). Also used to track the distribution of pharmaceutical under WWCVL(World Wide Commercial Ventures Limited). Provides high end analytics like costing, warehousing, sale order booking, picking, packaging, accounting to senior management and operational teams\n",
+    "title": "MyBiz",
+    "image": {
+      "childImageSharp": {
+        "fluid": {
+          "base64": "data:image/png;base64,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",
+          "aspectRatio": 0.5509641873278237,
+          "src": "/static/2b763271ed4c378d59da42535aea5f7c/2b407/6202fdfe829f7e3b5d0df437426413d3.png",
+          "srcSet": "/static/2b763271ed4c378d59da42535aea5f7c/69585/6202fdfe829f7e3b5d0df437426413d3.png 200w,\n/static/2b763271ed4c378d59da42535aea5f7c/497c6/6202fdfe829f7e3b5d0df437426413d3.png 400w,\n/static/2b763271ed4c378d59da42535aea5f7c/2b407/6202fdfe829f7e3b5d0df437426413d3.png 654w",
+          "sizes": "(max-width: 654px) 100vw, 654px"
+        }
+      }
+    },
+    "stack": [
+      {
+        "id": 1,
+        "title": "swift"
+      },
+      {
+        "id": 2,
+        "title": "rest"
+      }
+    ]
+  }
+]

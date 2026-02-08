@@ -1,0 +1,31 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Title from "../components/Title.astro";
+import { aboutContent } from "../data/about";
+---
+
+<BaseLayout title="About" description="About Saravana">
+  <section class="about-page">
+    <div class="section-center about-center">
+      <img
+        src={aboutContent.image.src}
+        srcset={aboutContent.image.srcSet}
+        sizes={aboutContent.image.sizes}
+        alt="Saravana"
+        class="about-img"
+        loading="lazy"
+      />
+      <article class="about-text">
+        <Title title={aboutContent.title} />
+        <p>{aboutContent.info}</p>
+        {aboutContent.stack.length > 0 && (
+          <div class="about-stack">
+            {aboutContent.stack.map((item) => (
+              <span>{item}</span>
+            ))}
+          </div>
+        )}
+      </article>
+    </div>
+  </section>
+</BaseLayout>

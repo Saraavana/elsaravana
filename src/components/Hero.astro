@@ -1,0 +1,29 @@
+---
+import SocialLinks from "./SocialLinks.astro";
+import { aboutContent } from "../data/about";
+---
+
+<header class="hero">
+  <div class="section-center hero-center">
+    <article class="hero-info">
+      <div>
+        <div class="underline"></div>
+        <h1>I'm Saravana</h1>
+        <h5>
+          Specialized in solving computer vision, machine learning, and data analytics problems.
+          I also build end-to-end iOS, Android, web, and AR/VR applications.
+        </h5>
+        <a href="/contact/" class="btn">contact me</a>
+        <SocialLinks />
+      </div>
+    </article>
+    <img
+      src={aboutContent.image.src}
+      srcset={aboutContent.image.srcSet}
+      sizes={aboutContent.image.sizes}
+      alt="Saravana"
+      class="hero-img"
+      loading="eager"
+    />
+  </div>
+</header>

@@ -1,0 +1,64 @@
+---
+import Title from "./Title.astro";
+import { jobs } from "../data/jobs";
+---
+
+<section class="section jobs">
+  <Title title="experience" />
+
+  {jobs.length > 0 ? (
+    <div class="jobs-center">
+      <div class="btn-container">
+        {jobs.map((job, index) => (
+          <button type="button" class={`job-btn ${index === 0 ? "active-btn" : ""}`} data-job-button={index}>
+            {job.company}
+          </button>
+        ))}
+      </div>
+
+      {jobs.map((job, index) => (
+        <article class="job-info" data-job-panel={index} hidden={index !== 0}>
+          <h3>{job.position}</h3>
+          <h4>{job.company}</h4>
+          <p class="job-date">{job.date}</p>
+          {job.descriptions.map((description) => (
+            <div class="job-desc">
+              <span class="job-icon" aria-hidden="true">
+                &gt;
+              </span>
+              <p>{description}</p>
+            </div>
+          ))}
+        </article>
+      ))}
+    </div>
+  ) : (
+    <div class="jobs-center">
+      <p class="empty-state">No jobs found.</p>
+    </div>
+  )}
+
+  <a href="/about/" class="btn center-btn">more info</a>
+</section>
+
+<script is:inline>
+  const buttons = document.querySelectorAll("[data-job-button]");
+  const panels = document.querySelectorAll("[data-job-panel]");
+
+  buttons.forEach((button) => {
+    button.addEventListener("click", () => {
+      const selected = button.getAttribute("data-job-button");
+
+      buttons.forEach((btn) => {
+        btn.classList.remove("active-btn");
+      });
+
+      panels.forEach((panel) => {
+        panel.setAttribute("hidden", "true");
+      });
+
+      button.classList.add("active-btn");
+      document.querySelector(`[data-job-panel=\"${selected}\"]`)?.removeAttribute("hidden");
+    });
+  });
+</script>
